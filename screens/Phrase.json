@@ -1,0 +1,1002 @@
+[
+    {
+      "id": 1,
+      "german": "Hallo",
+      "english": "Hello"
+    },
+    {
+      "id": 2,
+      "german": "Guten Morgen",
+      "english": "Good morning"
+    },
+    {
+      "id": 3,
+      "german": "Guten Tag",
+      "english": "Good day"
+    },
+    {
+      "id": 4,
+      "german": "Guten Abend",
+      "english": "Good evening"
+    },
+    {
+      "id": 5,
+      "german": "Auf Wiedersehen",
+      "english": "Goodbye"
+    },
+    {
+      "id": 6,
+      "german": "Ja",
+      "english": "Yes"
+    },
+    {
+      "id": 7,
+      "german": "Nein",
+      "english": "No"
+    },
+    {
+      "id": 8,
+      "german": "Bitte",
+      "english": "Please"
+    },
+    {
+      "id": 9,
+      "german": "Danke",
+      "english": "Thank you"
+    },
+    {
+      "id": 10,
+      "german": "Entschuldigung",
+      "english": "Excuse me"
+    },
+    {
+      "id": 11,
+      "german": "Wie geht es Ihnen?",
+      "english": "How are you? (formal)"
+    },
+    {
+      "id": 12,
+      "german": "Wie geht's?",
+      "english": "How are you? (informal)"
+    },
+    {
+      "id": 13,
+      "german": "Mir geht es gut",
+      "english": "I'm fine"
+    },
+    {
+      "id": 14,
+      "german": "Es tut mir leid",
+      "english": "I'm sorry"
+    },
+    {
+      "id": 15,
+      "german": "Kein Problem",
+      "english": "No problem"
+    },
+    {
+      "id": 16,
+      "german": "Wo ist...?",
+      "english": "Where is...?"
+    },
+    {
+      "id": 17,
+      "german": "Wie viel kostet das?",
+      "english": "How much does that cost?"
+    },
+    {
+      "id": 18,
+      "german": "Ich verstehe nicht",
+      "english": "I don't understand"
+    },
+    {
+      "id": 19,
+      "german": "Sprechen Sie Englisch?",
+      "english": "Do you speak English?"
+    },
+    {
+      "id": 20,
+      "german": "Ich liebe dich",
+      "english": "I love you"
+    },
+    {
+      "id": 21,
+      "german": "Hilfe!",
+      "english": "Help!"
+    },
+    {
+      "id": 22,
+      "german": "Ich brauche Hilfe",
+      "english": "I need help"
+    },
+    {
+      "id": 23,
+      "german": "Was ist das?",
+      "english": "What is that?"
+    },
+    {
+      "id": 24,
+      "german": "Was ist los?",
+      "english": "What's wrong?"
+    },
+    {
+      "id": 25,
+      "german": "Woher kommst du?",
+      "english": "Where are you from?"
+    },
+    {
+      "id": 26,
+      "german": "Wie spät ist es?",
+      "english": "What time is it?"
+    },
+    {
+      "id": 27,
+      "german": "Ich bin fertig",
+      "english": "I'm finished/done"
+    },
+    {
+      "id": 28,
+      "german": "Gute Nacht",
+      "english": "Good night"
+    },
+    {
+      "id": 29,
+      "german": "Bis bald",
+      "english": "See you soon"
+    },
+    {
+      "id": 30,
+      "german": "Ich habe Hunger",
+      "english": "I'm hungry"
+    },
+    {
+      "id": 31,
+      "german": "Ich habe Durst",
+      "english": "I'm thirsty"
+    },
+    {
+      "id": 32,
+      "german": "Ich habe Angst",
+      "english": "I'm afraid"
+    },
+    {
+      "id": 33,
+      "german": "Wie heißt du?",
+      "english": "What's your name?"
+    },
+    {
+      "id": 34,
+      "german": "Mein Name ist...",
+      "english": "My name is..."
+    },
+    {
+      "id": 35,
+      "german": "Kannst du mir helfen?",
+      "english": "Can you help me?"
+    },
+    {
+      "id": 36,
+      "german": "Was möchtest du?",
+      "english": "What do you want?"
+    },
+    {
+      "id": 37,
+      "german": "Wo ist die Toilette?",
+      "english": "Where is the restroom?"
+    },
+    {
+      "id": 38,
+      "german": "Gute Besserung",
+      "english": "Get well soon"
+    },
+    {
+      "id": 39,
+      "german": "Alles Gute zum Geburtstag",
+      "english": "Happy birthday"
+    },
+    {
+      "id": 40,
+      "german": "Herzlichen Glückwunsch",
+      "english": "Congratulations"
+    },
+    {
+      "id": 41,
+      "german": "Viel Erfolg",
+      "english": "Good luck"
+    },
+    {
+      "id": 42,
+      "german": "Ich verstehe",
+      "english": "I understand"
+    },
+    {
+      "id": 43,
+      "german": "Ich weiß nicht",
+      "english": "I don't know"
+    },
+    {
+      "id": 44,
+      "german": "Mach weiter",
+      "english": "Keep going"
+    },
+    {
+      "id": 45,
+      "german": "Woher weißt du das?",
+      "english": "How do you know that?"
+    },
+    {
+      "id": 46,
+      "german": "Kann ich bezahlen?",
+      "english": "Can I pay?"
+    },
+    {
+      "id": 47,
+      "german": "Das macht Spaß",
+      "english": "That's fun"
+    },
+    {
+      "id": 48,
+      "german": "Lass uns gehen",
+      "english": "Let's go"
+    },
+    {
+      "id": 49,
+      "german": "Lass mich in Ruhe",
+      "english": "Leave me alone"
+    },
+    {
+      "id": 50,
+      "german": "Wie alt bist du?",
+      "english": "How old are you?"
+    },
+    {
+      "id": 51,
+      "german": "Gute Idee",
+      "english": "Good idea"
+    },
+    {
+      "id": 52,
+      "german": "Sei vorsichtig",
+      "english": "Be careful"
+    },
+    {
+      "id": 53,
+      "german": "Ich bin beschäftigt",
+      "english": "I'm busy"
+    },
+    {
+      "id": 54,
+      "german": "Ich bin müde",
+      "english": "I'm tired"
+    },
+    {
+      "id": 55,
+      "german": "Ich bin glücklich",
+      "english": "I'm happy"
+    },
+    {
+      "id": 56,
+      "german": "Ich bin traurig",
+      "english": "I'm sad"
+    },
+    {
+      "id": 57,
+      "german": "Ich habe Recht",
+      "english": "I'm right"
+    },
+    {
+      "id": 58,
+      "german": "Ich habe Unrecht",
+      "english": "I'm wrong"
+    },
+    {
+      "id": 59,
+      "german": "Es ist in Ordnung",
+      "english": "It's okay"
+    },
+    {
+      "id": 60,
+      "german": "Was denkst du?",
+      "english": "What do you think?"
+    },
+    {
+      "id": 61,
+      "german": "Ich stimme zu",
+      "english": "I agree"
+    },
+    {
+      "id": 62,
+      "german": "Ich stimme nicht zu",
+      "english": "I disagree"
+    },
+    {
+      "id": 63,
+      "german": "Wo hast du das gekauft?",
+      "english": "Where did you buy that?"
+    },
+    {
+      "id": 64,
+      "german": "Wo wohnst du?",
+      "english": "Where do you live?"
+    },
+    {
+      "id": 65,
+      "german": "Wie heißt das auf Deutsch?",
+      "english": "What's that called in German?"
+    },
+    {
+      "id": 66,
+      "german": "Wann kommst du?",
+      "english": "When are you coming?"
+    },
+    {
+      "id": 67,
+      "german": "Das ist lustig",
+      "english": "That's funny"
+    },
+    {
+      "id": 68,
+      "german": "Das ist interessant",
+      "english": "That's interesting"
+    },
+    {
+      "id": 69,
+      "german": "Das ist schön",
+      "english": "That's beautiful/nice"
+    },
+    {
+      "id": 70,
+      "german": "Ich bin einverstanden",
+      "english": "I'm okay with that/I agree"
+    },
+    {
+      "id": 71,
+      "german": "Was ist passiert?",
+      "english": "What happened?"
+    },
+    {
+      "id": 72,
+      "german": "Schön dich kennenzulernen",
+      "english": "Nice to meet you"
+    },
+    {
+      "id": 73,
+      "german": "Wo arbeitest du?",
+      "english": "Where do you work?"
+    },
+    {
+      "id": 74,
+      "german": "Kannst du das wiederholen?",
+      "english": "Can you repeat that?"
+    },
+    {
+      "id": 75,
+      "german": "Das ist einfach",
+      "english": "That's easy"
+    },
+    {
+      "id": 76,
+      "german": "Das ist schwer",
+      "english": "That's difficult"
+    },
+    {
+      "id": 77,
+      "german": "Wie lange dauert es?",
+      "english": "How long does it take?"
+    },
+    {
+      "id": 78,
+      "german": "Ich komme gleich zurück",
+      "english": "I'll be right back"
+    },
+    {
+      "id": 79,
+      "german": "Das ist fantastisch",
+      "english": "That's fantastic"
+    },
+    {
+      "id": 80,
+      "german": "Das ist schrecklich",
+      "english": "That's terrible"
+    },
+    {
+      "id": 81,
+      "german": "Was ist dein Lieblingsessen?",
+      "english": "What's your favorite food?"
+    },
+    {
+      "id": 82,
+      "german": "Was ist dein Hobby?",
+      "english": "What's your hobby?"
+    },
+    {
+      "id": 83,
+      "german": "Ich bin allergisch",
+      "english": "I'm allergic"
+    },
+    {
+      "id": 84,
+      "german": "Gute Reise",
+      "english": "Have a good trip"
+    },
+    {
+      "id": 85,
+      "german": "Kannst du das erklären?",
+      "english": "Can you explain that?"
+    },
+    {
+      "id": 86,
+      "german": "Das ist komisch",
+      "english": "That's weird"
+    },
+    {
+      "id": 87,
+      "german": "Das ist unfair",
+      "english": "That's unfair"
+    },
+    {
+      "id": 88,
+      "german": "Ich bin verwirrt",
+      "english": "I'm confused"
+    },
+    {
+      "id": 89,
+      "german": "Ich habe eine Frage",
+      "english": "I have a question"
+    },
+    {
+      "id": 90,
+      "german": "Ich habe keine Ahnung",
+      "english": "I have no idea"
+    },
+    {
+      "id": 91,
+      "german": "Ich habe vergessen",
+      "english": "I forgot"
+    },
+    {
+      "id": 92,
+      "german": "Ich bin spät dran",
+      "english": "I'm running late"
+    },
+    {
+      "id": 93,
+      "german": "Das ist erstaunlich",
+      "english": "That's amazing"
+    },
+    {
+      "id": 94,
+      "german": "Das ist ärgerlich",
+      "english": "That's annoying"
+    },
+    {
+      "id": 95,
+      "german": "Das ist seltsam",
+      "english": "That's strange"
+    },
+    {
+      "id": 96,
+      "german": "Ich habe eine Idee",
+      "english": "I have an idea"
+    },
+    {
+      "id": 97,
+      "german": "Ich habe Glück",
+      "english": "I'm lucky"
+    },
+    {
+      "id": 98,
+      "german": "Ich habe Pech",
+      "english": "I'm unlucky"
+    },
+    {
+      "id": 99,
+      "german": "Das ist wichtig",
+      "english": "That's important"
+    },
+    {
+      "id": 100,
+      "german": "Das ist unwichtig",
+      "english": "That's unimportant"
+    },
+    {
+      "id": 101,
+      "german": "Was machst du?",
+      "english": "What are you doing?"
+    },
+    {
+      "id": 102,
+      "german": "Was ist dein Lieblingsfilm?",
+      "english": "What's your favorite movie?"
+    },
+    {
+      "id": 103,
+      "german": "Was ist dein Lieblingsbuch?",
+      "english": "What's your favorite book?"
+    },
+    {
+      "id": 104,
+      "german": "Was ist dein Lieblingslied?",
+      "english": "What's your favorite song?"
+    },
+    {
+      "id": 105,
+      "german": "Wo ist der nächste Bahnhof?",
+      "english": "Where is the nearest train station?"
+    },
+    {
+      "id": 106,
+      "german": "Wo ist der nächste Supermarkt?",
+      "english": "Where is the nearest supermarket?"
+    },
+    {
+      "id": 107,
+      "german": "Wo ist das nächste Restaurant?",
+      "english": "Where is the nearest restaurant?"
+    },
+    {
+      "id": 108,
+      "german": "Wo kann ich ein Taxi nehmen?",
+      "english": "Where can I get a taxi?"
+    },
+    {
+      "id": 109,
+      "german": "Ich muss gehen",
+      "english": "I have to go"
+    },
+    {
+      "id": 110,
+      "german": "Ich vermisse dich",
+      "english": "I miss you"
+    },
+    {
+      "id": 111,
+      "german": "Es war schön",
+      "english": "It was nice"
+    },
+    {
+      "id": 112,
+      "german": "Ich bin hungrig",
+      "english": "I'm hungry"
+    },
+    {
+      "id": 113,
+      "german": "Ich bin durstig",
+      "english": "I'm thirsty"
+    },
+    {
+      "id": 114,
+      "german": "Was sind deine Hobbys?",
+      "english": "What are your hobbies?"
+    },
+    {
+      "id": 115,
+      "german": "Wie ist dein Name?",
+      "english": "What is your name?"
+    },
+    {
+      "id": 116,
+      "german": "Das ist großartig",
+      "english": "That's great"
+    },
+    {
+      "id": 117,
+      "german": "Das ist gut",
+      "english": "That's good"
+    },
+    {
+      "id": 118,
+      "german": "Das ist schlecht",
+      "english": "That's bad"
+    },
+    {
+      "id": 119,
+      "german": "Das ist richtig",
+      "english": "That's correct"
+    },
+    {
+      "id": 120,
+      "german": "Das ist falsch",
+      "english": "That's wrong"
+    },
+    {
+      "id": 121,
+      "german": "Das ist einfach toll",
+      "english": "That's awesome"
+    },
+    {
+      "id": 122,
+      "german": "Ich habe eine Überraschung",
+      "english": "I have a surprise"
+    },
+    {
+      "id": 123,
+      "german": "Ich bin beschäftigt",
+      "english": "I'm occupied/busy"
+    },
+    {
+      "id": 124,
+      "german": "Es ist zu laut",
+      "english": "It's too loud"
+    },
+    {
+      "id": 125,
+      "german": "Es ist zu leise",
+      "english": "It's too quiet"
+    },
+    {
+      "id": 126,
+      "german": "Das ist perfekt",
+      "english": "That's perfect"
+    },
+    {
+      "id": 127,
+      "german": "Das ist in Ordnung",
+      "english": "That's fine"
+    },
+    {
+      "id": 128,
+      "german": "Das ist seltsam",
+      "english": "That's weird"
+    },
+    {
+      "id": 129,
+      "german": "Das ist inakzeptabel",
+      "english": "That's unacceptable"
+    },
+    {
+      "id": 130,
+      "german": "Ich bin hier",
+      "english": "I'm here"
+    },
+    {
+      "id": 131,
+      "german": "Wo ist die nächste Bushaltestelle?",
+      "english": "Where is the nearest bus stop?"
+    },
+    {
+      "id": 132,
+      "german": "Wo ist die nächste U",
+      "english": "Bahn"
+    },
+    {
+      "id": 133,
+      "german": "Was ist heute los?",
+      "english": "What's going on today?"
+    },
+    {
+      "id": 134,
+      "german": "Was machst du gerne?",
+      "english": "What do you like to do?"
+    },
+    {
+      "id": 135,
+      "german": "Was ist dein Lieblingssport?",
+      "english": "What's your favorite sport?"
+    },
+    {
+      "id": 136,
+      "german": "Was ist deine Lieblingsfarbe?",
+      "english": "What's your favorite color?"
+    },
+    {
+      "id": 137,
+      "german": "Was ist dein Lieblingsurlaubsziel?",
+      "english": "What's your favorite vacation destination?"
+    },
+    {
+      "id": 138,
+      "german": "Was sind deine Pläne für heute?",
+      "english": "What are your plans for today?"
+    },
+    {
+      "id": 139,
+      "german": "Ich bin müde",
+      "english": "I'm tired"
+    },
+    {
+      "id": 140,
+      "german": "Ich bin gestresst",
+      "english": "I'm stressed"
+    },
+    {
+      "id": 141,
+      "german": "Ich bin aufgeregt",
+      "english": "I'm excited"
+    },
+    {
+      "id": 142,
+      "german": "Ich bin gelangweilt",
+      "english": "I'm bored"
+    },
+    {
+      "id": 143,
+      "german": "Ich bin glücklich",
+      "english": "I'm happy"
+    },
+    {
+      "id": 144,
+      "german": "Ich bin traurig",
+      "english": "I'm sad"
+    },
+    {
+      "id": 145,
+      "german": "Ich bin wütend",
+      "english": "I'm angry"
+    },
+    {
+      "id": 146,
+      "german": "Es tut weh",
+      "english": "It hurts"
+    },
+    {
+      "id": 147,
+      "german": "Ich habe Bauchschmerzen",
+      "english": "I have a stomach ache"
+    },
+    {
+      "id": 148,
+      "german": "Ich habe Kopfschmerzen",
+      "english": "I have a headache"
+    },
+    {
+      "id": 149,
+      "german": "Ich habe Fieber",
+      "english": "I have a fever"
+    },
+    {
+      "id": 150,
+      "german": "Es ist kalt",
+      "english": "It's cold"
+    },
+    {
+      "id": 151,
+      "german": "Es ist heiß",
+      "english": "It's hot"
+    },
+    {
+      "id": 152,
+      "german": "Es ist sonnig",
+      "english": "It's sunny"
+    },
+    {
+      "id": 153,
+      "german": "Es regnet",
+      "english": "It's raining"
+    },
+    {
+      "id": 154,
+      "german": "Es schneit",
+      "english": "It's snowing"
+    },
+    {
+      "id": 155,
+      "german": "Ich mag das",
+      "english": "I like that"
+    },
+    {
+      "id": 156,
+      "german": "Ich mag das nicht",
+      "english": "I don't like that"
+    },
+    {
+      "id": 157,
+      "german": "Es gefällt mir",
+      "english": "I like it"
+    },
+    {
+      "id": 158,
+      "german": "Es gefällt mir nicht",
+      "english": "I don't like it"
+    },
+    {
+      "id": 159,
+      "german": "Das ist erstaunlich",
+      "english": "That's astonishing"
+    },
+    {
+      "id": 160,
+      "german": "Das ist beeindruckend",
+      "english": "That's impressive"
+    },
+    {
+      "id": 161,
+      "german": "Das ist beeindruckend",
+      "english": "That's impressive"
+    },
+    {
+      "id": 162,
+      "german": "Das ist bedauerlich",
+      "english": "That's regrettable"
+    },
+    {
+      "id": 163,
+      "german": "Was ist dein Lieblingstier?",
+      "english": "What's your favorite animal?"
+    },
+    {
+      "id": 164,
+      "german": "Was ist dein Lieblingsbuch?",
+      "english": "What's your favorite book?"
+    },
+    {
+      "id": 165,
+      "german": "Was ist dein Lieblingsessen?",
+      "english": "What's your favorite food?"
+    },
+    {
+      "id": 166,
+      "german": "Was ist dein Lieblingslied?",
+      "english": "What's your favorite song?"
+    },
+    {
+      "id": 167,
+      "german": "Ich bin neugierig",
+      "english": "I'm curious"
+    },
+    {
+      "id": 168,
+      "german": "Ich bin zufrieden",
+      "english": "I'm satisfied"
+    },
+    {
+      "id": 169,
+      "german": "Ich bin überrascht",
+      "english": "I'm surprised"
+    },
+    {
+      "id": 170,
+      "german": "Ich bin begeistert",
+      "english": "I'm thrilled"
+    },
+    {
+      "id": 171,
+      "german": "Ich bin verärgert",
+      "english": "I'm annoyed"
+    },
+    {
+      "id": 172,
+      "german": "Ich bin enttäuscht",
+      "english": "I'm disappointed"
+    },
+    {
+      "id": 173,
+      "german": "Ich bin nervös",
+      "english": "I'm nervous"
+    },
+    {
+      "id": 174,
+      "german": "Ich bin erleichtert",
+      "english": "I'm relieved"
+    },
+    {
+      "id": 175,
+      "german": "Was ist los mit dir?",
+      "english": "What's wrong with you?"
+    },
+    {
+      "id": 176,
+      "german": "Was ist los mit mir?",
+      "english": "What's wrong with me?"
+    },
+    {
+      "id": 177,
+      "german": "Was für ein Zufall!",
+      "english": "What a coincidence!"
+    },
+    {
+      "id": 178,
+      "german": "Das ist unglaublich",
+      "english": "That's unbelievable"
+    },
+    {
+      "id": 179,
+      "german": "Das ist atemberaubend",
+      "english": "That's breathtaking"
+    },
+    {
+      "id": 180,
+      "german": "Ich bin ein Fremder",
+      "english": "I'm a stranger"
+    },
+    {
+      "id": 181,
+      "german": "Wo ist der nächste Geldautomat?",
+      "english": "Where is the nearest ATM?"
+    },
+    {
+      "id": 182,
+      "german": "Wo ist das nächste Krankenhaus?",
+      "english": "Where is the nearest hospital?"
+    },
+    {
+      "id": 183,
+      "german": "Wo ist das nächste Hotel?",
+      "english": "Where is the nearest hotel?"
+    },
+    {
+      "id": 184,
+      "german": "Wo ist der nächste Flughafen?",
+      "english": "Where is the nearest airport?"
+    },
+    {
+      "id": 185,
+      "german": "Was sind deine Stärken?",
+      "english": "What are your strengths?"
+    },
+    {
+      "id": 186,
+      "german": "Was sind deine Schwächen?",
+      "english": "What are your weaknesses?"
+    },
+    {
+      "id": 187,
+      "german": "Was ist dein Ziel?",
+      "english": "What's your goal?"
+    },
+    {
+      "id": 188,
+      "german": "Was ist dein Plan?",
+      "english": "What's your plan?"
+    },
+    {
+      "id": 189,
+      "german": "Wie lange bleibst du?",
+      "english": "How long are you staying?"
+    },
+    {
+      "id": 190,
+      "german": "Was ist dein Lieblingssport?",
+      "english": "What's your favorite sport?"
+    },
+    {
+      "id": 191,
+      "german": "Was ist dein Lieblingsfilm?",
+      "english": "What's your favorite movie?"
+    },
+    {
+      "id": 192,
+      "german": "Was ist dein Lieblingslied?",
+      "english": "What's your favorite song?"
+    },
+    {
+      "id": 193,
+      "german": "Was ist dein Lieblingsplatz?",
+      "english": "What's your favorite place?"
+    },
+    {
+      "id": 194,
+      "german": "Ich kann nicht warten",
+      "english": "I can't wait"
+    },
+    {
+      "id": 195,
+      "german": "Was machst du beruflich?",
+      "english": "What do you do for a living?"
+    },
+    {
+      "id": 196,
+      "german": "Was ist dein Lieblingsgetränk?",
+      "english": "What's your favorite drink?"
+    },
+    {
+      "id": 197,
+      "german": "Was ist deine Meinung?",
+      "english": "What's your opinion?"
+    },
+    {
+      "id": 198,
+      "german": "Ich bin beschäftigt",
+      "english": "I'm occupied/busy"
+    },
+    {
+      "id": 199,
+      "german": "Ich habe eine Verabredung",
+      "english": "I have an appointment"
+    },
+    {
+      "id": 200,
+      "german": "Ich habe keine Zeit",
+      "english": "I don't have time"
+    }
+]
