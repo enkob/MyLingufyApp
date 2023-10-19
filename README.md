@@ -18,14 +18,14 @@ Welcome to the German Language Learning App repository! This project is designed
 
 ## Installation
 
-1. Clone this repository: `git clone https://github.com/yourusername/yourapp.git`
+1. Clone this repository: `git clone https://github.com/enkob/MyLingufyApp.git`
 2. Navigate to the project directory: `cd yourapp`
 3. Install the required dependencies (if any): `npm install`
 
 ## Usage
 
 - To run the app locally, follow the installation instructions mentioned above.
-- You can also access the live version of the app at [Your App URL](https://yourappurl.com).
+- You can also access the live version of the app at https://github.com/enkob/MyLingufyApp.git`.
 
 ## Features
 
@@ -51,6 +51,6 @@ This project is licensed under the [MIT License](LICENSE), which means you are f
 
 ## Contact
 
-If you have any questions, feedback, or suggestions, please feel free to contact us at your@email.com.
+If you have any questions, feedback, or suggestions, please feel free to contact us at enis.bilaloglu@hotmail.com.
 
 Happy learning!
