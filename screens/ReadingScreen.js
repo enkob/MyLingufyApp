@@ -158,34 +158,47 @@ const styles = StyleSheet.create({
   },
 
   scrollContainer: {
+    flexGrow: 1,
+    flexDirection: 'row',
+    flexWrap: 'wrap',
+    justifyContent: 'center',
     alignItems: 'center',
-    paddingTop: 20,
-    paddingBottom: 40,
+    backgroundColor: '#EEF5DB',
+    justifyContent: 'space-between',
+
   },
   tab: {
-    width: '100%',
+    width: '40%',
+    height: '15%',
     backgroundColor: '#FFFFFF',
     borderRadius: 10,
     marginBottom: 20,
-    padding: 20,
+
     alignItems: 'center',
     justifyContent: 'center',
     elevation: 2,
     borderWidth: 1,
-    borderColor:'#4f6367'
+    borderColor:'#4f6367',
+    marginHorizontal: 18,
+
+    flexDirection: 'row',
+    flexWrap: 'wrap',
+    justifyContent: 'center',
+    alignItems: 'center',
   },
   header: {
-    fontSize: 24,
+    fontSize: 20,
     fontWeight: 'bold',
-    marginBottom: 10,
+
   },
   difficulty: {
-    fontSize: 16,
+    fontSize: 13,
     color: '#666666',
-    marginBottom: 10,
+    marginBottom: 5,
+    textAlign: 'center',
   },
   summary: {
-    fontSize: 16,
+    fontSize: 12,
     fontStyle: 'italic',
     color: '#666666',
     textAlign: 'center',

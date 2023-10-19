@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { View, Text, ScrollView, TouchableOpacity, StyleSheet,BackHandler} from 'react-native';
+import { View, Text, ScrollView, TouchableOpacity, StyleSheet,BackHandler, Modal, Button} from 'react-native';
 import { Ionicons } from '@expo/vector-icons';
 import { useNavigation, useRoute, useFocusEffect } from '@react-navigation/native';
 import { Audio } from 'expo-av';
@@ -17,25 +17,40 @@ const StoryPage = () => {
 
   const [sound, setSound] = useState(null);
   const [isPlaying, setIsPlaying] = useState(false);
-  const [playbackPosition, setPlaybackPosition] = useState(0);
-  const [volume, setVolume] = useState(1.0);
+
+  const [confirmQuitVisible, setConfirmQuitVisible] = useState(false);
+
+
+
+  const handleQuitButtonPress = () => {
+    setConfirmQuitVisible(true);
+  };
+  const stopAudioAndQuit = async () => {
+    await pauseAudio(); // Pause the audio before quitting
+    handleConfirmQuit(true); // Navigate back after pausing the audio
+  };
+  const handleConfirmQuit = (confirmed) => {
+    setConfirmQuitVisible(false);
+    if (confirmed) {
+      navigation.navigate('Main');
+    }
+  };
+
+  const onBackPress = () => {
+    handleQuitButtonPress(); // Show the confirmation modal
+    return true; // Prevent default back behavior
+  };
+
   useFocusEffect(
     React.useCallback(() => {
-      const onBackPress = () => {
-        
-        return true;
-      };
-  
-      BackHandler.addEventListener(
-        'hardwareBackPress', onBackPress
-      );
-  
+      BackHandler.addEventListener('hardwareBackPress', onBackPress);
+
       return () =>
-        BackHandler.removeEventListener(
-          'hardwareBackPress', onBackPress
-        );
+        BackHandler.removeEventListener('hardwareBackPress', onBackPress);
     }, [])
   );
+
+
   // Load the audio file when the component mounts
   useFocusEffect(
     React.useCallback(() => {
@@ -53,7 +68,15 @@ const StoryPage = () => {
   }, []);
   const audioFiles = {
     0: require('./article0.mp3'),
+    1: require('./article1.mp3'),
     2: require('./article2.mp3'),
+    3: require('./article3.mp3'),
+    4: require('./article4.mp3'),
+    5: require('./article5.mp3'),
+    6: require('./article6.mp3'),
+    7: require('./article7.mp3'),
+    8: require('./article8.mp3'),
+    9: require('./article9.mp3'),
   };
   const loadAudio = async () => {
     try {
@@ -185,12 +208,44 @@ const StoryPage = () => {
           />
         </TouchableOpacity>
       </View>
+      <Modal visible={confirmQuitVisible} animationType="fade" transparent>
+        <View style={styles.modalContainer}>
+          <View style={styles.modalContent}>
+            <Text style={styles.modalTitle}>Are you sure?</Text>
+            <View style={styles.modalButtonContainer}>
+              <Button title="Yes" onPress={stopAudioAndQuit} />
+              <Button title="No" onPress={() => handleConfirmQuit(false)} />
+            </View>
+          </View>
+        </View>
+      </Modal>
     </View>
   );
 };
 const styles = StyleSheet.create({
   container: {
     flex: 1,
+  },
+  modalContainer: {
+    flex: 1,
+    justifyContent: 'center',
+    alignItems: 'center',
+    backgroundColor: 'rgba(0, 0, 0, 0.5)',
+  },
+  modalContent: {
+    backgroundColor: 'white',
+    borderRadius: 10,
+    padding: 20,
+  },
+  modalTitle: {
+    fontSize: 18,
+    fontWeight: 'bold',
+    marginBottom: 10,
+  },
+  modalButtonContainer: {
+    flexDirection: 'row',
+    justifyContent: 'space-around',
+    marginTop: 20,
   },
   contentContainer: {
     paddingBottom: 100,
@@ -273,7 +328,9 @@ const styles = StyleSheet.create({
     alignItems: 'center',
 
   },
-
+  volumeSlider: {
+    flex: 1,
+  },
   seekBar: {
     flex: 1,
   },

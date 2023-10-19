@@ -64,69 +64,150 @@ const FillBlanksTest = ({ route, navigation }) => {
   function calculateIDs(selectedLevel) {
     let EndingID, StartingID;
   
-    if (selectedLevel >= 1 && selectedLevel <= 3) {
-      EndingID = selectedLevel * 30;
-      StartingID = EndingID - 29;
-    } else if (selectedLevel === 4) {
-      EndingID = 124;
+    if (selectedLevel >= 1 && selectedLevel <= 9) {
+      EndingID = selectedLevel * 10;
+      StartingID = EndingID - 9;
+    } else if (selectedLevel === 11) {
+      EndingID = 101;
       StartingID = 91;
-    } else if (selectedLevel === 5) {
-      EndingID = 149;
-      StartingID = 125;
-    } else if (selectedLevel === 6) {
-      EndingID = 168;
+    } else if (selectedLevel === 12) {
+      EndingID = 112;
+      StartingID = 102;
+    } else if (selectedLevel === 13) {
+      EndingID = 124;
+      StartingID = 113;
+    } else if (selectedLevel === 14) {
+      EndingID = 160;
       StartingID = 150;
-    } else if (selectedLevel === 7) {
+    } else if (selectedLevel === 15) {
+      EndingID = 168;
+      StartingID = 161;
+    } else if (selectedLevel === 16) {
+      EndingID = 179;
+      StartingID = 169;  
+    } else if (selectedLevel === 17) {
       EndingID = 187;
-      StartingID = 169;
-    } else if (selectedLevel === 8) {
-      EndingID = 208;
+      StartingID = 180;  
+    } else if (selectedLevel === 18) {
+      EndingID = 198;
       StartingID = 188;
-    } else if (selectedLevel === 9) {
+    } else if (selectedLevel === 19) {
+      EndingID = 208;
+      StartingID = 199;
+    } else if (selectedLevel === 20) {
       EndingID = 224;
       StartingID = 209;
-    } else if (selectedLevel === 10) {
-      EndingID = 248;
+    } else if (selectedLevel === 21) {
+      EndingID = 235;
       StartingID = 225;
-    } else if (selectedLevel === 11) {
-      EndingID = 266;
+    } else if (selectedLevel === 22) {
+      EndingID = 246;
+      StartingID = 236;
+    } else if (selectedLevel === 23) {
+      EndingID = 259;
       StartingID = 249;
-    } else if (selectedLevel === 12) {
-      EndingID = 311;
+    } else if (selectedLevel === 24) {
+      EndingID = 277;
       StartingID = 267;
-    } else if (selectedLevel === 13) {
-      EndingID = 336;
-      StartingID = 312;
-    } else if (selectedLevel === 14) {
-      EndingID = 358;
-      StartingID = 337;
-    } else if (selectedLevel === 15) {
-      EndingID = 397;
-      StartingID = 359;
-    } else if (selectedLevel === 16) {
-      EndingID = 414;
-      StartingID = 398;
-    } else if (selectedLevel === 17) {
-      EndingID = 447;
-      StartingID = 415;
-    } else if (selectedLevel >= 18 && selectedLevel <= 26) {
-      EndingID = 447 + ((selectedLevel - 17) * 33);
-      StartingID = 447 + (((selectedLevel - 17) * 33) - 32);
+    } else if (selectedLevel === 25) {
+      EndingID = 288;
+      StartingID = 278;
+    } else if (selectedLevel === 26) {
+      EndingID = 299;
+      StartingID = 289;
     } else if (selectedLevel === 27) {
-      EndingID = 746 + 24;
-      StartingID = 746;
+      EndingID = 310;
+      StartingID = 300;
     } else if (selectedLevel === 28) {
-      EndingID = 771 + 25;
-      StartingID = 771;
+      EndingID = 322;
+      StartingID = 312;
     } else if (selectedLevel === 29) {
-      EndingID = 797 + 24
-      StartingID = 797;
+      EndingID = 333;
+      StartingID = 323;
     } else if (selectedLevel === 30) {
-      EndingID = 821 + 24;
-      StartingID = 821;
-    } else if (selectedLevel >= 31 && selectedLevel <= 38) {
-      EndingID = 846 + ((selectedLevel - 30) * 30);
-      StartingID =  846 + (((selectedLevel - 30) * 30) - 29)
+      EndingID = 347;
+      StartingID = 337;
+    } else if (selectedLevel === 31) {
+      EndingID = 358;
+      StartingID = 348;
+    } else if (selectedLevel === 32) {
+      EndingID = 369;
+      StartingID = 359;
+    } else if (selectedLevel === 33) {
+      EndingID = 380;
+      StartingID = 370;
+    } else if (selectedLevel === 34) {
+      EndingID = 391;
+      StartingID = 381;
+    } else if (selectedLevel === 35) {
+      EndingID = 408;
+      StartingID = 398;
+    } else if (selectedLevel === 36) {
+      EndingID = 425;
+      StartingID = 415;
+    } else if (selectedLevel === 37) {
+      EndingID = 436;
+      StartingID = 426;
+    } else if (selectedLevel === 38) {
+      EndingID = 447;
+      StartingID = 437;
+    } else if (selectedLevel >= 39 && selectedLevel <= 55) {
+      EndingID = 447 + ((selectedLevel - 41) * 20);
+      StartingID = 447 + (((selectedLevel - 41) * 20) - 19);
+    } else if (selectedLevel === 56) {
+      EndingID = 761
+      StartingID = 746;
+    } else if (selectedLevel === 57) {
+      EndingID = 777
+      StartingID = 762;
+    } else if (selectedLevel === 58) {
+      EndingID = 793;
+      StartingID = 778;
+    } else if (selectedLevel === 59) {
+      EndingID = 809
+      StartingID = 794
+    } else if (selectedLevel === 60) {
+      EndingID = 825
+      StartingID = 810
+    } else if (selectedLevel === 61) {
+      EndingID = 831
+      StartingID = 826
+    } else if (selectedLevel === 62) {
+      EndingID = 845
+      StartingID = 835
+    } 
+
+    else if (selectedLevel === 63) {
+      EndingID = 861
+      StartingID = 856
+    } 
+    else if (selectedLevel === 64) {
+      EndingID = 877
+      StartingID = 862
+    } 
+    else if (selectedLevel === 65) {
+      EndingID = 893
+      StartingID = 878
+    } 
+    else if (selectedLevel === 66) {
+      EndingID = 909
+      StartingID = 894
+    } 
+    else if (selectedLevel === 67) {
+      EndingID = 910
+      StartingID = 925
+    }
+    else if (selectedLevel === 68) {
+      EndingID = 941
+      StartingID = 926
+    }
+    else if (selectedLevel === 69) {
+      EndingID = 942
+      StartingID = 957
+    }
+    else if (selectedLevel === 70) {
+      EndingID = 973
+      StartingID = 958
     }
   
     return {

@@ -24,8 +24,8 @@ const VocabMenu = () => {
           <Ionicons name="chevron-back" size={24} color="black" />
         </TouchableOpacity>
         <View style={styles.headerContainer}>
-          <Text style={styles.headerText}>Quiz</Text>
-          <Text style={styles.subHeaderText}>Test your knowledge!</Text>
+          <Text style={styles.headerText}>Vocab Menu</Text>
+          <Text style={styles.subHeaderText}>Chose a Topic to Practice</Text>
         </View>
       </View>
       {/* 16 boxes representing different screens */}
@@ -77,6 +77,10 @@ const VocabMenu = () => {
       <TouchableOpacity onPress={() =>  HandleVocabScreen('Body')} style={styles.box}>
         <Text style={styles.boxText}>Body</Text>
       </TouchableOpacity>
+      <TouchableOpacity onPress={() =>  HandleColorScreen()} style={styles.box}>
+        <Text style={styles.boxText}>Color</Text>
+      </TouchableOpacity>
+
 
       {/* Add more boxes for Screen 3 to Screen 16 */}
       {/* ... */}
@@ -94,8 +98,8 @@ const styles = StyleSheet.create({
         backgroundColor: '#EEF5DB',
       },
       box: {
-        width: '45%',
-        height: 100,
+        width: '30%',
+        height: 96,
         margin: 5,
         backgroundColor: '#7a9e9f',
         justifyContent: 'center',
@@ -103,7 +107,7 @@ const styles = StyleSheet.create({
         borderRadius: 10,
       },
   boxText: {
-    fontSize: 20,
+    fontSize: 16,
     color: 'white',
     borderBottomWidth: 8, // Change the underline height to 2 pixels
     borderBottomColor: '#F6F1F1', // Change the underline color to red

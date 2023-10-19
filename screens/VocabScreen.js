@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { View, Text, FlatList, StyleSheet, TouchableOpacity, Animatedi, Alert  } from 'react-native';
+import { View, Text, FlatList, StyleSheet, TouchableOpacity, Alert, TextInput  } from 'react-native';
 import { Ionicons } from '@expo/vector-icons';
 import * as Speech from 'expo-speech';
 import rijec from './rijec.json';
@@ -10,12 +10,14 @@ const BodyPartsPage = ({navigation, route }) => {
   const { data } = route.params;
   const [words, setWords] = useState(rijec);
 
-  const filteredData = rijec.filter(item => item.type === data);
 
-  useEffect(() => {
-    setWords(rijec);
-  }, []);
+  const [searchText, setSearchText] = useState('');
 
+  const filteredData = words.filter(item =>
+    item.type === data &&
+    (item.word.toLowerCase().includes(searchText.toLowerCase()) ||
+    item.explanation.toLowerCase().includes(searchText.toLowerCase()))
+  );
 
   const renderItem = ({ item, index }) => {
     const speak = () => {
@@ -49,6 +51,16 @@ const BodyPartsPage = ({navigation, route }) => {
         </View>
       </View>
       <View style={styles.ContentContainer}>
+      <View style={styles.searchContainer}>
+      <TextInput
+          style={styles.searchInput}
+          placeholder="Search..."
+          value={searchText}
+          onChangeText={text => setSearchText(text)}
+        />
+
+      </View>
+
         <FlatList
              data={filteredData}
              renderItem={renderItem}
@@ -68,6 +80,30 @@ const styles = StyleSheet.create({
         flex: 1,
         backgroundColor: '#F6F6F6',
         padding: 20,
+      },
+      searchContainer: {
+        flexDirection: 'row',
+        alignItems: 'center',
+        paddingHorizontal: 16,
+        marginBottom: 20,
+      },
+      searchInput: {
+        flex: 1,
+        borderWidth: 1,
+        borderColor: '#ccc',
+        borderRadius: 8,
+        padding: 8,
+      },
+      searchButton: {
+        marginLeft: 10,
+        backgroundColor: '#007AFF',
+        borderRadius: 8,
+        paddingHorizontal: 12,
+        paddingVertical: 8,
+      },
+      buttonText: {
+        color: 'white',
+        fontWeight: 'bold',
       },
       topNavContainer: {
         flexDirection: 'row',

@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import { View, Text, StyleSheet, TouchableOpacity, ScrollView } from 'react-native';
+import { View, Text, StyleSheet, TouchableOpacity, ScrollView, TextInput } from 'react-native';
 import { Ionicons } from '@expo/vector-icons';
 import * as Speech from 'expo-speech';
 import { useNavigation } from '@react-navigation/native';
@@ -7,7 +7,10 @@ import phrasesData from './Phrase.json';
 
 const PhrasebookScreen = () => {
   const navigation = useNavigation();
-  const [phrases, setPhrases] = useState([]);
+  const [phrases, setPhrases] = useState(phrasesData);
+
+  const [searchText, setSearchText] = useState('');
+  const [filteredPhrases, setFilteredPhrases] = useState(phrases);
   useEffect(() => {
     setPhrases(phrasesData);
   }, []);
@@ -16,7 +19,16 @@ const PhrasebookScreen = () => {
     const thingToSay = phrase.german
     Speech.speak(thingToSay, { language: 'de' });
   };
-
+  const handleSearch = (text) => {
+    setSearchText(text);
+  
+    const filteredData = phrasesData.filter((phrase) =>
+      phrase.german.toLowerCase().includes(text.toLowerCase()) ||
+      phrase.english.toLowerCase().includes(text.toLowerCase())
+    );
+  
+    setFilteredPhrases(filteredData);
+  };
   const renderPhrase = (phrase) => {
     return (
       <View key={phrase.id} style={styles.phraseContainer}>
@@ -40,7 +52,14 @@ const PhrasebookScreen = () => {
         <Text style={styles.title}>Phrase Book</Text>
         <View style={styles.placeholderView}></View>
       </View>
-      {phrases.map(renderPhrase)}
+      <View style={styles.searchContainer}>
+      <TextInput
+      style={styles.searchInput}
+      placeholder="Search..."
+      value={searchText}
+      onChangeText={handleSearch}
+    /></View>
+    {filteredPhrases.map(renderPhrase)}
     </ScrollView>
   );
 };
@@ -49,6 +68,19 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     backgroundColor: '#EEF5DB',
+  },
+  searchContainer: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    paddingHorizontal: 16,
+    marginTop: 20,
+  },
+  searchInput: {
+    flex: 1,
+    borderWidth: 1,
+    borderColor: '#ccc',
+    borderRadius: 8,
+    padding: 8,
   },
   topNavContainer: {
     flexDirection: 'row',

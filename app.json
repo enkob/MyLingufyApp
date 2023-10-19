@@ -1,15 +1,15 @@
 {
   "expo": {
-    "name": "mylingoapp",
+    "name": "Lingufy - German A1-A2",
     "slug": "mylingoapp",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/L.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/LSplash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#4f6367"
     },
     "assetBundlePatterns": [
       "**/*"
@@ -19,13 +19,13 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
+        "foregroundImage": "./assets/L.png",
+        "backgroundColor": "#4f6367"
       },
       "package": "com.enko.mylingoapp"
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/L.png"
     },
     "extra": {
       "eas": {
