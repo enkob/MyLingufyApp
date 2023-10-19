@@ -1,0 +1,604 @@
+{
+  "restaurant": {
+    "start": {
+      "prompt": "Willkommen im ChatBite-Restaurant! Wie kann ich Ihnen heute helfen?",
+      "translation": "Welcome to ChatBite Restaurant! How can I assist you today?",
+      "options": [
+        {
+          "text": "Eine Reservierung machen",
+          "trasnlationText": "Make a reservation",
+          "goto": "reservation"
+        },
+        {
+          "text": "Die Speisekarte anzeigen",
+          "trasnlationText": "View the menu",
+          "goto": "menu"
+        },
+        {
+          "text": "Nach den heutigen Spezialitäten fragen",
+          "trasnlationText": "Ask about today's specials",
+          "goto": "specials"
+        }
+      ]
+    },
+    "reservation": {
+      "prompt": "Natürlich! Für wie viele Personen möchten Sie reservieren?",
+      "translation": "Certainly! How many people will be in your party?",
+      "options": [
+        {
+          "text": "Nur ich",
+          "trasnlationText": "Just me",
+          "goto": "reservation-time"
+        },
+        {
+          "text": "Ein Paar",
+          "trasnlationText": "A couple",
+          "goto": "reservation-time"
+        },
+        {
+          "text": "Eine Gruppe",
+          "trasnlationText": "A group",
+          "goto": "reservation-time"
+        }
+      ]
+    },
+    "reservation-time": {
+      "prompt": "Großartig! Um welche Uhrzeit möchten Sie die Reservierung vornehmen?",
+      "translation": "Great! What time would you like to make the reservation for?",
+    
+      "options": [
+        {
+          "text": "Mittagessen",
+          "trasnlationText": "Lunch",
+          "goto": "confirmation"
+        },
+        {
+          "text": "Abendessen",
+          "trasnlationText": "Dinner",
+          "goto": "confirmation"
+        },
+        {
+          "text": "Ich habe es mir anders überlegt",
+          "trasnlationText": "I changed my mind",
+          "goto": "start"
+        }
+      ]
+    },
+    "confirmation": {
+      "prompt": "Vielen Dank für die Bestätigung. Ihre Reservierung ist gebucht. Möchten Sie eine Bestätigungs-E-Mail erhalten?",
+      "translation": "Thank you for confirming. Your reservation is booked. Would you like a confirmation email?",
+      "options": [
+        {
+          "text": "Ja, bitte senden Sie mir eine E-Mail",
+          "trasnlationText": "Yes, please send me an email",
+          "goto": "order-confirmation"
+        },
+        {
+          "text": "Nein, danke. Ich bin fertig.",
+          "trasnlationText": "No, thanks. I'm all set.",
+          "goto": "start"
+        }
+      ]
+    },
+    "menu": {
+      "prompt": "Natürlich! Möchten Sie die Vorspeisen, Hauptgerichte oder Desserts sehen?",
+      "translation": "Sure thing! Would you like to see the appetizers, main courses, or desserts?",
+      "options": [
+        {
+          "text": "Vorspeisen",
+          "trasnlationText": "Appetizers",
+          "goto": "menu-appetizers"
+        },
+        {
+          "text": "Hauptgerichte",
+          "trasnlationText": "Main Courses",
+          "goto": "menu-main-courses"
+        },
+        {
+          "text": "Desserts",
+          "trasnlationText": "Desserts",
+          "goto": "menu-desserts"
+        }
+      ]
+    },
+    "menu-appetizers": {
+      "prompt": "Hier sind unsere köstlichen Vorspeisen:\n- Option 1\n- Option 2\n- Option 3\nWas möchten Sie bestellen?",
+      "translation": "Here are our delicious appetizers:\n- Option 1\n- Option 2\n- Option 3\nWhat would you like to order?",
+      "options": [
+        {
+          "text": "Option 1 bestellen",
+          "trasnlationText": "Order Option 1",
+          "goto": "order-confirmation"
+        },
+        {
+          "text": "Option 2 bestellen",
+          "trasnlationText": "Order Option 2",
+          "goto": "order-confirmation"
+        },
+        {
+          "text": "Option 3 bestellen",
+          "trasnlationText": "Order Option 3",
+          "goto": "order-confirmation"
+        }
+      ]
+    },
+    "specials": {
+      "prompt": "Die heutigen Spezialitäten sind:\n- Spezial 1\n- Spezial 2\n- Spezial 3\nMöchten Sie mehr über eines davon erfahren?",
+      "translation": "Today's specials are:\n- Special 1\n- Special 2\n- Special 3\nWould you like to know more about any of these?",
+      "options": [
+        {
+          "text": "Erzählen Sie mir von Spezial 1",
+          "trasnlationText": "Tell me about Special 1",
+          "goto": "special-details"
+        },
+        {
+          "text": "Erzählen Sie mir von Spezial 2",
+          "trasnlationText": "Tell me about Special 2",
+          "goto": "special-details"
+        },
+        {
+          "text": "Erzählen Sie mir von Spezial 3",
+          "trasnlationText": "Tell me about Special 3",
+          "goto": "special-details"
+        }
+      ]
+    },
+    "special-details": {
+      "prompt": "Details zur Spezialität finden Sie hier. Möchten Sie diese Spezialität bestellen?",
+      "translation": "Special details go here. Would you like to order this special?",
+      "options": [
+        {
+          "text": "Ja, das nehme ich!",
+          "trasnlationText": "Yes, I'll have that!",
+          "goto": "order-confirmation"
+        },
+        {
+          "text": "Nein, danke. Ich schaue mich weiter um.",
+          "trasnlationText": "No, thanks. I'll explore more.",
+          "goto": "start"
+        }
+      ]
+    },
+    "order-confirmation": {
+      "prompt": "Ihre Bestellung wurde aufgenommen. Möchten Sie noch etwas bestellen?",
+      "translation": "Your order has been taken. Would you like anything else?",
+      "options": [
+        {
+          "text": "Noch eine Bestellung aufgeben",
+          "trasnlationText": "Place another order",
+          "goto": "menu"
+        },
+        {
+          "text": "Nach den heutigen Empfehlungen fragen",
+          "trasnlationText": "Ask about today's recommendations",
+          "goto": "waiter-recommendations"
+        },
+        {
+          "text": "Ich bin fertig. Die Rechnung bitte.",
+          "trasnlationText": "I'm done. Provide the bill.",
+          "goto": "bill"
+        }
+      ]
+    },
+    "waiter-recommendations": {
+      "prompt": "Natürlich! Die Empfehlungen unseres Küchenchefs heute sind:\n- Empfehlung 1\n- Empfehlung 2\n- Empfehlung 3\nMöchten Sie mehr über eine davon erfahren?",
+      "translation": "Certainly! Our chef's recommendations today are:\n- Recommendation 1\n- Recommendation 2\n- Recommendation 3\nWould you like to know more about any of these?",
+      "options": [
+        {
+          "text": "Erzählen Sie mir von Empfehlung 1",
+          "trasnlationText": "Tell me about Recommendation 1",
+          "goto": "recommendation-details"
+        },
+        {
+          "text": "Erzählen Sie mir von Empfehlung 2",
+          "trasnlationText": "Tell me about Recommendation 2",
+          "goto": "recommendation-details"
+        },
+        {
+          "text": "Erzählen Sie mir von Empfehlung 3",
+          "trasnlationText": "Tell me about Recommendation 3",
+          "goto": "recommendation-details"
+        }
+      ]
+    },
+    "recommendation-details": {
+      "prompt": "Details zur Empfehlung finden Sie hier. Möchten Sie diese Empfehlung bestellen?",
+      "translation": "Recommendation details go here. Would you like to order this recommendation?",
+      "options": [
+        {
+          "text": "Ja, das probiere ich aus!",
+          "trasnlationText": "Yes, I'll try that!",
+          "goto": "order-confirmation"
+        },
+        {
+          "text": "Nein, danke. Ich bleibe bei meiner Bestellung.",
+          "trasnlationText": "No, thanks. I'll stick with my order.",
+          "goto": "order-confirmation"
+        }
+      ]
+    },
+    "bill": {
+      "prompt": "Hier ist Ihre Rechnung. Wie möchten Sie bezahlen?",
+      "translation": "Here's your bill. How would you like to settle it?",
+      "options": [
+        {
+          "text": "Mit Karte bezahlen",
+          "trasnlationText": "Pay by card",
+          "goto": "payment-details"
+        },
+        {
+          "text": "Bar bezahlen",
+          "trasnlationText": "Pay in cash",
+          "goto": "payment-details"
+        },
+        {
+          "text": "Andere Zahlungsmöglichkeiten",
+          "trasnlationText": "Other payment options",
+          "goto": "payment-details"
+        }
+      ]
+    },
+
+    "payment-details": {
+      "prompt": "Hier ist Ihre Rechnung. Wie möchten Sie bezahlen?",
+      "translation": "Here's your bill. How would you like to settle it?",
+      "options": [
+        {
+          "text": "Mit Karte bezahlen",
+          "trasnlationText": "Pay by card",
+          "goto": "payment-card"
+        },
+        {
+          "text": "Bar bezahlen",
+          "trasnlationText": "Pay in cash",
+          "goto": "payment-cash"
+        },
+        {
+          "text": "Andere Zahlungsmöglichkeiten",
+          "trasnlationText": "Other payment options",
+          "goto": "payment-other"
+        }
+      ]
+    },
+  
+    "payment-card": {
+      "prompt": "Bitte geben Sie Ihre Kartendetails zur Bezahlung ein.",
+      "translation": "Please provide your card details for payment.",
+      "options": [
+        {
+          "text": "Bezahlung abschicken",
+          "trasnlationText": "Submit payment",
+          "goto": "payment-confirmation"
+        },
+        {
+          "text": "Bezahlung abbrechen",
+          "trasnlationText": "Cancel payment",
+          "goto": "order-confirmation"
+        }
+      ]
+    },
+    "payment-cash": {
+      "prompt": "Bitte tätigen Sie die Zahlung an der Kasse.",
+      "translation": "Please make the payment with the cashier.",
+      "options": [
+        {
+          "text": "Zahlung erfolgt",
+          "trasnlationText": "Payment made",
+          "goto": "payment-confirmation"
+        }
+      ]
+    },
+  
+    "payment-other": {
+      "prompt": "Bitte wählen Sie Ihre bevorzugte Zahlungsmethode.",
+      "translation": "Please choose your preferred payment method.",
+      "options": [
+        {
+          "text": "Mobile Zahlung",
+          "trasnlationText": "Mobile payment",
+          "goto": "payment-confirmation"
+        },
+        {
+          "text": "Andere Methode",
+          "trasnlationText": "Other method",
+          "goto": "payment-confirmation"
+        }
+      ]
+    },
+  
+    "payment-confirmation": {
+      "prompt": "Ihre Zahlung wurde bearbeitet. Möchten Sie noch etwas bestellen?",
+      "translation": "Your payment has been processed. Would you like anything else?",
+      "options": [
+        {
+          "text": "Noch eine Bestellung aufgeben",
+          "trasnlationText": "Place another order",
+          "goto": "menu"
+        },
+        {
+          "text": "Nach den heutigen Empfehlungen fragen",
+          "trasnlationText": "Ask about today's recommendations",
+          "goto": "waiter-recommendations"
+        },
+        {
+          "text": "Ich bin fertig. Die Rechnung bitte.",
+          "trasnlationText": "I'm done. Provide the bill.",
+          "goto": "bill"
+        }
+      ]
+    }
+  },
+
+  
+
+  "ask_address": {
+    "start": {
+      "translation": "Excuse me, can you help me with directions?",
+      "prompt": "Entschuldigung, können Sie mir mit der Wegbeschreibung helfen?",
+      "options": [
+        {
+          "trasnlationText": "Of course! Where are you headed?",
+          "text": "Natürlich! Wohin möchten Sie?",
+          "goto": "destination"
+        }
+      ]
+    },
+    "destination": {
+      "translation": "I'm trying to find the local museum. Do you know where it is?",
+      "prompt": "Ich versuche, das örtliche Museum zu finden. Wissen Sie, wo es ist?",
+      "options": [
+        {
+          "trasnlationText": "Sure thing! It's just a few blocks down that way.",
+          "text": "Na klar! Es ist nur ein paar Blocks weiter.",
+          "goto": "thanks"
+        },
+        {
+          "text": "I'm not sure, but I can help you look it up on my phone.",
+          "trasnlationText": "Ich weiß es nicht, aber ich kann es auf meinem Handy nachsehen.",
+          "goto": "lookup"
+        }
+      ]
+    },
+    "thanks": {
+      "translation": "Thanks for your help! How can I repay you?",
+      "prompt": "Vielen Dank für Ihre Hilfe! Wie kann ich mich revanchieren?",
+      "options": [
+        {
+          "trasnlationText": "No need for repayment, just glad I could help!",
+          "text": "Keine Dankbarkeit nötig, ich bin nur froh, dass ich helfen konnte!",
+          "goto": "end"
+        },
+        {
+          "trasnlationText": "Actually, do you mind giving me a hand with something else?",
+          "text": "Eigentlich, haben Sie etwas dagegen, mir bei etwas anderem zu helfen?",
+          "goto": "another_task"
+        }
+      ]
+    },
+    "lookup": {
+      "translation": "That would be great, thank you!",
+      "prompt": "Das wäre großartig, danke!",
+      "options": [
+        {
+          "trasnlationText": "Found it! The museum is on Elm Street.",
+          "text": "Ich habe es gefunden! Das Museum befindet sich auf der Elm Street.",
+          "goto": "thanks"
+        },
+        {
+          "trasnlationText": "Oops, I couldn't find a signal. Sorry.",
+          "text": "Ups, ich konnte kein Signal finden. Entschuldigung.",
+          "goto": "end"
+        }
+      ]
+    },
+    "another_task": {
+      "translation": "Of course, I'd be happy to help!",
+      "prompt": "Natürlich, ich helfe gerne!",
+      "options": [
+        {
+          "trasnlationText": "I need to pick up some groceries. Could you show me the nearest supermarket?",
+          "text": "Ich muss ein paar Lebensmittel einkaufen. Könnten Sie mir den nächsten Supermarkt zeigen?",
+          "goto": "supermarket"
+        },
+        {
+          "trasnlationText": "Actually, never mind. Thanks again for your assistance!",
+          "text": "Eigentlich, nein. Danke nochmal für deine Hilfe!",
+          "goto": "end"
+        }
+      ]
+    },
+    "supermarket": {
+      "translation": "The nearest supermarket is just around the corner.",
+      "prompt": "Der nächste Supermarkt ist gleich um die Ecke.",
+      "options": [
+        {
+          "trasnlationText": "Great, thanks! You've been a lifesaver.",
+          "text": "Großartig, danke! Sie sind ein Lebensretter.",
+          "goto": "end"
+        },
+        {
+          "trasnlationText": "Can you also recommend a good restaurant nearby?",
+          "text": "Können Sie mir auch ein gutes Restaurant in der Nähe empfehlen?",
+          "goto": "restaurant"
+        }
+      ]
+    },
+    "restaurant": {
+      "translation": "Sure! There's a fantastic Italian restaurant a few blocks from here.",
+      "prompt": "Natürlich! Es gibt ein fantastisches italienisches Restaurant ein paar Blocks von hier entfernt.",
+      "options": [
+        {
+          "trasnlationText": "Thanks a million! I really appreciate your help.",
+          "text": "Vielen Dank! Ich schätze deine Hilfe wirklich sehr.",
+          "goto": "end"
+        }
+      ]
+    },
+    "end": {
+      "translation": "Thanks again for your assistance!",
+      "prompt": "Vielen Dank nochmal für Ihre Hilfe!",
+      "options": []
+    }
+  },
+
+  "meet_new_person": {
+    "start": {
+      "translation": "Hi there! I'm new in town. Mind if we chat?",
+      "prompt": "Hallo! Ich bin neu in der Stadt. Darf ich dich ein bisschen ausfragen?",
+      
+      "options": [
+        {
+          "trasnlationText": "Sure thing! What brings you to this town?",
+          "text": "Klar! Was bringst du hierher?",
+          "goto": "reason_for_visit"
+        }
+      ]
+    },
+    "reason_for_visit": {
+      "translation": "I'm here for a business conference. How about you?",
+      "prompt": "Ich bin hier für eine Geschäftskonferenz. Und du?",
+      "options": [
+        {
+          "trasnlationText": "Oh, I'm just exploring. This place has some great sights!",
+          "text": "Oh, ich erkunde gerade die Gegend. Hier gibt es so viele tolle Sehenswürdigkeiten!",
+          "goto": "sights_interest"
+        },
+        {
+          "trasnlationText": "I'm a local. Welcome to the town!",
+          "text": "Ich bin ein Einheimischer. Willkommen in der Stadt!",
+          "goto": "local_greeting"
+        }
+      ]
+    },
+    "sights_interest": {
+      "translation": "That sounds interesting. Any specific sights you'd recommend?",
+      "prompt": "Das klingt interessant. Kannst du mir ein paar Sehenswürdigkeiten empfehlen?",
+      "options": [
+        {
+          "trasnlationText": "Definitely check out the historical district. It's beautiful!",
+          "text": "Auf jeden Fall! Schau dir das historische Viertel an. Es ist wunderschön!",
+          "goto": "historical_district"
+        },
+        {
+          "trasnlationText": "The botanical gardens are a must-see, especially this time of year.",
+          "text": "Der Botanische Garten ist ein Muss, vor allem zu dieser Jahreszeit.",
+          "goto": "botanical_gardens"
+        }
+      ]
+    },
+    "historical_district": {
+      "translation": "Historical district, got it. What else do you enjoy doing around here?",
+      "prompt": "Historisches Viertel, verstanden. Was machst du sonst noch gerne hier?",
+      "options": [
+        {
+          "trasnlationText": "I love hiking in the nearby mountains. The views are breathtaking.",
+          "text": "Ich liebe es, in den nahe gelegenen Bergen zu wandern. Die Aussicht ist atemberaubend.",
+          "goto": "hiking_mountains"
+        },
+        {
+          "trasnlationText": "Have you tried the local ice cream? It's a treat!",
+          "text": "Hast du das lokale Eis probiert? Es ist ein Genuss!",
+          "goto": "local_ice_cream"
+        }
+      ]
+    },
+    "botanical_gardens": {
+      "translation": "Botanical gardens, noted. Any good places to eat around here?",
+      "prompt": "Botanischer Garten, notiert. Gibt es gute Restaurants in der Nähe?",
+      "options": [
+        {
+          "trasnlationText": "Absolutely! There's a cozy café downtown that serves the best pastries.",
+          "text": "Absolut! Es gibt ein gemütliches Café in der Innenstadt, das die besten Pasteten serviert.",
+          "goto": "cafe_recommendation"
+        },
+        {
+          "trasnlationText": "You must try the local ice cream, it's a town specialty.",
+          "text": "Du musst das lokale Eis probieren, es ist eine Spezialität der Stadt.",
+          "goto": "local_ice_cream"
+        }
+      ]
+    },
+    "hiking_mountains": {
+      "translation": "Hiking sounds great. Do you have any tips for a beginner?",
+      "prompt": "Wandern klingt toll. Hast du Tipps für Anfänger?",
+      "options": [
+        {
+          "trasnlationText": "Start with an easy trail, wear comfortable shoes, and bring water.",
+          "text": "Fang mit einem einfachen Weg an, trage bequeme Schuhe und nimm Wasser mit.",
+          "goto": "hiking_tips"
+        },
+        {
+          "trasnlationText": "If you're into sweets, the local ice cream is a must-try.",
+          "text": "Wenn du Süßes magst, ist das lokale Eis ein Muss.",
+          "goto": "local_ice_cream"
+        }
+      ]
+    },
+    "cafe_recommendation": {
+      "translation": "Pastries sound delicious. By the way, any local customs I should know about?",
+      "prompt": "Pasteten klingen lecker. Hast du zufällig noch ein paar lokale Bräuche, die ich wissen sollte?",
+      "options": [
+        {
+          "trasnlationText": "Well, people here love to greet with a smile. It's quite friendly!",
+          "text": "Nun, die Leute hier lieben es, mit einem Lächeln zu grüßen. Es ist sehr freundlich!",
+          "goto": "greeting_custom"
+        },
+        {
+          "trasnlationText": "Don't miss out on the local ice cream, it's legendary.",
+          "text": "Verpasse das lokale Eis nicht, es ist legendär.",
+          "goto": "local_ice_cream"
+        }
+      ]
+    },
+    "hiking_tips": {
+      "translation": "Thanks for the tips. It was nice meeting you!",
+      "prompt": "Danke für die Tipps! Es war nett, dich kennenzulernen!",
+      "options": [
+        {
+          "trasnlationText": "You're welcome! Have a great time exploring the town.",
+          "text": "Gern! Hab viel Spaß beim Erkunden der Stadt.",
+          "goto": "end"
+        }
+      ]
+    },
+    "greeting_custom": {
+      "translation": "I'll keep that in mind. Thanks for chatting!",
+      "prompt": "Ich werde mir das merken. Danke für das Gespräch!",
+      "options": [
+        {
+          "trasnlationText": "No problem! Feel free to ask if you need more info.",
+          "text": "Kein Problem! Zögere nicht zu fragen, wenn du mehr Infos brauchst.",
+          "goto": "end"
+        }
+      ]
+    },
+    "local_greeting": {
+      "translation": "Thanks for the warm welcome. Anything I must try while I'm here?",
+      "prompt": "Danke für den herzlichen Empfang. Gibt es etwas, das ich unbedingt probieren muss, während ich hier bin?",
+      "options": [
+        {
+          "trasnlationText": "You can't leave without trying the famous local ice cream.",
+          "text": "Du kannst die berühmte lokale Eiscreme nicht verpassen.",
+          "goto": "local_ice_cream"
+        }
+      ]
+    },
+    "local_ice_cream": {
+      "translation": "Ice cream sounds tempting. What's your favorite flavor?",
+      "prompt": "Eiscreme klingt verlockend. Was ist dein Lieblingsgeschmack?",
+      "options": [
+        {
+          "trasnlationText": "I'm a fan of the classic vanilla. You should give it a try!",
+          "text": "Ich bin ein Fan der klassischen Vanille. Probiere es mal!",
+          "goto": "end"
+        }
+      ]
+    },
+    "end": {
+      "translation": "Thanks for the recommendations! Have a great day.",
+      "prompt": "Danke für die Empfehlungen! Hab einen schönen Tag.",
+      "options": []
+    }
+  }
+  }
+  

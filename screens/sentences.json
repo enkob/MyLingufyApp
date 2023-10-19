@@ -1,0 +1,6494 @@
+{
+    "sentences": [
+      {
+        "id": 1,
+        "germanWord": "sein",
+        "example": "Er ist ein Lehrer.",
+        "translation": "He is a teacher."
+    },
+    {
+        "id": 2,
+        "germanWord": "haben",
+        "example": "Ich habe einen Hund.",
+        "translation": "I have a dog."
+    },
+    {
+        "id": 3,
+        "germanWord": "werden",
+        "example": "Sie wird Ärztin.",
+        "translation": "She is becoming a doctor."
+    },
+    {
+        "id": 4,
+        "germanWord": "können",
+        "example": "Ich kann schwimmen.",
+        "translation": "I can swim."
+    },
+    {
+        "id": 5,
+        "germanWord": "müssen",
+        "example": "Wir müssen zur Arbeit gehen.",
+        "translation": "We have to go to work."
+    },
+    {
+        "id": 6,
+        "germanWord": "sagen",
+        "example": "Er sagt die Wahrheit.",
+        "translation": "He is telling the truth."
+    },
+    {
+        "id": 7,
+        "germanWord": "machen",
+        "example": "Sie macht ihre Hausaufgaben.",
+        "translation": "She is doing her homework."
+    },
+    {
+        "id": 8,
+        "germanWord": "geben",
+        "example": "Ich gebe dir das Buch.",
+        "translation": "I'm giving you the book."
+    },
+    {
+        "id": 9,
+        "germanWord": "kommen",
+        "example": "Sie kommt aus Frankreich.",
+        "translation": "She is coming from France."
+    },
+    {
+        "id": 10,
+        "germanWord": "sollen",
+        "example": "Wir sollen pünktlich sein.",
+        "translation": "We should be on time."
+    },
+    {
+        "id": 11,
+        "germanWord": "wollen",
+        "example": "Er will ins Kino gehen.",
+        "translation": "He wants to go to the cinema."
+    },
+    {
+        "id": 12,
+        "germanWord": "gehen",
+        "example": "Sie geht in den Park.",
+        "translation": "She is going to the park."
+    },
+    {
+        "id": 13,
+        "germanWord": "wissen",
+        "example": "Ich weiß die Antwort.",
+        "translation": "I know the answer."
+    },
+    {
+        "id": 14,
+        "germanWord": "sehen",
+        "example": "Er sieht einen Film.",
+        "translation": "He is watching a movie."
+    },
+    {
+        "id": 15,
+        "germanWord": "lassen",
+        "example": "Sie lässt ihn zuhause.",
+        "translation": "She is leaving him at home."
+    },
+    {
+        "id": 16,
+        "germanWord": "stehen",
+        "example": "Das Buch steht im Regal.",
+        "translation": "The book is standing on the shelf."
+    },
+    {
+        "id": 17,
+        "germanWord": "finden",
+        "example": "Ich finde den Schlüssel nicht.",
+        "translation": "I can't find the key."
+    },
+    {
+        "id": 18,
+        "germanWord": "bleiben",
+        "example": "Wir bleiben hier.",
+        "translation": "We are staying here."
+    },
+    {
+        "id": 19,
+        "germanWord": "liegen",
+        "example": "Das Buch liegt auf dem Tisch.",
+        "translation": "The book is lying on the table."
+    },
+    {
+        "id": 20,
+        "germanWord": "heißen",
+        "example": "Er heißt Paul.",
+        "translation": "His name is Paul."
+    },
+    {
+      "id": 21,
+      "germanWord": "denken",
+      "example": "Ich denke oft an meine Familie.",
+      "translation": "I often think about my family."
+  },
+  {
+      "id": 22,
+      "germanWord": "nehmen",
+      "example": "Er nimmt den Bus zur Arbeit.",
+      "translation": "He takes the bus to work."
+  },
+  {
+      "id": 23,
+      "germanWord": "tun",
+      "example": "Sie tut ihr Bestes.",
+      "translation": "She is doing her best."
+  },
+  {
+      "id": 24,
+      "germanWord": "dürfen",
+      "example": "Du darfst nicht rauchen hier.",
+      "translation": "You're not allowed to smoke here."
+  },
+  {
+      "id": 25,
+      "germanWord": "glauben",
+      "example": "Ich glaube an dich.",
+      "translation": "I believe in you."
+  },
+  {
+      "id": 26,
+      "germanWord": "halten",
+      "example": "Er hält das Buch in der Hand.",
+      "translation": "He's holding the book in his hand."
+  },
+  {
+      "id": 27,
+      "germanWord": "nennen",
+      "example": "Sie nennt ihn ihren besten Freund.",
+      "translation": "She calls him her best friend."
+  },
+  {
+      "id": 28,
+      "germanWord": "mögen",
+      "example": "Ich mag Schokolade.",
+      "translation": "I like chocolate."
+  },
+  {
+      "id": 29,
+      "germanWord": "zeigen",
+      "example": "Er zeigt auf die Karte.",
+      "translation": "He's pointing at the map."
+  },
+  {
+      "id": 30,
+      "germanWord": "führen",
+      "example": "Sie führt das Team zum Sieg.",
+      "translation": "She's leading the team to victory."
+  },
+  {
+      "id": 31,
+      "germanWord": "sprechen",
+      "example": "Wir sprechen drei Sprachen.",
+      "translation": "We speak three languages."
+  },
+  {
+      "id": 32,
+      "germanWord": "bringen",
+      "example": "Ich bringe dir das Essen.",
+      "translation": "I'm bringing you the food."
+  },
+  {
+      "id": 33,
+      "germanWord": "leben",
+      "example": "Sie lebt in der Stadt.",
+      "translation": "She lives in the city."
+  },
+  {
+      "id": 34,
+      "germanWord": "fahren",
+      "example": "Er fährt mit dem Fahrrad zur Schule.",
+      "translation": "He rides his bike to school."
+  },
+  {
+      "id": 35,
+      "germanWord": "meinen",
+      "example": "Was meinst du dazu?",
+      "translation": "What do you think about it?"
+  },
+  {
+      "id": 36,
+      "germanWord": "fragen",
+      "example": "Sie fragt nach dem Weg.",
+      "translation": "She's asking for directions."
+  },
+  {
+      "id": 37,
+      "germanWord": "kennen",
+      "example": "Kennst du diese Person?",
+      "translation": "Do you know this person?"
+  },
+  {
+      "id": 38,
+      "germanWord": "gelten",
+      "example": "Diese Regel gilt für alle.",
+      "translation": "This rule applies to everyone."
+  },
+  {
+      "id": 39,
+      "germanWord": "stellen",
+      "example": "Er stellt eine Frage.",
+      "translation": "He's asking a question."
+  },
+  {
+      "id": 40,
+      "germanWord": "spielen",
+      "example": "Wir spielen Fußball im Park.",
+      "translation": "We're playing soccer in the park."
+  },
+  {
+      "id": 41,
+      "germanWord": "arbeiten",
+      "example": "Sie arbeitet im Büro.",
+      "translation": "She works in the office."
+  },
+  {
+      "id": 42,
+      "germanWord": "brauchen",
+      "example": "Ich brauche Hilfe.",
+      "translation": "I need help."
+  },
+  {
+      "id": 43,
+      "germanWord": "folgen",
+      "example": "Folge mir bitte.",
+      "translation": "Please follow me."
+  },
+  {
+      "id": 44,
+      "germanWord": "lernen",
+      "example": "Er lernt Deutsch.",
+      "translation": "He's learning German."
+  },
+  {
+      "id": 45,
+      "germanWord": "bestehen",
+      "example": "Sie besteht auf ihrem Standpunkt.",
+      "translation": "She insists on her point of view."
+  },
+  {
+      "id": 46,
+      "germanWord": "verstehen",
+      "example": "Kannst du mich verstehen?",
+      "translation": "Can you understand me?"
+  },
+  {
+      "id": 47,
+      "germanWord": "setzen",
+      "example": "Er setzt sich auf den Stuhl.",
+      "translation": "He's sitting down on the chair."
+  },
+  {
+      "id": 48,
+      "germanWord": "bekommen",
+      "example": "Ich bekomme ein Geschenk.",
+      "translation": "I'm getting a present."
+  },
+  {
+      "id": 49,
+      "germanWord": "beginnen",
+      "example": "Der Film beginnt bald.",
+      "translation": "The movie is starting soon."
+  },
+  {
+      "id": 50,
+      "germanWord": "erzählen",
+      "example": "Sie erzählt eine Geschichte.",
+      "translation": "She's telling a story."
+  },
+  {
+    "id": 51,
+    "germanWord": "versuchen",
+    "example": "Ich werde es versuchen.",
+    "translation": "I will try it."
+},
+{
+    "id": 52,
+    "germanWord": "schreiben",
+    "example": "Sie schreibt einen Brief.",
+    "translation": "She is writing a letter."
+},
+{
+    "id": 53,
+    "germanWord": "laufen",
+    "example": "Er läuft im Park.",
+    "translation": "He is running in the park."
+},
+{
+    "id": 54,
+    "germanWord": "erklären",
+    "example": "Kannst du es mir erklären?",
+    "translation": "Can you explain it to me?"
+},
+{
+    "id": 55,
+    "germanWord": "entsprechen",
+    "example": "Das entspricht meiner Meinung.",
+    "translation": "That corresponds to my opinion."
+},
+{
+    "id": 56,
+    "germanWord": "sitzen",
+    "example": "Er sitzt am Tisch.",
+    "translation": "He is sitting at the table."
+},
+{
+    "id": 57,
+    "germanWord": "ziehen",
+    "example": "Sie zieht die Tür auf.",
+    "translation": "She is opening the door."
+},
+{
+    "id": 58,
+    "germanWord": "scheinen",
+    "example": "Die Sonne scheint heute.",
+    "translation": "The sun is shining today."
+},
+{
+    "id": 59,
+    "germanWord": "fallen",
+    "example": "Die Blätter fallen von den Bäumen.",
+    "translation": "The leaves are falling from the trees."
+},
+{
+    "id": 60,
+    "germanWord": "gehören",
+    "example": "Das Buch gehört mir.",
+    "translation": "The book belongs to me."
+},
+{
+    "id": 61,
+    "germanWord": "entstehen",
+    "example": "Ein neues Problem entsteht.",
+    "translation": "A new problem is arising."
+},
+{
+    "id": 62,
+    "germanWord": "erhalten",
+    "example": "Wir erhalten eine Antwort.",
+    "translation": "We are receiving an answer."
+},
+{
+    "id": 63,
+    "germanWord": "treffen",
+    "example": "Wir treffen uns um 18 Uhr.",
+    "translation": "We are meeting at 6 o'clock."
+},
+{
+    "id": 64,
+    "germanWord": "suchen",
+    "example": "Ich suche meine Brille.",
+    "translation": "I'm looking for my glasses."
+},
+{
+    "id": 65,
+    "germanWord": "legen",
+    "example": "Er legt das Buch auf den Tisch.",
+    "translation": "He is placing the book on the table."
+},
+{
+    "id": 66,
+    "germanWord": "vorstellen",
+    "example": "Darf ich dir meine Schwester vorstellen?",
+    "translation": "May I introduce you to my sister?"
+},
+{
+    "id": 67,
+    "germanWord": "handeln",
+    "example": "Es handelt sich um ein wichtiges Thema.",
+    "translation": "It's about an important topic."
+},
+{
+    "id": 68,
+    "germanWord": "erreichen",
+    "example": "Du kannst mich unter dieser Nummer erreichen.",
+    "translation": "You can reach me at this number."
+},
+{
+    "id": 69,
+    "germanWord": "tragen",
+    "example": "Sie trägt ein schönes Kleid.",
+    "translation": "She is wearing a beautiful dress."
+},
+{
+    "id": 70,
+    "germanWord": "schaffen",
+    "example": "Er schafft es rechtzeitig.",
+    "translation": "He manages it on time."
+},
+{
+    "id": 71,
+    "germanWord": "lesen",
+    "example": "Ich lese gerne Bücher.",
+    "translation": "I like reading books."
+},
+{
+    "id": 72,
+    "germanWord": "verlieren",
+    "example": "Ich habe meinen Schlüssel verloren.",
+    "translation": "I lost my key."
+},
+{
+    "id": 73,
+    "germanWord": "darstellen",
+    "example": "Dieses Gemälde stellt eine Landschaft dar.",
+    "translation": "This painting depicts a landscape."
+},
+{
+    "id": 74,
+    "germanWord": "erkennen",
+    "example": "Ich erkenne dich sofort.",
+    "translation": "I recognize you immediately."
+},
+{
+    "id": 75,
+    "germanWord": "entwickeln",
+    "example": "Sie entwickelt eine neue Technologie.",
+    "translation": "She is developing a new technology."
+},
+{
+    "id": 76,
+    "germanWord": "reden",
+    "example": "Er redet über seine Reisen.",
+    "translation": "He's talking about his travels."
+},
+{
+    "id": 77,
+    "germanWord": "aussehen",
+    "example": "Wie siehst du heute aus?",
+    "translation": "How do you look today?"
+},
+{
+    "id": 78,
+    "germanWord": "erscheinen",
+    "example": "Das Buch erscheint nächste Woche.",
+    "translation": "The book will be released next week."
+},
+{
+    "id": 79,
+    "germanWord": "bilden",
+    "example": "Diese Farben bilden einen Kontrast.",
+    "translation": "These colors form a contrast."
+},
+{
+    "id": 80,
+    "germanWord": "anfangen",
+    "example": "Wir fangen um 9 Uhr an.",
+    "translation": "We start at 9 o'clock."
+},
+{
+    "id": 81,
+    "germanWord": "erwarten",
+    "example": "Ich erwarte deine Antwort.",
+    "translation": "I'm expecting your answer."
+},
+{
+    "id": 82,
+    "germanWord": "wohnen",
+    "example": "Er wohnt in einem großen Haus.",
+    "translation": "He lives in a big house."
+},
+{
+    "id": 83,
+    "germanWord": "betreffen",
+    "example": "Diese Regel betrifft alle.",
+    "translation": "This rule concerns everyone."
+},
+{
+    "id": 84,
+    "germanWord": "warten",
+    "example": "Wir müssen auf den Bus warten.",
+    "translation": "We have to wait for the bus."
+},
+{
+    "id": 85,
+    "germanWord": "vergehen",
+    "example": "Die Zeit vergeht schnell.",
+    "translation": "Time passes quickly."
+},
+{
+    "id": 86,
+    "germanWord": "helfen",
+    "example": "Kannst du mir bitte helfen?",
+    "translation": "Can you please help me?"
+},
+{
+    "id": 87,
+    "germanWord": "gewinnen",
+    "example": "Sie gewinnt das Rennen.",
+    "translation": "She wins the race."
+},
+{
+    "id": 88,
+    "germanWord": "schließen",
+    "example": "Er schließt die Tür ab.",
+    "translation": "He locks the door."
+},
+{
+    "id": 89,
+    "germanWord": "fühlen",
+    "example": "Ich fühle mich glücklich.",
+    "translation": "I feel happy."
+},
+{
+    "id": 90,
+    "germanWord": "bieten",
+    "example": "Das Restaurant bietet gutes Essen an.",
+    "translation": "The restaurant offers good food."
+},
+{
+    "id": 91,
+    "germanWord": "die Zeit",
+    "example": "Die Zeit vergeht schnell.",
+    "translation": "Time passes quickly."
+},
+{
+    "id": 92,
+    "germanWord": "die Stunde",
+    "example": "Eine Stunde hat 60 Minuten.",
+    "translation": "An hour has 60 minutes."
+},
+{
+    "id": 93,
+    "germanWord": "die Minute",
+    "example": "Warte eine Minute, bitte.",
+    "translation": "Wait a minute, please."
+},
+{
+    "id": 94,
+    "germanWord": "die Sekunde",
+    "example": "Die Zeitmessung erfolgt in Sekunden.",
+    "translation": "Time measurement is in seconds."
+},
+{
+    "id": 95,
+    "germanWord": "der Tag",
+    "example": "Heute ist ein schöner Tag.",
+    "translation": "Today is a beautiful day."
+},
+{
+    "id": 96,
+    "germanWord": "die Woche",
+    "example": "Wir treffen uns nächste Woche.",
+    "translation": "We'll meet next week."
+},
+{
+    "id": 97,
+    "germanWord": "der Monat",
+    "example": "Mein Geburtstag ist diesen Monat.",
+    "translation": "My birthday is this month."
+},
+{
+    "id": 98,
+    "germanWord": "das Jahr",
+    "example": "Wir reisen nächstes Jahr.",
+    "translation": "We're traveling next year."
+},
+{
+    "id": 99,
+    "germanWord": "vormittags",
+    "example": "Ich arbeite vormittags.",
+    "translation": "I work in the morning."
+},
+{
+    "id": 100,
+    "germanWord": "nachmittags",
+    "example": "Wir treffen uns nachmittags.",
+    "translation": "We'll meet in the afternoon."
+},
+{
+  "id": 101,
+  "germanWord": "abends",
+  "example": "Ich gehe abends spazieren.",
+  "translation": "I go for a walk in the evening."
+},
+{
+  "id": 102,
+  "germanWord": "am Morgen",
+  "example": "Am Morgen trinke ich Kaffee.",
+  "translation": "In the morning, I drink coffee."
+},
+{
+  "id": 103,
+  "germanWord": "am Nachmittag",
+  "example": "Am Nachmittag habe ich einen Termin.",
+  "translation": "In the afternoon, I have an appointment."
+},
+{
+  "id": 104,
+  "germanWord": "am Abend",
+  "example": "Am Abend schaue ich fern.",
+  "translation": "In the evening, I watch TV."
+},
+{
+  "id": 105,
+  "germanWord": "der Wochentag",
+  "example": "An welchem Wochentag hast du Zeit?",
+  "translation": "On which weekday are you available?"
+},
+{
+  "id": 106,
+  "germanWord": "der Montag",
+  "example": "Der Montag ist der erste Tag der Woche.",
+  "translation": "Monday is the first day of the week."
+},
+{
+  "id": 107,
+  "germanWord": "der Dienstag",
+  "example": "Wir treffen uns am Dienstag.",
+  "translation": "We'll meet on Tuesday."
+},
+{
+  "id": 108,
+  "germanWord": "der Mittwoch",
+  "example": "Am Mittwoch habe ich frei.",
+  "translation": "I have a day off on Wednesday."
+},
+{
+  "id": 109,
+  "germanWord": "der Donnerstag",
+  "example": "Der Donnerstag ist ein arbeitsreicher Tag.",
+  "translation": "Thursday is a busy day."
+},
+{
+  "id": 110,
+  "germanWord": "der Freitag",
+  "example": "Am Freitag gehe ich ins Kino.",
+  "translation": "On Friday, I go to the cinema."
+},
+{
+  "id": 111,
+  "germanWord": "der Samstag",
+  "example": "Am Samstag treffe ich meine Freunde.",
+  "translation": "On Saturday, I meet my friends."
+},
+{
+  "id": 112,
+  "germanWord": "der Sonntag",
+  "example": "Der Sonntag ist ein Ruhetag.",
+  "translation": "Sunday is a day of rest."
+},
+{
+  "id": 113,
+  "germanWord": "der Januar",
+  "example": "Mein Geburtstag ist im Januar.",
+  "translation": "My birthday is in January."
+},
+{
+  "id": 114,
+  "germanWord": "der Februar",
+  "example": "Der Februar ist der kürzeste Monat.",
+  "translation": "February is the shortest month."
+},
+{
+  "id": 115,
+  "germanWord": "der März",
+  "example": "Im März fängt der Frühling an.",
+  "translation": "Spring starts in March."
+},
+{
+  "id": 116,
+  "germanWord": "der April",
+  "example": "Im April blühen die Blumen.",
+  "translation": "Flowers bloom in April."
+},
+{
+  "id": 117,
+  "germanWord": "der Mai",
+  "example": "Der Mai ist ein schöner Frühlingsmonat.",
+  "translation": "May is a beautiful spring month."
+},
+{
+  "id": 118,
+  "germanWord": "der Juni",
+  "example": "Im Juni fängt der Sommer an.",
+  "translation": "Summer starts in June."
+},
+{
+  "id": 119,
+  "germanWord": "der Juli",
+  "example": "Der Juli ist oft sehr heiß.",
+  "translation": "July is often very hot."
+},
+{
+  "id": 120,
+  "germanWord": "der August",
+  "example": "Im August machen wir Urlaub.",
+  "translation": "We go on vacation in August."
+},
+{
+  "id": 121,
+  "germanWord": "der September",
+  "example": "Der September bringt den Herbst.",
+  "translation": "September brings autumn."
+},
+{
+  "id": 122,
+  "germanWord": "der Oktober",
+  "example": "Der Oktober ist die Erntezeit.",
+  "translation": "October is the harvest season."
+},
+{
+  "id": 123,
+  "germanWord": "der November",
+  "example": "Im November wird es kühler.",
+  "translation": "It gets cooler in November."
+},
+{
+  "id": 124,
+  "germanWord": "der Dezember",
+  "example": "Im Dezember feiern wir Weihnachten.",
+  "translation": "We celebrate Christmas in December."
+},
+{
+  "id": 125,
+  "germanWord": "die Richtung",
+  "example": "Können Sie mir die Richtung zeigen?",
+  "translation": "Can you show me the direction?"
+},
+{
+  "id": 126,
+  "germanWord": "links",
+  "example": "Biegen Sie links ab.",
+  "translation": "Turn left."
+},
+{
+  "id": 127,
+  "germanWord": "rechts",
+  "example": "Die Schule ist rechts.",
+  "translation": "The school is on the right."
+},
+{
+  "id": 128,
+  "germanWord": "geradeaus",
+  "example": "Gehen Sie einfach geradeaus.",
+  "translation": "Just go straight ahead."
+},
+{
+  "id": 129,
+  "germanWord": "vorne",
+  "example": "Das Restaurant ist vorne.",
+  "translation": "The restaurant is up front."
+},
+{
+  "id": 130,
+  "germanWord": "hinten",
+  "example": "Der Parkplatz ist hinten.",
+  "translation": "The parking lot is in the back."
+},
+{
+  "id": 131,
+  "germanWord": "oben",
+  "example": "Die Schlafzimmer sind oben.",
+  "translation": "The bedrooms are upstairs."
+},
+{
+  "id": 132,
+  "germanWord": "unten",
+  "example": "Die Küche ist unten.",
+  "translation": "The kitchen is downstairs."
+},
+{
+  "id": 133,
+  "germanWord": "neben",
+  "example": "Das Café ist neben der Bank.",
+  "translation": "The café is next to the bank."
+},
+{
+  "id": 134,
+  "germanWord": "zwischen",
+  "example": "Das Hotel ist zwischen den Bergen.",
+  "translation": "The hotel is between the mountains."
+},
+{
+  "id": 135,
+  "germanWord": "das Zuhause",
+  "example": "Ich fühle mich zuhause wohl.",
+  "translation": "I feel comfortable at home."
+},
+{
+  "id": 136,
+  "germanWord": "das Büro",
+  "example": "Ich arbeite im Büro.",
+  "translation": "I work in the office."
+},
+{
+  "id": 137,
+  "germanWord": "der Supermarkt",
+  "example": "Ich kaufe im Supermarkt ein.",
+  "translation": "I'm shopping at the supermarket."
+},
+{
+  "id": 138,
+  "germanWord": "das Krankenhaus",
+  "example": "Sie arbeitet im Krankenhaus.",
+  "translation": "She works at the hospital."
+},
+{
+  "id": 139,
+  "germanWord": "die Apotheke",
+  "example": "Ich hole meine Medizin in der Apotheke.",
+  "translation": "I get my medicine at the pharmacy."
+},
+{
+  "id": 140,
+  "germanWord": "der Park",
+  "example": "Der Park ist sehr groß.",
+  "translation": "The park is very large."
+},
+{
+  "id": 141,
+  "germanWord": "das Restaurant",
+  "example": "Wir essen heute im Restaurant.",
+  "translation": "We're eating at the restaurant today."
+},
+{
+  "id": 142,
+  "germanWord": "das Museum",
+  "example": "Das Museum hat interessante Ausstellungen.",
+  "translation": "The museum has interesting exhibitions."
+},
+{
+  "id": 143,
+  "germanWord": "das Theater",
+  "example": "Wir sehen uns ein Stück im Theater an.",
+  "translation": "We're watching a play at the theater."
+},
+{
+  "id": 144,
+  "germanWord": "das Kino",
+  "example": "Gehen wir heute ins Kino?",
+  "translation": "Are we going to the cinema today?"
+},
+{
+  "id": 145,
+  "germanWord": "der Bahnhof",
+  "example": "Der Bahnhof ist nicht weit entfernt.",
+  "translation": "The train station is not far away."
+},
+{
+  "id": 146,
+  "germanWord": "der Flughafen",
+  "example": "Wir fliegen morgen vom Flughafen ab.",
+  "translation": "We're flying from the airport tomorrow."
+},
+{
+  "id": 147,
+  "germanWord": "die Kirche",
+  "example": "Die Kirche steht im Zentrum.",
+  "translation": "The church is in the center."
+},
+{
+  "id": 148,
+  "germanWord": "das Schwimmbad",
+  "example": "Im Sommer gehen wir oft ins Schwimmbad.",
+  "translation": "We often go to the swimming pool in the summer."
+},
+{
+  "id": 149,
+  "germanWord": "die Schule",
+  "example": "Meine Kinder gehen in die Schule.",
+  "translation": "My children go to school."
+},
+{
+  "id": 150,
+  "germanWord": "das Wetter",
+  "example": "Das Wetter heute ist schön.",
+  "translation": "The weather today is nice."
+},
+{
+  "id": 151,
+  "germanWord": "sonnig",
+  "example": "Heute ist es sonnig und warm.",
+  "translation": "Today it is sunny and warm."
+},
+{
+  "id": 152,
+  "germanWord": "bewölkt",
+  "example": "Der Himmel ist heute bewölkt.",
+  "translation": "The sky is cloudy today."
+},
+{
+  "id": 153,
+  "germanWord": "regnerisch",
+  "example": "Morgen wird es regnerisch sein.",
+  "translation": "It will be rainy tomorrow."
+},
+{
+  "id": 154,
+  "germanWord": "windig",
+  "example": "Es ist ziemlich windig heute.",
+  "translation": "It's quite windy today."
+},
+{
+  "id": 155,
+  "germanWord": "stürmisch",
+  "example": "Es wird heute stürmisch sein.",
+  "translation": "It will be stormy today."
+},
+{
+  "id": 156,
+  "germanWord": "heiß",
+  "example": "Der Sommer in dieser Region ist sehr heiß.",
+  "translation": "The summer in this region is very hot."
+},
+{
+  "id": 157,
+  "germanWord": "warm",
+  "example": "Das Wasser im See ist angenehm warm.",
+  "translation": "The water in the lake is pleasantly warm."
+},
+{
+  "id": 158,
+  "germanWord": "kalt",
+  "example": "Der Winter kann hier sehr kalt sein.",
+  "translation": "Winter can be very cold here."
+},
+{
+  "id": 159,
+  "germanWord": "trocken",
+  "example": "Es war eine lange Zeit trocken.",
+  "translation": "It was dry for a long time."
+},
+{
+  "id": 160,
+  "germanWord": "der Niederschlag",
+  "example": "Der Niederschlag ist in diesem Monat gering.",
+  "translation": "Precipitation is low this month."
+},
+{
+  "id": 161,
+  "germanWord": "der Schnee",
+  "example": "Im Winter fällt oft Schnee.",
+  "translation": "Snow often falls in winter."
+},
+{
+  "id": 162,
+  "germanWord": "der Regen",
+  "example": "Der Regen hat den Boden feucht gemacht.",
+  "translation": "The rain moistened the ground."
+},
+{
+  "id": 163,
+  "germanWord": "das Gewitter",
+  "example": "Das Gewitter war sehr beeindruckend.",
+  "translation": "The thunderstorm was very impressive."
+},
+{
+  "id": 164,
+  "germanWord": "der Nebel",
+  "example": "Der Nebel erschwert die Sicht.",
+  "translation": "The fog impairs visibility."
+},
+{
+  "id": 165,
+  "germanWord": "der Himmel",
+  "example": "Der Himmel ist heute blau.",
+  "translation": "The sky is blue today."
+},
+{
+  "id": 166,
+  "germanWord": "die Wolke",
+  "example": "Es gibt nur wenige Wolken am Himmel.",
+  "translation": "There are only a few clouds in the sky."
+},
+{
+  "id": 167,
+  "germanWord": "der Sonnenschein",
+  "example": "Der Sonnenschein macht die Stimmung besser.",
+  "translation": "Sunshine improves the mood."
+},
+{
+  "id": 168,
+  "germanWord": "der Wind",
+  "example": "Der Wind weht sanft.",
+  "translation": "The wind is blowing gently."
+},
+{
+  "id": 169,
+  "germanWord": "das Fleisch",
+  "example": "Ich esse kein rotes Fleisch.",
+  "translation": "I don't eat red meat."
+},
+{
+  "id": 170,
+  "germanWord": "der Fisch",
+  "example": "Frischer Fisch ist auf dem Markt erhältlich.",
+  "translation": "Fresh fish is available at the market."
+},
+{
+  "id": 171,
+  "germanWord": "das Gemüse",
+  "example": "Wir kaufen immer frisches Gemüse.",
+  "translation": "We always buy fresh vegetables."
+},
+{
+  "id": 172,
+  "germanWord": "das Obst",
+  "example": "Ich esse gerne frisches Obst.",
+  "translation": "I enjoy eating fresh fruits."
+},
+{
+  "id": 173,
+  "germanWord": "das Brot",
+  "example": "Das Brot duftet herrlich frisch.",
+  "translation": "The bread smells wonderfully fresh."
+},
+{
+  "id": 174,
+  "germanWord": "das Getränk",
+  "example": "Kann ich ein Getränk bestellen?",
+  "translation": "Can I order a drink?"
+},
+{
+  "id": 175,
+  "germanWord": "das Restaurant",
+  "example": "Das Restaurant serviert exquisite Gerichte.",
+  "translation": "The restaurant serves exquisite dishes."
+},
+{
+  "id": 176,
+  "germanWord": "das Café",
+  "example": "Lass uns ins Café gehen und Kaffee trinken.",
+  "translation": "Let's go to the café and have coffee."
+},
+{
+  "id": 177,
+  "germanWord": "die Bar",
+  "example": "Wir treffen uns später in der Bar.",
+  "translation": "We'll meet later at the bar."
+},
+{
+  "id": 178,
+  "germanWord": "das Fast Food",
+  "example": "Ich esse selten Fast Food.",
+  "translation": "I rarely eat fast food."
+},
+{
+  "id": 179,
+  "germanWord": "das Eis",
+  "example": "Im Sommer genieße ich gerne Eis.",
+  "translation": "In the summer, I enjoy ice cream."
+},
+{
+  "id": 180,
+  "germanWord": "die Pizza",
+  "example": "Bestellst du eine Pizza?",
+  "translation": "Are you ordering a pizza?"
+},
+{
+  "id": 181,
+  "germanWord": "die Pasta",
+  "example": "Ich koche heute Pasta zum Abendessen.",
+  "translation": "I'm cooking pasta for dinner tonight."
+},
+{
+  "id": 182,
+  "germanWord": "der Salat",
+  "example": "Ein frischer Salat ist gesund.",
+  "translation": "A fresh salad is healthy."
+},
+{
+  "id": 183,
+  "germanWord": "der Kuchen",
+  "example": "Der Kuchen sieht köstlich aus.",
+  "translation": "The cake looks delicious."
+},
+{
+  "id": 184,
+  "germanWord": "das Dessert",
+  "example": "Für das Dessert habe ich Schokoladenkuchen.",
+  "translation": "For dessert, I have chocolate cake."
+},
+{
+  "id": 185,
+  "germanWord": "die Schokolade",
+  "example": "Ich esse gerne dunkle Schokolade.",
+  "translation": "I enjoy eating dark chocolate."
+},
+{
+  "id": 186,
+  "germanWord": "der Kaffee",
+  "example": "Am Morgen trinke ich immer Kaffee.",
+  "translation": "I always drink coffee in the morning."
+},
+{
+  "id": 187,
+  "germanWord": "der Tee",
+  "example": "In der kalten Jahreszeit trinke ich gerne Tee.",
+  "translation": "I like to drink tea in the cold season."
+},
+{
+  "id": 188,
+  "germanWord": "die Familie",
+  "example": "Wir verbringen viel Zeit mit der Familie.",
+  "translation": "We spend a lot of time with family."
+},
+{
+  "id": 189,
+  "germanWord": "der Vater",
+  "example": "Mein Vater ist Arzt.",
+  "translation": "My father is a doctor."
+},
+{
+  "id": 190,
+  "germanWord": "die Mutter",
+  "example": "Meine Mutter ist Lehrerin.",
+  "translation": "My mother is a teacher."
+},
+{
+  "id": 191,
+  "germanWord": "der Bruder",
+  "example": "Mein Bruder ist jünger als ich.",
+  "translation": "My brother is younger than me."
+},
+{
+  "id": 192,
+  "germanWord": "die Schwester",
+  "example": "Meine Schwester studiert Medizin.",
+  "translation": "My sister is studying medicine."
+},
+{
+  "id": 193,
+  "germanWord": "der Sohn",
+  "example": "Unser Sohn spielt Fußball.",
+  "translation": "Our son plays soccer."
+},
+{
+  "id": 194,
+  "germanWord": "die Tochter",
+  "example": "Meine Tochter geht zur Schule.",
+  "translation": "My daughter goes to school."
+},
+{
+  "id": 195,
+  "germanWord": "der Großvater",
+  "example": "Mein Großvater erzählt gerne Geschichten.",
+  "translation": "My grandfather likes to tell stories."
+},
+{
+  "id": 196,
+  "germanWord": "die Großmutter",
+  "example": "Meine Großmutter backt leckere Kuchen.",
+  "translation": "My grandmother bakes delicious cakes."
+},
+{
+  "id": 197,
+  "germanWord": "der Onkel",
+  "example": "Mein Onkel arbeitet als Ingenieur.",
+  "translation": "My uncle works as an engineer."
+},
+{
+  "id": 198,
+  "germanWord": "die Tante",
+  "example": "Meine Tante ist eine gute Köchin.",
+  "translation": "My aunt is a good cook."
+},
+{
+  "id": 199,
+  "germanWord": "der Cousin",
+  "example": "Mein Cousin spielt Gitarre.",
+  "translation": "My cousin plays the guitar."
+},
+{
+  "id": 200,
+  "germanWord": "die Cousine",
+  "example": "Meine Cousine studiert Kunstgeschichte.",
+  "translation": "My cousin (female) is studying art history."
+},
+{
+  "id": 201,
+  "germanWord": "der Freund",
+  "example": "Er ist mein bester Freund.",
+  "translation": "He is my best friend."
+},
+{
+  "id": 202,
+  "germanWord": "die Freundin",
+  "example": "Sie ist meine beste Freundin.",
+  "translation": "She is my best friend (female)."
+},
+{
+  "id": 203,
+  "germanWord": "der Nachbar",
+  "example": "Unsere Nachbarn sind sehr nett.",
+  "translation": "Our neighbors are very friendly."
+},
+{
+  "id": 204,
+  "germanWord": "die Nachbarin",
+  "example": "Die Nachbarin hat eine süße Katze.",
+  "translation": "The neighbor (female) has a cute cat."
+},
+{
+  "id": 205,
+  "germanWord": "der Kollege",
+  "example": "Mein Kollege hilft mir oft.",
+  "translation": "My colleague often helps me."
+},
+{
+  "id": 206,
+  "germanWord": "die Kollegin",
+  "example": "Die Kollegin arbeitet hart.",
+  "translation": "The colleague (female) works hard."
+},
+{
+  "id": 207,
+  "germanWord": "der Chef",
+  "example": "Der Chef ist sehr professionell.",
+  "translation": "The boss is very professional."
+},
+{
+  "id": 208,
+  "germanWord": "die Chefin",
+  "example": "Die Chefin ist eine inspirierende Führungskraft.",
+  "translation": "The boss (female) is an inspiring leader."
+},
+{
+  "id": 209,
+  "germanWord": "der Arzt",
+  "example": "Der Arzt hat mir geholfen.",
+  "translation": "The doctor helped me."
+},
+{
+  "id": 210,
+  "germanWord": "die Ärztin",
+  "example": "Die Ärztin ist sehr kompetent.",
+  "translation": "The doctor (female) is very competent."
+},
+{
+  "id": 211,
+  "germanWord": "der Lehrer",
+  "example": "Der Lehrer erklärt gut.",
+  "translation": "The teacher explains well."
+},
+{
+  "id": 212,
+  "germanWord": "die Lehrerin",
+  "example": "Die Lehrerin ist streng, aber fair.",
+  "translation": "The teacher (female) is strict but fair."
+},
+{
+  "id": 213,
+  "germanWord": "der Ingenieur",
+  "example": "Der Ingenieur entwickelt neue Technologien.",
+  "translation": "The engineer develops new technologies."
+},
+{
+  "id": 214,
+  "germanWord": "die Ingenieurin",
+  "example": "Die Ingenieurin hat an innovativen Projekten gearbeitet.",
+  "translation": "The engineer (female) has worked on innovative projects."
+},
+{
+  "id": 215,
+  "germanWord": "der Anwalt",
+  "example": "Der Anwalt vertritt seine Mandanten.",
+  "translation": "The lawyer represents his clients."
+},
+{
+  "id": 216,
+  "germanWord": "die Anwältin",
+  "example": "Die Anwältin setzt sich für Gerechtigkeit ein.",
+  "translation": "The lawyer (female) stands for justice."
+},
+{
+  "id": 217,
+  "germanWord": "der Polizist",
+  "example": "Der Polizist sorgt für die Sicherheit der Bürger.",
+  "translation": "The police officer ensures the safety of citizens."
+},
+{
+  "id": 218,
+  "germanWord": "die Polizistin",
+  "example": "Die Polizistin ist freundlich und respektvoll.",
+  "translation": "The police officer (female) is friendly and respectful."
+},
+{
+  "id": 219,
+  "germanWord": "der Kellner",
+  "example": "Der Kellner nimmt unsere Bestellung auf.",
+  "translation": "The waiter takes our order."
+},
+{
+  "id": 220,
+  "germanWord": "die Kellnerin",
+  "example": "Die Kellnerin empfiehlt das Tagesgericht.",
+  "translation": "The waitress recommends the daily special."
+},
+{
+  "id": 221,
+  "germanWord": "der Koch",
+  "example": "Der Koch bereitet köstliche Mahlzeiten zu.",
+  "translation": "The chef prepares delicious meals."
+},
+{
+  "id": 222,
+  "germanWord": "die Köchin",
+  "example": "Die Köchin hat eine Leidenschaft fürs Kochen.",
+  "translation": "The chef (female) has a passion for cooking."
+},
+{
+  "id": 223,
+  "germanWord": "der Friseur",
+  "example": "Der Friseur schneidet mein Haar.",
+  "translation": "The hairdresser cuts my hair."
+},
+{
+  "id": 224,
+  "germanWord": "die Friseurin",
+  "example": "Die Friseurin berät mich zu neuen Frisuren.",
+  "translation": "The hairdresser (female) advises me on new hairstyles."
+},
+{
+  "id": 225,
+  "germanWord": "der Kopf",
+  "example": "Der Kopf enthält das Gehirn.",
+  "translation": "The head contains the brain."
+},
+{
+  "id": 226,
+  "germanWord": "das Gesicht",
+  "example": "Ihr Gesicht strahlt Freude aus.",
+  "translation": "Her face radiates joy."
+},
+{
+  "id": 227,
+  "germanWord": "das Auge",
+  "example": "Das Auge ist ein wichtiges Sinnesorgan.",
+  "translation": "The eye is an important sensory organ."
+},
+{
+  "id": 228,
+  "germanWord": "die Nase",
+  "example": "Die Nase hilft beim Riechen.",
+  "translation": "The nose helps with smelling."
+},
+{
+  "id": 229,
+  "germanWord": "der Mund",
+  "example": "Der Mund wird zum Essen und Sprechen verwendet.",
+  "translation": "The mouth is used for eating and speaking."
+},
+{
+  "id": 230,
+  "germanWord": "der Zahn",
+  "example": "Ich habe Zahnschmerzen.",
+  "translation": "I have a toothache."
+},
+{
+  "id": 231,
+  "germanWord": "das Ohr",
+  "example": "Das Ohr ermöglicht das Hören von Geräuschen.",
+  "translation": "The ear allows hearing sounds."
+},
+{
+  "id": 232,
+  "germanWord": "der Hals",
+  "example": "Der Hals verbindet den Kopf mit dem Körper.",
+  "translation": "The neck connects the head to the body."
+},
+{
+  "id": 233,
+  "germanWord": "der Arm",
+  "example": "Hebe deinen Arm hoch.",
+  "translation": "Raise your arm."
+},
+{
+  "id": 234,
+  "germanWord": "die Hand",
+  "example": "Ich schreibe mit meiner Hand.",
+  "translation": "I write with my hand."
+},
+{
+  "id": 235,
+  "germanWord": "der Finger",
+  "example": "Zeige auf den Bildschirm mit deinem Finger.",
+  "translation": "Point to the screen with your finger."
+},
+{
+  "id": 236,
+  "germanWord": "das Bein",
+  "example": "Mein Bein tut weh.",
+  "translation": "My leg hurts."
+},
+{
+  "id": 237,
+  "germanWord": "der Fuß",
+  "example": "Ich habe mir den Fuß verstaucht.",
+  "translation": "I sprained my foot."
+},
+{
+  "id": 238,
+  "germanWord": "der Bauch",
+  "example": "Mein Bauch ist voll.",
+  "translation": "My stomach is full."
+},
+{
+  "id": 239,
+  "germanWord": "der Rücken",
+  "example": "Ich habe Schmerzen im Rücken.",
+  "translation": "I have back pain."
+},
+{
+  "id": 240,
+  "germanWord": "die Haut",
+  "example": "Die Haut schützt unseren Körper.",
+  "translation": "The skin protects our body."
+},
+{
+  "id": 241,
+  "germanWord": "das Haar",
+  "example": "Meine Haare sind lang.",
+  "translation": "My hair is long."
+},
+{
+  "id": 242,
+  "germanWord": "das Knie",
+  "example": "Mein Knie tut weh, wenn ich laufe.",
+  "translation": "My knee hurts when I walk."
+},
+{
+  "id": 243,
+  "germanWord": "der Ellenbogen",
+  "example": "Der Ellenbogen hilft bei Bewegungen des Arms.",
+  "translation": "The elbow aids in arm movements."
+},
+{
+  "id": 244,
+  "germanWord": "das Herz",
+  "example": "Das Herz pumpt Blut durch den Körper.",
+  "translation": "The heart pumps blood throughout the body."
+},
+{
+  "id": 245,
+  "germanWord": "das Gehirn",
+  "example": "Das Gehirn steuert unsere Denkprozesse.",
+  "translation": "The brain controls our thought processes."
+},
+{
+  "id": 246,
+  "germanWord": "der Muskel",
+  "example": "Regelmäßiges Training stärkt die Muskeln.",
+  "translation": "Regular exercise strengthens the muscles."
+},
+{
+  "id": 247,
+  "germanWord": "das Skelett",
+  "example": "Das Skelett gibt dem Körper seine Form.",
+  "translation": "The skeleton gives the body its shape."
+},
+{
+  "id": 248,
+  "germanWord": "das Blut",
+  "example": "Das Blut transportiert Nährstoffe im Körper.",
+  "translation": "Blood transports nutrients in the body."
+},
+{
+  "id": 249,
+  "germanWord": "das Bett",
+  "example": "Ich schlafe gerne in meinem gemütlichen Bett.",
+  "translation": "I enjoy sleeping in my cozy bed."
+},
+{
+  "id": 250,
+  "germanWord": "der Stuhl",
+  "example": "Setz dich auf den Stuhl.",
+  "translation": "Sit down on the chair."
+},
+{
+  "id": 251,
+  "germanWord": "der Tisch",
+  "example": "Der Tisch ist gedeckt für das Abendessen.",
+  "translation": "The table is set for dinner."
+},
+{
+  "id": 252,
+  "germanWord": "der Schrank",
+  "example": "Der Schrank ist groß und geräumig.",
+  "translation": "The wardrobe is big and spacious."
+},
+{
+  "id": 253,
+  "germanWord": "das Sofa",
+  "example": "Das Sofa ist sehr bequem.",
+  "translation": "The sofa is very comfortable."
+},
+{
+  "id": 254,
+  "germanWord": "der Teppich",
+  "example": "Der Teppich verleiht dem Raum Wärme.",
+  "translation": "The carpet adds warmth to the room."
+},
+{
+  "id": 255,
+  "germanWord": "der Schreibtisch",
+  "example": "Mein Schreibtisch ist voller Bücher.",
+  "translation": "My desk is full of books."
+},
+{
+  "id": 256,
+  "germanWord": "das Regal",
+  "example": "Ich stelle meine Bücher ins Regal.",
+  "translation": "I put my books on the shelf."
+},
+{
+  "id": 257,
+  "germanWord": "der Kleiderschrank",
+  "example": "Der Kleiderschrank ist gut organisiert.",
+  "translation": "The wardrobe is well-organized."
+},
+{
+  "id": 258,
+  "germanWord": "der Spiegel",
+  "example": "Ich schaue mich im Spiegel an.",
+  "translation": "I look at myself in the mirror."
+},
+{
+  "id": 259,
+  "germanWord": "die Kommode",
+  "example": "Die Kommode ist ein antikes Möbelstück.",
+  "translation": "The dresser is an antique piece of furniture."
+},
+{
+  "id": 260,
+  "germanWord": "die Garderobe",
+  "example": "Die Garderobe ist im Flur.",
+  "translation": "The coat rack is in the hallway."
+},
+{
+  "id": 261,
+  "germanWord": "die Lampe",
+  "example": "Die Lampe spendet warmes Licht.",
+  "translation": "The lamp emits warm light."
+},
+{
+  "id": 262,
+  "germanWord": "der Vorhang",
+  "example": "Zieh die Vorhänge zu, es wird dunkel.",
+  "translation": "Close the curtains; it's getting dark."
+},
+{
+  "id": 263,
+  "germanWord": "die Matratze",
+  "example": "Die Matratze ist sehr bequem zum Schlafen.",
+  "translation": "The mattress is very comfortable for sleeping."
+},
+{
+  "id": 264,
+  "germanWord": "das Kissen",
+  "example": "Das Kissen stützt den Kopf im Schlaf.",
+  "translation": "The pillow supports the head while sleeping."
+},
+{
+  "id": 265,
+  "germanWord": "das Handtuch",
+  "example": "Das Handtuch ist weich und saugfähig.",
+  "translation": "The towel is soft and absorbent."
+},
+{
+  "id": 266,
+  "germanWord": "die Bettdecke",
+  "example": "Die Bettdecke hält warm in der Nacht.",
+  "translation": "The duvet keeps you warm at night."
+},
+{
+  "id": 267,
+  "germanWord": "der Pullover",
+  "example": "Im Winter trage ich gerne Pullover.",
+  "translation": "I like to wear sweaters in winter."
+},
+{
+  "id": 268,
+  "germanWord": "das Hemd",
+  "example": "Das Hemd passt gut zu dieser Hose.",
+  "translation": "The shirt goes well with these pants."
+},
+{
+  "id": 269,
+  "germanWord": "die Hose",
+  "example": "Die Hose sitzt perfekt.",
+  "translation": "The pants fit perfectly."
+},
+{
+  "id": 270,
+  "germanWord": "das Kleid",
+  "example": "Das Kleid ist elegant und schick.",
+  "translation": "The dress is elegant and chic."
+},
+{
+  "id": 271,
+  "germanWord": "der Rock",
+  "example": "Der Rock hat ein schönes Muster.",
+  "translation": "The skirt has a nice pattern."
+},
+{
+  "id": 272,
+  "germanWord": "die Bluse",
+  "example": "Die Bluse passt gut zu dieser Hose.",
+  "translation": "The blouse goes well with these pants."
+},
+{
+  "id": 273,
+  "germanWord": "der Anzug",
+  "example": "Der Anzug sieht elegant aus.",
+  "translation": "The suit looks elegant."
+},
+{
+  "id": 274,
+  "germanWord": "das Kleidungsstück",
+  "example": "Dieses Kleidungsstück ist aus hochwertigem Material.",
+  "translation": "This piece of clothing is made from high-quality material."
+},
+{
+  "id": 275,
+  "germanWord": "die Jacke",
+  "example": "Die Jacke hält warm im Winter.",
+  "translation": "The jacket keeps you warm in winter."
+},
+{
+  "id": 276,
+  "germanWord": "der Mantel",
+  "example": "Der Mantel ist perfekt für kalte Tage.",
+  "translation": "The coat is perfect for cold days."
+},
+{
+  "id": 277,
+  "germanWord": "die Mütze",
+  "example": "Im Winter trage ich eine warme Mütze.",
+  "translation": "In winter, I wear a warm hat."
+},
+{
+  "id": 278,
+  "germanWord": "die Handschuhe",
+  "example": "Die Handschuhe schützen vor Kälte.",
+  "translation": "The gloves protect from the cold."
+},
+{
+  "id": 279,
+  "germanWord": "die Socken",
+  "example": "Ich trage immer warme Socken im Winter.",
+  "translation": "I always wear warm socks in winter."
+},
+{
+  "id": 280,
+  "germanWord": "die Schuhe",
+  "example": "Die Schuhe passen gut zu diesem Outfit.",
+  "translation": "The shoes go well with this outfit."
+},
+{
+  "id": 281,
+  "germanWord": "das T-Shirt",
+  "example": "Ich trage ein lockeres T-Shirt im Sommer.",
+  "translation": "I wear a casual T-shirt in summer."
+},
+{
+  "id": 282,
+  "germanWord": "die Hose",
+  "example": "Die Hose sitzt bequem.",
+  "translation": "The pants are comfortable."
+},
+{
+  "id": 283,
+  "germanWord": "der Rock",
+  "example": "Der Rock ist luftig und leicht.",
+  "translation": "The skirt is airy and light."
+},
+{
+  "id": 284,
+  "germanWord": "das Hemd",
+  "example": "Das Hemd ist elegant und schick.",
+  "translation": "The shirt is elegant and stylish."
+},
+{
+  "id": 285,
+  "germanWord": "die Bluse",
+  "example": "Die Bluse hat eine schöne Farbe.",
+  "translation": "The blouse has a beautiful color."
+},
+{
+  "id": 286,
+  "germanWord": "der Pullover",
+  "example": "Der Pullover hält warm im Winter.",
+  "translation": "The sweater keeps you warm in winter."
+},
+{
+  "id": 287,
+  "germanWord": "die Jacke",
+  "example": "Die Jacke ist wind- und wasserfest.",
+  "translation": "The jacket is windproof and waterproof."
+},
+{
+  "id": 288,
+  "germanWord": "der Mantel",
+  "example": "Der Mantel ist stilvoll und zeitlos.",
+  "translation": "The coat is stylish and timeless."
+},
+{
+  "id": 289,
+  "germanWord": "die Weste",
+  "example": "Die Weste rundet das Outfit ab.",
+  "translation": "The vest completes the outfit."
+},
+{
+  "id": 290,
+  "germanWord": "die Krawatte",
+  "example": "Die Krawatte ist perfekt gebunden.",
+  "translation": "The tie is perfectly tied."
+},
+{
+  "id": 291,
+  "germanWord": "die Mütze",
+  "example": "Die Mütze sieht cool aus.",
+  "translation": "The cap looks cool."
+},
+{
+  "id": 292,
+  "germanWord": "die Handschuhe",
+  "example": "Die Handschuhe halten die Hände warm.",
+  "translation": "The gloves keep the hands warm."
+},
+{
+  "id": 293,
+  "germanWord": "der Schal",
+  "example": "Der Schal ist weich und kuschelig.",
+  "translation": "The scarf is soft and cozy."
+},
+{
+  "id": 294,
+  "germanWord": "die Handtasche",
+  "example": "Die Handtasche passt zu jedem Anlass.",
+  "translation": "The handbag suits any occasion."
+},
+{
+  "id": 295,
+  "germanWord": "der Rucksack",
+  "example": "Der Rucksack bietet viel Platz.",
+  "translation": "The backpack provides plenty of space."
+},
+{
+  "id": 296,
+  "germanWord": "der Hut",
+  "example": "Der Hut schützt vor der Sonne.",
+  "translation": "The hat protects from the sun."
+},
+{
+  "id": 297,
+  "germanWord": "die Sonnenbrille",
+  "example": "Die Sonnenbrille sieht modisch aus.",
+  "translation": "The sunglasses look fashionable."
+},
+{
+  "id": 298,
+  "germanWord": "die Flip-Flops",
+  "example": "Ich trage gerne Flip-Flops am Strand.",
+  "translation": "I like to wear flip-flops at the beach."
+},
+{
+  "id": 299,
+  "germanWord": "die Hausschuhe",
+  "example": "Die Hausschuhe sind warm und gemütlich.",
+  "translation": "The slippers are warm and comfortable."
+},
+{
+  "id": 300,
+  "germanWord": "der Bademantel",
+  "example": "Der Bademantel ist flauschig und weich.",
+  "translation": "The bathrobe is fluffy and soft."
+},
+{
+  "id": 301,
+  "germanWord": "die Unterwäsche",
+  "example": "Gute Unterwäsche sorgt für Komfort.",
+  "translation": "Good underwear provides comfort."
+},
+{
+  "id": 302,
+  "germanWord": "die Socken",
+  "example": "Die Socken sind bunt und lustig.",
+  "translation": "The socks are colorful and fun."
+},
+{
+  "id": 303,
+  "germanWord": "das Nachthemd",
+  "example": "Das Nachthemd ist bequem für die Nacht.",
+  "translation": "The nightgown is comfortable for the night."
+},
+{
+  "id": 304,
+  "germanWord": "die Pyjamas",
+  "example": "Ich trage gerne gemütliche Pyjamas zum Schlafen.",
+  "translation": "I like to wear cozy pajamas for sleeping."
+},
+{
+  "id": 305,
+  "germanWord": "die Badehose",
+  "example": "Die Badehose ist perfekt für den Pool.",
+  "translation": "The swimming trunks are perfect for the pool."
+},
+{
+  "id": 306,
+  "germanWord": "der Bikini",
+  "example": "Der Bikini ist für den Strandurlaub.",
+  "translation": "The bikini is for the beach vacation."
+},
+{
+  "id": 307,
+  "germanWord": "das Abendkleid",
+  "example": "Das Abendkleid ist elegant für besondere Anlässe.",
+  "translation": "The evening gown is elegant for special occasions."
+},
+{
+  "id": 308,
+  "germanWord": "die Abendgarderobe",
+  "example": "Die Abendgarderobe ist schick und stilvoll.",
+  "translation": "The evening attire is chic and stylish."
+},
+{
+  "id": 309,
+  "germanWord": "die Arbeitskleidung",
+  "example": "Die Arbeitskleidung ist funktional und strapazierfähig.",
+  "translation": "The work attire is functional and durable."
+},
+{
+  "id": 310,
+  "germanWord": "der Kittel",
+  "example": "Der Kittel wird im Labor getragen.",
+  "translation": "The lab coat is worn in the laboratory."
+},
+{
+  "id": 311,
+  "germanWord": "der Schutzanzug",
+  "example": "Der Schutzanzug wird in gefährlichen Situationen getragen.",
+  "translation": "The protective suit is worn in dangerous situations."
+},
+{
+  "id": 312,
+  "germanWord": "das Tier",
+  "example": "Das Tier lebt im Zoo.",
+  "translation": "The animal lives in the zoo."
+},
+{
+  "id": 313,
+  "germanWord": "der Hund",
+  "example": "Der Hund ist ein treuer Begleiter.",
+  "translation": "The dog is a loyal companion."
+},
+{
+  "id": 314,
+  "germanWord": "die Katze",
+  "example": "Die Katze jagt gerne Mäuse.",
+  "translation": "The cat likes to hunt mice."
+},
+{
+  "id": 315,
+  "germanWord": "das Pferd",
+  "example": "Das Pferd galoppiert über die Wiese.",
+  "translation": "The horse gallops across the meadow."
+},
+{
+  "id": 316,
+  "germanWord": "der Vogel",
+  "example": "Der Vogel singt morgens.",
+  "translation": "The bird sings in the morning."
+},
+{
+  "id": 317,
+  "germanWord": "der Fisch",
+  "example": "Der Fisch schwimmt im Wasser.",
+  "translation": "The fish swims in the water."
+},
+{
+  "id": 318,
+  "germanWord": "die Maus",
+  "example": "Die Maus knabbert an einem Käse.",
+  "translation": "The mouse nibbles on cheese."
+},
+{
+  "id": 319,
+  "germanWord": "der Löwe",
+  "example": "Der Löwe ist der König der Tiere.",
+  "translation": "The lion is the king of animals."
+},
+{
+  "id": 320,
+  "germanWord": "das Kaninchen",
+  "example": "Das Kaninchen hoppelt durch den Garten.",
+  "translation": "The rabbit hops through the garden."
+},
+{
+  "id": 321,
+  "germanWord": "die Schlange",
+  "example": "Die Schlange ist lang und schlank.",
+  "translation": "The snake is long and slender."
+},
+{
+  "id": 322,
+  "germanWord": "das Krokodil",
+  "example": "Das Krokodil liegt am Ufer des Flusses.",
+  "translation": "The crocodile lies at the riverbank."
+},
+{
+  "id": 323,
+  "germanWord": "der Elefant",
+  "example": "Der Elefant hat einen langen Rüssel.",
+  "translation": "The elephant has a long trunk."
+},
+{
+  "id": 324,
+  "germanWord": "das Affe",
+  "example": "Der Affe klettert auf den Baum.",
+  "translation": "The monkey climbs the tree."
+},
+{
+  "id": 325,
+  "germanWord": "der Bär",
+  "example": "Der Bär lebt in den Bergen.",
+  "translation": "The bear lives in the mountains."
+},
+{
+  "id": 326,
+  "germanWord": "das Huhn",
+  "example": "Das Huhn legt Eier.",
+  "translation": "The chicken lays eggs."
+},
+{
+  "id": 327,
+  "germanWord": "die Kuh",
+  "example": "Die Kuh gibt Milch.",
+  "translation": "The cow produces milk."
+},
+{
+  "id": 328,
+  "germanWord": "das Schaf",
+  "example": "Das Schaf hat flauschiges Fell.",
+  "translation": "The sheep has fluffy fur."
+},
+{
+  "id": 329,
+  "germanWord": "der Frosch",
+  "example": "Der Frosch quakt im Teich.",
+  "translation": "The frog croaks in the pond."
+},
+{
+  "id": 330,
+  "germanWord": "die Spinne",
+  "example": "Die Spinne baut ein Netz.",
+  "translation": "The spider builds a web."
+},
+{
+  "id": 331,
+  "germanWord": "der Schmetterling",
+  "example": "Der Schmetterling fliegt bunt durch den Garten.",
+  "translation": "The butterfly flies brightly through the garden."
+},
+{
+  "id": 332,
+  "germanWord": "die Biene",
+  "example": "Die Biene sammelt Nektar.",
+  "translation": "The bee collects nectar."
+},
+{
+  "id": 333,
+  "germanWord": "der Hai",
+  "example": "Der Hai schwimmt im Ozean.",
+  "translation": "The shark swims in the ocean."
+},
+{
+  "id": 334,
+  "germanWord": "das Reh",
+  "example": "Das Reh ist scheu.",
+  "translation": "The deer is shy."
+},
+{
+  "id": 335,
+  "germanWord": "der Adler",
+  "example": "Der Adler fliegt hoch am Himmel.",
+  "translation": "The eagle flies high in the sky."
+},
+{
+  "id": 336,
+  "germanWord": "der Delphin",
+  "example": "Der Delphin springt aus dem Wasser.",
+  "translation": "The dolphin jumps out of the water."
+},
+{
+  "id": 337,
+  "germanWord": "die Schule",
+  "example": "Die Schule beginnt um 8 Uhr.",
+  "translation": "School starts at 8 o'clock."
+},
+{
+  "id": 338,
+  "germanWord": "der Schüler",
+  "example": "Der Schüler lernt fleißig.",
+  "translation": "The student studies diligently."
+},
+{
+  "id": 339,
+  "germanWord": "die Schülerin",
+  "example": "Die Schülerin liest ein Buch.",
+  "translation": "The female student is reading a book."
+},
+{
+  "id": 340,
+  "germanWord": "der Lehrer",
+  "example": "Der Lehrer erklärt das Thema.",
+  "translation": "The teacher explains the topic."
+},
+{
+  "id": 341,
+  "germanWord": "die Lehrerin",
+  "example": "Die Lehrerin unterrichtet Mathematik.",
+  "translation": "The female teacher teaches mathematics."
+},
+{
+  "id": 342,
+  "germanWord": "das Klassenzimmer",
+  "example": "Das Klassenzimmer ist mit Tafeln ausgestattet.",
+  "translation": "The classroom is equipped with chalkboards."
+},
+{
+  "id": 343,
+  "germanWord": "die Tafel",
+  "example": "Die Tafel ist voller Notizen.",
+  "translation": "The chalkboard is full of notes."
+},
+{
+  "id": 344,
+  "germanWord": "das Buch",
+  "example": "Das Buch enthält interessante Informationen.",
+  "translation": "The book contains interesting information."
+},
+{
+  "id": 345,
+  "germanWord": "der Stift",
+  "example": "Der Stift schreibt gut.",
+  "translation": "The pen writes well."
+},
+{
+  "id": 346,
+  "germanWord": "der Bleistift",
+  "example": "Der Bleistift ist spitz.",
+  "translation": "The pencil is sharp."
+},
+{
+  "id": 347,
+  "germanWord": "der Radiergummi",
+  "example": "Der Radiergummi entfernt Fehler.",
+  "translation": "The eraser removes mistakes."
+},
+{
+  "id": 348,
+  "germanWord": "das Heft",
+  "example": "Das Heft ist vollgeschrieben.",
+  "translation": "The exercise book is filled."
+},
+{
+  "id": 349,
+  "germanWord": "der Rucksack",
+  "example": "Der Rucksack enthält Schulbücher.",
+  "translation": "The backpack contains school books."
+},
+{
+  "id": 350,
+  "germanWord": "der Stundenplan",
+  "example": "Der Stundenplan zeigt den Unterrichtsplan.",
+  "translation": "The timetable shows the class schedule."
+},
+{
+  "id": 351,
+  "germanWord": "die Prüfung",
+  "example": "Die Prüfung findet nächsten Monat statt.",
+  "translation": "The exam will take place next month."
+},
+{
+  "id": 352,
+  "germanWord": "die Hausaufgabe",
+  "example": "Die Hausaufgabe ist bis morgen fällig.",
+  "translation": "The homework is due by tomorrow."
+},
+{
+  "id": 353,
+  "germanWord": "die Pause",
+  "example": "Die Pause dauert 15 Minuten.",
+  "translation": "The break lasts for 15 minutes."
+},
+{
+  "id": 354,
+  "germanWord": "der Schulbus",
+  "example": "Der Schulbus fährt um 7 Uhr ab.",
+  "translation": "The school bus departs at 7 o'clock."
+},
+{
+  "id": 355,
+  "germanWord": "das Labor",
+  "example": "Im Labor führen wir Experimente durch.",
+  "translation": "In the laboratory, we conduct experiments."
+},
+{
+  "id": 356,
+  "germanWord": "die Bibliothek",
+  "example": "Ich leihe Bücher aus der Bibliothek aus.",
+  "translation": "I borrow books from the library."
+},
+{
+  "id": 357,
+  "germanWord": "die Klasse",
+  "example": "Unsere Klasse hat 30 Schüler.",
+  "translation": "Our class has 30 students."
+},
+{
+  "id": 358,
+  "germanWord": "das Projekt",
+  "example": "Wir arbeiten an einem gemeinsamen Projekt.",
+  "translation": "We are working on a collaborative project."
+},
+{
+  "id": 359,
+  "germanWord": "null",
+  "example": "Null ist die Grundzahl für 'nichts'.",
+  "translation": "Zero is the base number for 'nothing'."
+},
+{
+  "id": 360,
+  "germanWord": "eins",
+  "example": "Eins folgt direkt nach null.",
+  "translation": "One comes right after zero."
+},
+{
+  "id": 361,
+  "germanWord": "zwei",
+  "example": "Zwei ist die Zahl nach eins.",
+  "translation": "Two is the number after one."
+},
+{
+  "id": 362,
+  "germanWord": "drei",
+  "example": "Drei kommt nach zwei.",
+  "translation": "Three comes after two."
+},
+{
+  "id": 363,
+  "germanWord": "vier",
+  "example": "Vier ist eine gerade Zahl.",
+  "translation": "Four is an even number."
+},
+{
+  "id": 364,
+  "germanWord": "fünf",
+  "example": "Fünf Finger hat eine Hand.",
+  "translation": "A hand has five fingers."
+},
+{
+  "id": 365,
+  "germanWord": "sechs",
+  "example": "Sechs ist eine halbe Dutzend.",
+  "translation": "Six is a half dozen."
+},
+{
+  "id": 366,
+  "germanWord": "sieben",
+  "example": "Sieben Tage hat eine Woche.",
+  "translation": "A week has seven days."
+},
+{
+  "id": 367,
+  "germanWord": "acht",
+  "example": "Acht ist eine gerade Zahl.",
+  "translation": "Eight is an even number."
+},
+{
+  "id": 368,
+  "germanWord": "neun",
+  "example": "Neun kommt vor zehn.",
+  "translation": "Nine comes before ten."
+},
+{
+  "id": 369,
+  "germanWord": "zehn",
+  "example": "Zehn Finger hat ein Mensch.",
+  "translation": "A human has ten fingers."
+},
+{
+  "id": 370,
+  "germanWord": "elf",
+  "example": "Elf ist eine Primzahl.",
+  "translation": "Eleven is a prime number."
+},
+{
+  "id": 371,
+  "germanWord": "zwölf",
+  "example": "Es gibt zwölf Monate im Jahr.",
+  "translation": "There are twelve months in a year."
+},
+{
+  "id": 372,
+  "germanWord": "dreizehn",
+  "example": "Dreizehn ist eine ungerade Zahl.",
+  "translation": "Thirteen is an odd number."
+},
+{
+  "id": 373,
+  "germanWord": "vierzehn",
+  "example": "Vierzehn Tage sind zwei Wochen.",
+  "translation": "Fourteen days make two weeks."
+},
+{
+  "id": 374,
+  "germanWord": "fünfzehn",
+  "example": "Fünfzehn Minuten sind eine Viertelstunde.",
+  "translation": "Fifteen minutes make a quarter of an hour."
+},
+{
+  "id": 375,
+  "germanWord": "sechzehn",
+  "example": "Sechzehn ist eine quadratische Zahl.",
+  "translation": "Sixteen is a square number."
+},
+{
+  "id": 376,
+  "germanWord": "siebzehn",
+  "example": "Siebzehn ist eine Primzahl.",
+  "translation": "Seventeen is a prime number."
+},
+{
+  "id": 377,
+  "germanWord": "achtzehn",
+  "example": "Achtzehn ist eine gerade Zahl.",
+  "translation": "Eighteen is an even number."
+},
+{
+  "id": 378,
+  "germanWord": "neunzehn",
+  "example": "Neunzehn ist eine ungerade Zahl.",
+  "translation": "Nineteen is an odd number."
+},
+{
+  "id": 379,
+  "germanWord": "zwanzig",
+  "example": "Zwanzig Euro sind zwei Zehn-Euro-Scheine.",
+  "translation": "Twenty euros are two ten-euro notes."
+},
+{
+  "id": 380,
+  "germanWord": "einundzwanzig",
+  "example": "Einundzwanzig ist nach zwanzig.",
+  "translation": "Twenty-one comes after twenty."
+},
+{
+  "id": 381,
+  "germanWord": "dreißig",
+  "example": "Dreißig Minuten sind eine halbe Stunde.",
+  "translation": "Thirty minutes make half an hour."
+},
+{
+  "id": 382,
+  "germanWord": "vierzig",
+  "example": "Vierzig ist eine runde Zahl.",
+  "translation": "Forty is a round number."
+},
+{
+  "id": 383,
+  "germanWord": "fünfzig",
+  "example": "Fünfzig ist eine Hälfte von hundert.",
+  "translation": "Fifty is half of one hundred."
+},
+{
+  "id": 384,
+  "germanWord": "sechzig",
+  "example": "Sechzig Minuten sind eine Stunde.",
+  "translation": "Sixty minutes make one hour."
+},
+{
+  "id": 385,
+  "germanWord": "siebzig",
+  "example": "Siebzig ist eine Zahl zwischen sechzig und achtzig.",
+  "translation": "Seventy is a number between sixty and eighty."
+},
+{
+  "id": 386,
+  "germanWord": "achtzig",
+  "example": "Achtzig ist eine runde Zahl.",
+  "translation": "Eighty is a round number."
+},
+{
+  "id": 387,
+  "germanWord": "neunzig",
+  "example": "Neunzig ist eine Zahl zwischen achtzig und hundert.",
+  "translation": "Ninety is a number between eighty and one hundred."
+},
+{
+  "id": 388,
+  "germanWord": "hundert",
+  "example": "Hundert Zentimeter sind ein Meter.",
+  "translation": "One hundred centimeters make one meter."
+},
+{
+  "id": 389,
+  "germanWord": "hunderteins",
+  "example": "Hunderteins ist nach hundert.",
+  "translation": "One hundred and one comes after one hundred."
+},
+{
+  "id": 390,
+  "germanWord": "zweihundert",
+  "example": "Zweihundert ist das Doppelte von hundert.",
+  "translation": "Two hundred is double of one hundred."
+},
+{
+  "id": 391,
+  "germanWord": "dreihundert",
+  "example": "Dreihundert ist das Dreifache von hundert.",
+  "translation": "Three hundred is triple of one hundred."
+},
+{
+  "id": 392,
+  "germanWord": "tausend",
+  "example": "Tausend Gramm sind ein Kilogramm.",
+  "translation": "One thousand grams make one kilogram."
+},
+{
+  "id": 393,
+  "germanWord": "zehntausendeins",
+  "example": "Zehntausendeins ist nach zehntausend.",
+  "translation": "Ten thousand and one comes after ten thousand."
+},
+{
+  "id": 394,
+  "germanWord": "neunzehnhundertneunundneunzig",
+  "example": "Neunzehnhundertneunundneunzig ist vor zweitausend.",
+  "translation": "Nineteen hundred and ninety-nine comes before two thousand."
+},
+{
+  "id": 395,
+  "germanWord": "zweitausend",
+  "example": "Zweitausend ist eine runde Jahreszahl.",
+  "translation": "Two thousand is a round year number."
+},
+{
+  "id": 396,
+  "germanWord": "zweitausenddreiundzwanzig",
+  "example": "Zweitausenddreiundzwanzig ist das aktuelle Jahr.",
+  "translation": "Two thousand and twenty-three is the current year."
+},
+{
+  "id": 397,
+  "germanWord": "eine Million",
+  "example": "Eine Million Euro sind eine große Summe.",
+  "translation": "One million euros is a large amount."
+}
+],
+"colors": [
+{
+  "id": 398,
+  "germanWord": "Das Schwarz",
+  "example": "Das Schwarz ist die Abwesenheit von Farbe.",
+  "translation": "Black is the absence of color."
+},
+{
+  "id": 399,
+  "germanWord": "Das Blau",
+  "example": "Das Blau des Himmels ist wunderschön.",
+  "translation": "The blue of the sky is beautiful."
+},
+{
+  "id": 400,
+  "germanWord": "Das Braun",
+  "example": "Das Braun der Erde ist warm und erdig.",
+  "translation": "The brown of the earth is warm and earthy."
+},
+{
+  "id": 401,
+  "germanWord": "abrupt",
+  "example": "Die abrupte Änderung hat alle überrascht.",
+  "translation": "The abrupt change surprised everyone."
+},
+{
+  "id": 402,
+  "germanWord": "zusätzlich",
+  "example": "Zusätzliche Informationen sind hilfreich.",
+  "translation": "Additional information is helpful."
+},
+{
+  "id": 403,
+  "germanWord": "bewundernswert",
+  "example": "Ihre Leistungen sind wirklich bewundernswert.",
+  "translation": "Your achievements are truly admirable."
+},
+{
+  "id": 404,
+  "germanWord": "aufgebracht",
+  "example": "Er war über die Situation sehr aufgebracht.",
+  "translation": "He was very upset about the situation."
+},
+{
+  "id": 405,
+  "germanWord": "gereizt",
+  "example": "Seine gereizte Stimmung war spürbar.",
+  "translation": "His irritated mood was noticeable."
+},
+{
+  "id": 406,
+  "germanWord": "entsetzlich",
+  "example": "Die Nachricht war wirklich entsetzlich.",
+  "translation": "The news was truly dreadful."
+},
+{
+  "id": 407,
+  "germanWord": "annähernd",
+  "example": "Die Kosten sind annähernd gleich geblieben.",
+  "translation": "The costs have remained approximately the same."
+},
+{
+  "id": 408,
+  "germanWord": "aufmerksam",
+  "example": "Er war sehr aufmerksam während des Gesprächs.",
+  "translation": "He was very attentive during the conversation."
+},
+{
+  "id": 409,
+  "germanWord": "verführerisch",
+  "example": "Ihr Blick war äußerst verführerisch.",
+  "translation": "Her gaze was extremely seductive."
+},
+{
+  "id": 410,
+  "germanWord": "automatisch",
+  "example": "Der Vorgang erfolgt automatisch.",
+  "translation": "The process happens automatically."
+},
+{
+  "id": 411,
+  "germanWord": "schlecht",
+  "example": "Das Wetter war heute wirklich schlecht.",
+  "translation": "The weather was really bad today."
+},
+{
+  "id": 412,
+  "germanWord": "bösartig",
+  "example": "Seine bösartige Bemerkung war verletzend.",
+  "translation": "His malicious remark was hurtful."
+},
+{
+  "id": 413,
+  "germanWord": "banal",
+  "example": "Seine Aussagen klingen oft banal.",
+  "translation": "His statements often sound banal."
+},
+{
+  "id": 414,
+  "germanWord": "erträglich",
+  "example": "Die Schmerzen sind mittlerweile erträglich.",
+  "translation": "The pain has become bearable."
+},
+{
+  "id": 415,
+  "germanWord": "schön",
+  "example": "Der Sonnenuntergang war wunderschön.",
+  "translation": "The sunset was beautiful."
+},
+{
+  "id": 416,
+  "germanWord": "herrlich",
+  "example": "Die Aussicht vom Berggipfel war herrlich.",
+  "translation": "The view from the mountain top was magnificent."
+},
+{
+  "id": 417,
+  "germanWord": "Das Gold",
+  "example": "Das Gold glänzte im Sonnenlicht.",
+  "translation": "The gold shimmered in the sunlight."
+},
+{
+  "id": 418,
+  "germanWord": "Das Grau",
+  "example": "Das Grau des Himmels verhieß Regen.",
+  "translation": "The gray of the sky promised rain."
+},
+{
+  "id": 419,
+  "germanWord": "Das Grün",
+  "example": "Das Grün der Wiesen war beruhigend.",
+  "translation": "The green of the meadows was soothing."
+},
+{
+  "id": 420,
+  "germanWord": "Das Marineblau",
+  "example": "Das Marineblau des Meeres war atemberaubend.",
+  "translation": "The navy blue of the sea was breathtaking."
+},
+{
+  "id": 421,
+  "germanWord": "Die Orange",
+  "example": "Die Orange war reif und saftig.",
+  "translation": "The orange was ripe and juicy."
+},
+{
+  "id": 422,
+  "germanWord": "Das Pink",
+  "example": "Das Pink der Blumen leuchtete hell.",
+  "translation": "The pink of the flowers was bright."
+},
+{
+  "id": 423,
+  "germanWord": "Die Lila",
+  "example": "Die Lila der Sonnenuntergang war bezaubernd.",
+  "translation": "The purple of the sunset was enchanting."
+},
+{
+  "id": 424,
+  "germanWord": "Der Rot",
+  "example": "Der Rote des Herbstlaubs war auffällig.",
+  "translation": "The red of the autumn leaves was striking."
+},
+{
+  "id": 425,
+  "germanWord": "Der Silber",
+  "example": "Der Silber des Mondes schimmerte.",
+  "translation": "The silver of the moon shimmered."
+},
+{
+  "id": 426,
+  "germanWord": "Die Tan",
+  "example": "Die Tan des Sandes war warm.",
+  "translation": "The tan of the sand was warm."
+},
+{
+  "id": 427,
+  "germanWord": "Das Türkis",
+  "example": "Das Türkis des Wassers war kristallklar.",
+  "translation": "The turquoise of the water was crystal clear."
+},
+{
+  "id": 428,
+  "germanWord": "Die Violett",
+  "example": "Die Violett der Blumen beeindruckte.",
+  "translation": "The violet of the flowers was impressive."
+},
+{
+  "id": 429,
+  "germanWord": "Die Weiß",
+  "example": "Die Weiß der Schneelandschaft war zauberhaft.",
+  "translation": "The white of the snow landscape was enchanting."
+},
+{
+  "id": 430,
+  "germanWord": "Die Gelb",
+  "example": "Die Gelb der Sonnenblumen leuchtete fröhlich.",
+  "translation": "The yellow of the sunflowers was cheerful."
+},
+{
+  "id": 431,
+  "germanWord": "gläubig",
+  "example": "Sie ist eine sehr gläubige Person.",
+  "translation": "She is a very religious person."
+},
+{
+  "id": 432,
+  "germanWord": "fett",
+  "example": "Das Essen war ziemlich fettig.",
+  "translation": "The food was quite fatty."
+},
+{
+  "id": 433,
+  "germanWord": "bitter",
+  "example": "Die Medizin schmeckt sehr bitter.",
+  "translation": "The medicine tastes very bitter."
+},
+{
+  "id": 434,
+  "germanWord": "gelangweilt",
+  "example": "Er war während des Vortrags gelangweilt.",
+  "translation": "He was bored during the presentation."
+},
+{
+  "id": 435,
+  "germanWord": "langweilig",
+  "example": "Der Film war leider ziemlich langweilig.",
+  "translation": "The movie was unfortunately quite boring."
+},
+{
+  "id": 436,
+  "germanWord": "mutig",
+  "example": "Seine mutige Entscheidung beeindruckte alle.",
+  "translation": "His brave decision impressed everyone."
+},
+{
+  "id": 437,
+  "germanWord": "kaputt",
+  "example": "Die Uhr ist kaputt und muss repariert werden.",
+  "translation": "The clock is broken and needs to be repaired."
+},
+{
+  "id": 438,
+  "germanWord": "braungebrannt",
+  "example": "Sie kam vom Urlaub braungebrannt zurück.",
+  "translation": "She returned from vacation with a tan."
+},
+{
+  "id": 439,
+  "germanWord": "sperrig",
+  "example": "Das sperrige Möbelstück passt nicht durch die Tür.",
+  "translation": "The bulky piece of furniture doesn't fit through the door."
+},
+{
+  "id": 440,
+  "germanWord": "umfangreich",
+  "example": "Das Buch enthält eine umfangreiche Sammlung von Informationen.",
+  "translation": "The book contains an extensive collection of information."
+},
+{
+  "id": 441,
+  "germanWord": "ruhig",
+  "example": "Der Ort war sehr ruhig und entspannend.",
+  "translation": "The place was very calm and relaxing."
+},
+{
+  "id": 442,
+  "germanWord": "fähig",
+  "example": "Er ist fähig, komplexe Probleme zu lösen.",
+  "translation": "He is capable of solving complex problems."
+},
+{
+  "id": 443,
+  "germanWord": "fesselnd",
+  "example": "Der Roman hatte eine fesselnde Handlung.",
+  "translation": "The novel had a captivating plot."
+},
+{
+  "id": 444,
+  "germanWord": "katastrophal",
+  "example": "Die Auswirkungen des Sturms waren katastrophal.",
+  "translation": "The effects of the storm were catastrophic."
+},
+{
+  "id": 445,
+  "germanWord": "vorsichtig",
+  "example": "Sei vorsichtig beim Überqueren der Straße.",
+  "translation": "Be careful when crossing the street."
+},
+{
+  "id": 446,
+  "germanWord": "verhaltensgestört",
+  "example": "Er zeigte einige verhaltensgestörte Verhaltensweisen.",
+  "translation": "He exhibited some behaviorally disturbed behaviors."
+},
+{
+  "id": 447,
+  "germanWord": "charmant",
+  "example": "Seine charmante Art faszinierte alle.",
+  "translation": "His charming manner fascinated everyone."
+},
+{
+  "id": 448,
+  "germanWord": "billig",
+  "example": "Die Preise im Geschäft sind wirklich billig.",
+  "translation": "The prices at the store are really cheap."
+},
+{
+  "id": 449,
+  "germanWord": "klassisch",
+  "example": "Sein Stil ist zeitlos klassisch.",
+  "translation": "His style is timeless and classic."
+},
+{
+  "id": 450,
+  "germanWord": "klar",
+  "example": "Die Anweisungen waren klar und verständlich.",
+  "translation": "The instructions were clear and understandable."
+},
+{
+  "id": 451,
+  "germanWord": "verstopft",
+  "example": "Das Rohr ist verstopft und muss gereinigt werden.",
+  "translation": "The pipe is clogged and needs to be cleaned."
+},
+{
+  "id": 452,
+  "germanWord": "geschlossen",
+  "example": "Das Geschäft war zu, da es Sonntag war.",
+  "translation": "The store was closed as it was Sunday."
+},
+{
+  "id": 453,
+  "germanWord": "ungeschickt",
+  "example": "Er war in diesem handwerklichen Bereich ziemlich ungeschickt.",
+  "translation": "He was quite clumsy in this manual area."
+},
+{
+  "id": 454,
+  "germanWord": "kalt",
+  "example": "Die Temperaturen waren sehr kalt im Winter.",
+  "translation": "The temperatures were very cold in winter."
+},
+{
+  "id": 455,
+  "germanWord": "farbig",
+  "example": "Das Gemälde war in lebhaften Farben gemalt.",
+  "translation": "The painting was done in vibrant colors."
+},
+{
+  "id": 456,
+  "germanWord": "komfortabel",
+  "example": "Das Hotelzimmer war sehr komfortabel eingerichtet.",
+  "translation": "The hotel room was very comfortably furnished."
+},
+{
+  "id": 457,
+  "germanWord": "kommerziell",
+  "example": "Die Werbung hatte einen klaren kommerziellen Zweck.",
+  "translation": "The advertisement had a clear commercial purpose."
+},
+{
+  "id": 458,
+  "germanWord": "gemeinsam",
+  "example": "Wir haben gemeinsam an dem Projekt gearbeitet.",
+  "translation": "We worked together on the project."
+},
+{
+  "id": 459,
+  "germanWord": "kompakt",
+  "example": "Das kompakte Design des Geräts ist praktisch.",
+  "translation": "The compact design of the device is practical."
+},
+{
+  "id": 460,
+  "germanWord": "mitfühlend",
+  "example": "Sie zeigte ein mitfühlendes Verhalten gegenüber anderen.",
+  "translation": "She displayed a compassionate behavior towards others."
+},
+{
+  "id": 461,
+  "germanWord": "vollständig",
+  "example": "Die Liste ist jetzt vollständig.",
+  "translation": "The list is now complete."
+},
+{
+  "id": 462,
+  "germanWord": "komplex",
+  "example": "Das Problem ist ziemlich komplex.",
+  "translation": "The problem is quite complex."
+},
+{
+  "id": 463,
+  "germanWord": "zuversichtlich",
+  "example": "Er war zuversichtlich in seine Fähigkeiten.",
+  "translation": "He was confident in his abilities."
+},
+{
+  "id": 464,
+  "germanWord": "froh",
+  "example": "Sie war froh über den Erfolg.",
+  "translation": "She was happy about the success."
+},
+{
+  "id": 465,
+  "germanWord": "überzeugend",
+  "example": "Seine Argumente waren sehr überzeugend.",
+  "translation": "His arguments were very convincing."
+},
+{
+  "id": 466,
+  "germanWord": "exemplarisch",
+  "example": "Das Projekt war exemplarisch für effizientes Arbeiten.",
+  "translation": "The project was exemplary of efficient work."
+},
+{
+  "id": 467,
+  "germanWord": "korrekt",
+  "example": "Seine Antwort war korrekt.",
+  "translation": "His answer was correct."
+},
+{
+  "id": 468,
+  "germanWord": "feige",
+  "example": "Sein feiges Verhalten war enttäuschend.",
+  "translation": "His cowardly behavior was disappointing."
+},
+{
+  "id": 469,
+  "germanWord": "verrückt",
+  "example": "Seine Ideen waren manchmal verrückt.",
+  "translation": "His ideas were sometimes crazy."
+},
+{
+  "id": 470,
+  "germanWord": "glaubwürdig",
+  "example": "Seine Aussagen klangen sehr glaubwürdig.",
+  "translation": "His statements sounded very credible."
+},
+{
+  "id": 471,
+  "germanWord": "kulturell",
+  "example": "Die Veranstaltung hatte einen kulturellen Fokus.",
+  "translation": "The event had a cultural focus."
+},
+{
+  "id": 472,
+  "germanWord": "neugierig",
+  "example": "Kinder sind oft neugierig und stellen viele Fragen.",
+  "translation": "Children are often curious and ask many questions."
+},
+{
+  "id": 473,
+  "germanWord": "niedlich",
+  "example": "Das kleine Kätzchen war wirklich niedlich.",
+  "translation": "The little kitten was really cute."
+},
+{
+  "id": 474,
+  "germanWord": "gefährlich",
+  "example": "Die Situation war ziemlich gefährlich.",
+  "translation": "The situation was quite dangerous."
+},
+{
+  "id": 475,
+  "germanWord": "dunkel",
+  "example": "Der Raum war so dunkel, dass man nichts sehen konnte.",
+  "translation": "The room was so dark that you couldn't see anything."
+},
+{
+  "id": 476,
+  "germanWord": "tot",
+  "example": "Die Pflanze ist leider tot.",
+  "translation": "The plant is unfortunately dead."
+},
+{
+  "id": 477,
+  "germanWord": "tiefgehend",
+  "example": "Die Diskussion war tiefgehend und anregend.",
+  "translation": "The discussion was deep and stimulating."
+},
+{
+  "id": 478,
+  "germanWord": "köstlich",
+  "example": "Das Essen im Restaurant war wirklich köstlich.",
+  "translation": "The food at the restaurant was truly delicious."
+},
+{
+  "id": 479,
+  "germanWord": "demokratisch",
+  "example": "Die Entscheidungen wurden auf demokratische Weise getroffen.",
+  "translation": "The decisions were made democratically."
+},
+{
+  "id": 480,
+  "germanWord": "deprimiert",
+  "example": "Er fühlte sich deprimiert nach dem Verlust.",
+  "translation": "He felt depressed after the loss."
+},
+{
+  "id": 481,
+  "germanWord": "bestimmt",
+  "example": "Sie war sich ihrer Entscheidung bestimmt.",
+  "translation": "She was certain of her decision."
+},
+{
+  "id": 482,
+  "germanWord": "andersartig",
+  "example": "Seine Herangehensweise war wirklich andersartig.",
+  "translation": "His approach was truly different."
+},
+{
+  "id": 483,
+  "germanWord": "schwierig",
+  "example": "Die Aufgabe war wirklich schwierig zu lösen.",
+  "translation": "The task was really difficult to solve."
+},
+{
+  "id": 484,
+  "germanWord": "schmutzig",
+  "example": "Die Kleidung war nach der Arbeit schmutzig.",
+  "translation": "The clothes were dirty after work."
+},
+{
+  "id": 485,
+  "germanWord": "verschollen",
+  "example": "Das verlorene Schiff wurde als verschollen erklärt.",
+  "translation": "The lost ship was declared missing."
+},
+{
+  "id": 486,
+  "germanWord": "angeekelt",
+  "example": "Sie war angeekelt von der widerlichen Substanz.",
+  "translation": "She was disgusted by the disgusting substance."
+},
+{
+  "id": 487,
+  "germanWord": "ekelhaft",
+  "example": "Der Geruch war wirklich ekelhaft.",
+  "translation": "The smell was really disgusting."
+},
+{
+  "id": 488,
+  "germanWord": "entfernt",
+  "example": "Der Ort war weit entfernt von der Stadt.",
+  "translation": "The place was far away from the city."
+},
+{
+  "id": 489,
+  "germanWord": "trocken",
+  "example": "Das Brot war ziemlich trocken.",
+  "translation": "The bread was quite dry."
+},
+{
+  "id": 490,
+  "germanWord": "Dynamik",
+  "example": "Die Gruppe hatte eine positive Dynamik.",
+  "translation": "The group had a positive dynamic."
+},
+{
+  "id": 491,
+  "germanWord": "leicht",
+  "example": "Die Aufgabe war ziemlich leicht zu erledigen.",
+  "translation": "The task was quite easy to accomplish."
+},
+{
+  "id": 492,
+  "germanWord": "ökologisch",
+  "example": "Das Produkt wurde unter ökologischen Gesichtspunkten hergestellt.",
+  "translation": "The product was produced with ecological considerations."
+},
+{
+  "id": 493,
+  "germanWord": "ökonomisch",
+  "example": "Die Entscheidung war ökonomisch sinnvoll.",
+  "translation": "The decision was economically sensible."
+},
+{
+  "id": 494,
+  "germanWord": "essbar",
+  "example": "Diese Pflanze ist essbar und kann gegessen werden.",
+  "translation": "This plant is edible and can be eaten."
+},
+{
+  "id": 495,
+  "germanWord": "wirkungsvoll",
+  "example": "Die Maßnahme war sehr wirkungsvoll.",
+  "translation": "The measure was very effective."
+},
+{
+  "id": 496,
+  "germanWord": "alt",
+  "example": "Das Gebäude ist schon sehr alt.",
+  "translation": "The building is already very old."
+},
+{
+  "id": 497,
+  "germanWord": "elektrisch",
+  "example": "Das Fahrzeug ist ein elektrisches Auto.",
+  "translation": "The vehicle is an electric car."
+},
+{
+  "id": 498,
+  "germanWord": "elektronisch",
+  "example": "Das Gerät funktioniert mit elektronischer Steuerung.",
+  "translation": "The device operates with electronic control."
+},
+{
+  "id": 499,
+  "germanWord": "elegant",
+  "example": "Ihr Kleid war sehr elegant und stilvoll.",
+  "translation": "Her dress was very elegant and stylish."
+},
+{
+  "id": 500,
+  "germanWord": "leer",
+  "example": "Die Flasche ist leer, es ist keine Flüssigkeit mehr drin.",
+  "translation": "The bottle is empty, there is no liquid left inside."
+},
+{
+  "id": 501,
+  "germanWord": "energisch",
+  "example": "Seine energische Haltung beeinflusste das Team positiv.",
+  "translation": "His energetic attitude positively influenced the team."
+},
+{
+  "id": 502,
+  "germanWord": "begeisterter",
+  "example": "Sie war eine begeistertere Anhängerin als die meisten.",
+  "translation": "She was a more enthusiastic supporter than most."
+},
+{
+  "id": 503,
+  "germanWord": "gleichwertig",
+  "example": "Beide Optionen sind gleichwertig.",
+  "translation": "Both options are equivalent."
+},
+{
+  "id": 504,
+  "germanWord": "richtig",
+  "example": "Die Antwort war richtig.",
+  "translation": "The answer was correct."
+},
+{
+  "id": 505,
+  "germanWord": "verärgert",
+  "example": "Er war verärgert über die Verspätung.",
+  "translation": "He was upset about the delay."
+},
+{
+  "id": 506,
+  "germanWord": "ausgezeichnet",
+  "example": "Seine Arbeit war wirklich ausgezeichnet.",
+  "translation": "His work was truly excellent."
+},
+{
+  "id": 507,
+  "germanWord": "außergewöhnlich",
+  "example": "Der Film hatte eine außergewöhnliche Handlung.",
+  "translation": "The movie had an exceptional plot."
+},
+{
+  "id": 508,
+  "germanWord": "aufgeregt",
+  "example": "Sie war sehr aufgeregt vor ihrem großen Auftritt.",
+  "translation": "She was very excited before her big performance."
+},
+{
+  "id": 509,
+  "germanWord": "spannend",
+  "example": "Das Buch hatte eine wirklich spannende Geschichte.",
+  "translation": "The book had a truly exciting story."
+},
+{
+  "id": 510,
+  "germanWord": "entschuldbar",
+  "example": "Sein Verhalten war in dieser Situation entschuldbar.",
+  "translation": "His behavior was excusable in this situation."
+},
+{
+  "id": 511,
+  "germanWord": "aufregend",
+  "example": "Die Reise war aufregend und abenteuerlich.",
+  "translation": "The trip was exciting and adventurous."
+},
+{
+  "id": 512,
+  "germanWord": "teuer",
+  "example": "Das Produkt war ziemlich teuer.",
+  "translation": "The product was quite expensive."
+},
+{
+  "id": 513,
+  "germanWord": "berühmt",
+  "example": "Der Künstler war für seine berühmten Gemälde bekannt.",
+  "translation": "The artist was known for his famous paintings."
+},
+{
+  "id": 514,
+  "germanWord": "weit",
+  "example": "Der Weg war noch weit bis zum Ziel.",
+  "translation": "The journey was still far to the destination."
+},
+{
+  "id": 515,
+  "germanWord": "schnell",
+  "example": "Das Auto fuhr ziemlich schnell auf der Autobahn.",
+  "translation": "The car was driving quite fast on the highway."
+},
+{
+  "id": 516,
+  "germanWord": "falsch",
+  "example": "Seine Antwort war leider falsch.",
+  "translation": "His answer was unfortunately wrong."
+},
+{
+  "id": 517,
+  "germanWord": "ängstlich",
+  "example": "Das ängstliche Kind hatte Angst vor Hunden.",
+  "translation": "The fearful child was afraid of dogs."
+},
+{
+  "id": 518,
+  "germanWord": "voll",
+  "example": "Das Glas war voll mit Wasser.",
+  "translation": "The glass was full of water."
+},
+{
+  "id": 519,
+  "germanWord": "erster",
+  "example": "Sie war die Erste, die die Nachricht erhielt.",
+  "translation": "She was the first one to receive the message."
+},
+{
+  "id": 520,
+  "germanWord": "antik",
+  "example": "Das Möbelstück war ein antikes Stück aus dem 19. Jahrhundert.",
+  "translation": "The piece of furniture was an antique item from the 19th century."
+},
+{
+  "id": 521,
+  "germanWord": "großartig",
+  "example": "Die Aufführung war wirklich großartig.",
+  "translation": "The performance was truly great."
+},
+{
+  "id": 522,
+  "germanWord": "zerbrechlich",
+  "example": "Die Vase war sehr zerbrechlich und musste vorsichtig behandelt werden.",
+  "translation": "The vase was very fragile and had to be handled carefully."
+},
+{
+  "id": 523,
+  "germanWord": "häufig",
+  "example": "Dieses Problem tritt häufig auf.",
+  "translation": "This problem occurs frequently."
+},
+{
+  "id": 524,
+  "germanWord": "frisch",
+  "example": "Die Blumen waren frisch gepflückt.",
+  "translation": "The flowers were freshly picked."
+},
+{
+  "id": 525,
+  "germanWord": "freundlich",
+  "example": "Sie war sehr freundlich zu ihren Nachbarn.",
+  "translation": "She was very friendly to her neighbors."
+},
+{
+  "id": 526,
+  "germanWord": "benutzerfreundlich",
+  "example": "Die Software hatte eine benutzerfreundliche Oberfläche.",
+  "translation": "The software had a user-friendly interface."
+},
+{
+  "id": 527,
+  "germanWord": "sympathisch",
+  "example": "Er war eine sehr sympathische Person.",
+  "translation": "He was a very likable person."
+},
+{
+  "id": 528,
+  "germanWord": "amüsant",
+  "example": "Die Comedy-Show war sehr amüsant.",
+  "translation": "The comedy show was very amusing."
+},
+{
+  "id": 529,
+  "germanWord": "witzig",
+  "example": "Seine Witze waren immer witzig und unterhaltsam.",
+  "translation": "His jokes were always funny and entertaining."
+},
+{
+  "id": 530,
+  "germanWord": "wütend",
+  "example": "Er war wütend über die ungerechte Behandlung.",
+  "translation": "He was angry about the unfair treatment."
+},
+{
+  "id": 531,
+  "germanWord": "großzügig",
+  "example": "Er war immer großzügig in seinen Taten.",
+  "translation": "He was always generous in his actions."
+},
+{
+  "id": 532,
+  "germanWord": "begabt",
+  "example": "Sie war eine hochbegabte Musikerin.",
+  "translation": "She was a highly gifted musician."
+},
+{
+  "id": 533,
+  "germanWord": "riesig",
+  "example": "Der Berg war wirklich riesig und imposant.",
+  "translation": "The mountain was truly huge and impressive."
+},
+{
+  "id": 534,
+  "germanWord": "weltweit",
+  "example": "Das Unternehmen hat weltweit Niederlassungen.",
+  "translation": "The company has branches worldwide."
+},
+{
+  "id": 535,
+  "germanWord": "gut",
+  "example": "Das Essen war wirklich gut zubereitet.",
+  "translation": "The food was prepared really well."
+},
+{
+  "id": 536,
+  "germanWord": "schuldig",
+  "example": "Er wurde des Verbrechens für schuldig befunden.",
+  "translation": "He was found guilty of the crime."
+},
+{
+  "id": 537,
+  "germanWord": "glücklich",
+  "example": "Sie war glücklich über ihre neuen Erfolge.",
+  "translation": "She was happy about her new successes."
+},
+{
+  "id": 538,
+  "germanWord": "hart",
+  "example": "Die Prüfung war wirklich hart.",
+  "translation": "The exam was really tough."
+},
+{
+  "id": 539,
+  "germanWord": "schwer",
+  "example": "Der Koffer war ziemlich schwer.",
+  "translation": "The suitcase was quite heavy."
+},
+{
+  "id": 540,
+  "germanWord": "Höhe",
+  "example": "Der Turm war in großer Höhe sichtbar.",
+  "translation": "The tower was visible at a great height."
+},
+{
+  "id": 541,
+  "germanWord": "historisch",
+  "example": "Der Ort hatte eine lange historische Bedeutung.",
+  "translation": "The place had a long historical significance."
+},
+{
+  "id": 542,
+  "germanWord": "ehrlich",
+  "example": "Seine ehrlichen Worte berührten die Menschen.",
+  "translation": "His honest words touched people."
+},
+{
+  "id": 543,
+  "germanWord": "entsetzlich",
+  "example": "Die Nachrichten über das Unglück waren entsetzlich.",
+  "translation": "The news about the disaster was horrifying."
+},
+{
+  "id": 544,
+  "germanWord": "heiß",
+  "example": "Der Tag war wirklich heiß und sonnig.",
+  "translation": "The day was really hot and sunny."
+},
+{
+  "id": 545,
+  "germanWord": "riesig",
+  "example": "Der Wald erstreckte sich über ein riesiges Gebiet.",
+  "translation": "The forest covered a huge area."
+},
+{
+  "id": 546,
+  "germanWord": "ideal",
+  "example": "Die Situation war wirklich ideal für das Experiment.",
+  "translation": "The situation was truly ideal for the experiment."
+},
+{
+  "id": 547,
+  "germanWord": "identisch",
+  "example": "Die beiden Zwillinge sahen identisch aus.",
+  "translation": "The two twins looked identical."
+},
+{
+  "id": 548,
+  "germanWord": "Idiot",
+  "example": "Seine idiotischen Kommentare waren ärgerlich.",
+  "translation": "His idiotic comments were annoying."
+},
+{
+  "id": 549,
+  "germanWord": "rechtswidrig",
+  "example": "Sein Verhalten war eindeutig rechtswidrig.",
+  "translation": "His behavior was clearly unlawful."
+},
+{
+  "id": 550,
+  "germanWord": "unmittelbar",
+  "example": "Die Auswirkungen waren unmittelbar spürbar.",
+  "translation": "The effects were immediately noticeable."
+},
+{
+  "id": 551,
+  "germanWord": "riesig",
+  "example": "Die Veranstaltung zog eine riesige Menschenmenge an.",
+  "translation": "The event attracted a huge crowd of people."
+},
+{
+  "id": 552,
+  "germanWord": "bedeutend",
+  "example": "Seine Leistungen hatten eine bedeutende Auswirkung.",
+  "translation": "His achievements had a significant impact."
+},
+{
+  "id": 553,
+  "germanWord": "unmöglich",
+  "example": "Die Aufgabe schien fast unmöglich zu sein.",
+  "translation": "The task seemed almost impossible."
+},
+{
+  "id": 554,
+  "germanWord": "eindrucksvoll",
+  "example": "Die architektonischen Details waren eindrucksvoll.",
+  "translation": "The architectural details were impressive."
+},
+{
+  "id": 555,
+  "germanWord": "unglaublich",
+  "example": "Seine Geschichte klang wirklich unglaublich.",
+  "translation": "His story sounded truly unbelievable."
+},
+{
+  "id": 556,
+  "germanWord": "selbstständig",
+  "example": "Sie war eine selbstständige Unternehmerin.",
+  "translation": "She was an independent entrepreneur."
+},
+{
+  "id": 557,
+  "germanWord": "Verletzt",
+  "example": "Er wurde bei dem Unfall verletzt.",
+  "translation": "He was injured in the accident."
+},
+{
+  "id": 558,
+  "germanWord": "unschuldig",
+  "example": "Er beteuerte, dass er unschuldig war.",
+  "translation": "He insisted he was innocent."
+},
+{
+  "id": 559,
+  "germanWord": "unbedeutend",
+  "example": "Seine Bemerkung war völlig unbedeutend.",
+  "translation": "His remark was completely insignificant."
+},
+{
+  "id": 560,
+  "germanWord": "unzureichend",
+  "example": "Die Informationen waren unzureichend für eine Entscheidung.",
+  "translation": "The information was insufficient for a decision."
+},
+{
+  "id": 561,
+  "germanWord": "interessant",
+  "example": "Das Buch hatte eine interessante Handlung.",
+  "translation": "The book had an interesting plot."
+},
+{
+  "id": 562,
+  "germanWord": "international",
+  "example": "Die Konferenz zog internationale Teilnehmer an.",
+  "translation": "The conference attracted international participants."
+},
+{
+  "id": 563,
+  "germanWord": "erfinderisch",
+  "example": "Seine erfinderischen Ideen brachten Innovationen hervor.",
+  "translation": "His inventive ideas brought forth innovations."
+},
+{
+  "id": 564,
+  "germanWord": "involviert",
+  "example": "Er war stark in das Projekt involviert.",
+  "translation": "He was heavily involved in the project."
+},
+{
+  "id": 565,
+  "germanWord": "unwiderstehlich",
+  "example": "Ihre Anziehungskraft war unwiderstehlich.",
+  "translation": "Her charm was irresistible."
+},
+{
+  "id": 566,
+  "germanWord": "eifersüchtig",
+  "example": "Er war eifersüchtig auf den Erfolg seines Freundes.",
+  "translation": "He was jealous of his friend's success."
+},
+{
+  "id": 567,
+  "germanWord": "freundlich",
+  "example": "Die Nachbarn waren sehr freundlich.",
+  "translation": "The neighbors were very friendly."
+},
+{
+  "id": 568,
+  "germanWord": "groß",
+  "example": "Das Gebäude war wirklich groß und beeindruckend.",
+  "translation": "The building was truly large and impressive."
+},
+{
+  "id": 569,
+  "germanWord": "letzter",
+  "example": "Er war der letzte Gast, der das Restaurant verließ.",
+  "translation": "He was the last guest to leave the restaurant."
+},
+{
+  "id": 570,
+  "germanWord": "faul",
+  "example": "Er war oft zu faul, um seine Aufgaben zu erledigen.",
+  "translation": "He was often too lazy to do his tasks."
+},
+{
+  "id": 571,
+  "germanWord": "legal",
+  "example": "Seine Handlungen waren im Rahmen des Gesetzes legal.",
+  "translation": "His actions were legal within the framework of the law."
+},
+{
+  "id": 572,
+  "germanWord": "leicht",
+  "example": "Die Aufgabe war ziemlich leicht zu bewältigen.",
+  "translation": "The task was quite easy to handle."
+},
+{
+  "id": 573,
+  "germanWord": "wenig",
+  "example": "Es gab nur wenig Zeit für die Vorbereitung.",
+  "translation": "There was only little time for preparation."
+},
+{
+  "id": 574,
+  "germanWord": "lebend",
+  "example": "Die Stadt war voller lebendiger Energie.",
+  "translation": "The city was full of vibrant energy."
+},
+{
+  "id": 575,
+  "germanWord": "örtlich",
+  "example": "Die Veranstaltung fand an einem örtlichen Ort statt.",
+  "translation": "The event took place at a local venue."
+},
+{
+  "id": 576,
+  "germanWord": "lang",
+  "example": "Die Straße war lang und endlos.",
+  "translation": "The road was long and endless."
+},
+{
+  "id": 577,
+  "germanWord": "lausig",
+  "example": "Das Wetter war lausig und regnerisch.",
+  "translation": "The weather was lousy and rainy."
+},
+{
+  "id": 578,
+  "germanWord": "niedrig",
+  "example": "Der Preis war überraschend niedrig.",
+  "translation": "The price was surprisingly low."
+},
+{
+  "id": 579,
+  "germanWord": "glücklich",
+  "example": "Sie war glücklich über ihre Erfolge.",
+  "translation": "She was happy about her successes."
+},
+{
+  "id": 580,
+  "germanWord": "zahlreich",
+  "example": "Die Teilnehmer waren in zahlreicher Anzahl anwesend.",
+  "translation": "The participants were present in large numbers."
+},
+{
+  "id": 581,
+  "germanWord": "reif",
+  "example": "Die Früchte waren reif und saftig.",
+  "translation": "The fruits were ripe and juicy."
+},
+{
+  "id": 582,
+  "germanWord": "mittelmäßig",
+  "example": "Seine Leistung war eher mittelmäßig.",
+  "translation": "His performance was rather mediocre."
+},
+{
+  "id": 583,
+  "germanWord": "weich",
+  "example": "Das Kissen war weich und bequem.",
+  "translation": "The pillow was soft and comfortable."
+},
+{
+  "id": 584,
+  "germanWord": "modern",
+  "example": "Die Architektur war sehr modern und futuristisch.",
+  "translation": "The architecture was very modern and futuristic."
+},
+{
+  "id": 585,
+  "germanWord": "sterblich",
+  "example": "Alle Lebewesen sind sterblich.",
+  "translation": "All living beings are mortal."
+},
+{
+  "id": 586,
+  "germanWord": "motiviert",
+  "example": "Er war hoch motiviert, seine Ziele zu erreichen.",
+  "translation": "He was highly motivated to achieve his goals."
+},
+{
+  "id": 587,
+  "germanWord": "bewegend",
+  "example": "Seine Geschichte war wirklich bewegend.",
+  "translation": "His story was truly moving."
+},
+{
+  "id": 588,
+  "germanWord": "viel",
+  "example": "Es gab viel Arbeit zu erledigen.",
+  "translation": "There was a lot of work to do."
+},
+{
+  "id": 589,
+  "germanWord": "stumm",
+  "example": "Er blieb stumm und sagte kein Wort.",
+  "translation": "He remained silent and didn't say a word."
+},
+{
+  "id": 590,
+  "germanWord": "geheimnisvoll",
+  "example": "Der Ort hatte eine geheimnisvolle Atmosphäre.",
+  "translation": "The place had a mysterious atmosphere."
+},
+{
+  "id": 591,
+  "germanWord": "eng",
+  "example": "Der Raum war ziemlich eng und klein.",
+  "translation": "The room was quite narrow and small."
+},
+{
+  "id": 592,
+  "germanWord": "natürlich",
+  "example": "Sein Verhalten wirkte sehr natürlich.",
+  "translation": "His behavior seemed very natural."
+},
+{
+  "id": 593,
+  "germanWord": "nahe",
+  "example": "Der Supermarkt war ganz in der Nähe.",
+  "translation": "The supermarket was very close."
+},
+{
+  "id": 594,
+  "germanWord": "notwendig",
+  "example": "Eine gründliche Vorbereitung war notwendig.",
+  "translation": "Thorough preparation was necessary."
+},
+{
+  "id": 595,
+  "germanWord": "nervös",
+  "example": "Sie war vor ihrem Auftritt sehr nervös.",
+  "translation": "She was very nervous before her performance."
+},
+{
+  "id": 596,
+  "germanWord": "neu",
+  "example": "Das Auto war brandneu und funkelte.",
+  "translation": "The car was brand new and shiny."
+},
+{
+  "id": 597,
+  "germanWord": "nächster",
+  "example": "Sein nächster Schritt war entscheidend.",
+  "translation": "His next step was crucial."
+},
+{
+  "id": 598,
+  "germanWord": "nett",
+  "example": "Er war immer nett zu seinen Mitmenschen.",
+  "translation": "He was always kind to his fellow humans."
+},
+{
+  "id": 599,
+  "germanWord": "laut",
+  "example": "Die Musik war wirklich laut und energiegeladen.",
+  "translation": "The music was really loud and energetic."
+},
+{
+  "id": 601,
+  "germanWord": "nostalgisch",
+  "example": "Die alten Fotos riefen nostalgische Erinnerungen hervor.",
+  "translation": "The old photos evoked nostalgic memories."
+},
+{
+  "id": 602,
+  "germanWord": "ungültig",
+  "example": "Sein Ticket war leider ungültig.",
+  "translation": "His ticket was unfortunately invalid."
+},
+{
+  "id": 603,
+  "germanWord": "offensichtlich",
+  "example": "Seine Nervosität war offensichtlich.",
+  "translation": "His nervousness was obvious."
+},
+{
+  "id": 604,
+  "germanWord": "beschäftigt",
+  "example": "Er war immer beschäftigt mit seinen Projekten.",
+  "translation": "He was always busy with his projects."
+},
+{
+  "id": 605,
+  "germanWord": "offiziell",
+  "example": "Die Veranstaltung war offiziell genehmigt.",
+  "translation": "The event was officially approved."
+},
+{
+  "id": 606,
+  "germanWord": "alt",
+  "example": "Das Haus hatte einen altmodischen Charme.",
+  "translation": "The house had an old-fashioned charm."
+},
+{
+  "id": 607,
+  "germanWord": "offen",
+  "example": "Seine Meinung war immer offen und ehrlich.",
+  "translation": "His opinion was always open and honest."
+},
+{
+  "id": 608,
+  "germanWord": "optimistisch",
+  "example": "Sie war immer optimistisch über die Zukunft.",
+  "translation": "She was always optimistic about the future."
+},
+{
+  "id": 609,
+  "germanWord": "gewöhnlich",
+  "example": "Sein Alltag war ziemlich gewöhnlich.",
+  "translation": "His daily life was quite ordinary."
+},
+{
+  "id": 610,
+  "germanWord": "originell",
+  "example": "Ihre Ideen waren immer originell und kreativ.",
+  "translation": "Her ideas were always original and creative."
+},
+{
+  "id": 611,
+  "germanWord": "übervölkert",
+  "example": "Die Stadt war überfüllt und übervölkert.",
+  "translation": "The city was overcrowded and overpopulated."
+},
+{
+  "id": 612,
+  "germanWord": "sauber",
+  "example": "Das Zimmer war ordentlich und sauber.",
+  "translation": "The room was tidy and clean."
+},
+{
+  "id": 613,
+  "germanWord": "mühsam",
+  "example": "Die Aufgabe war mühsam und anstrengend.",
+  "translation": "The task was laborious and exhausting."
+},
+{
+  "id": 614,
+  "germanWord": "passabel",
+  "example": "Seine Leistung war passabel, aber nicht herausragend.",
+  "translation": "His performance was passable but not outstanding."
+},
+{
+  "id": 615,
+  "germanWord": "leidenschaftlich",
+  "example": "Er verfolgte seine Ziele mit leidenschaftlichem Eifer.",
+  "translation": "He pursued his goals with passionate enthusiasm."
+},
+{
+  "id": 616,
+  "germanWord": "geduldig",
+  "example": "Sie war geduldig und wartete auf ihre Chance.",
+  "translation": "She was patient and waited for her chance."
+},
+{
+  "id": 617,
+  "germanWord": "perfekt",
+  "example": "Seine Präsentation war nahezu perfekt.",
+  "translation": "His presentation was almost perfect."
+},
+{
+  "id": 618,
+  "germanWord": "ausdauernd",
+  "example": "Er trainierte hart und war ausdauernd.",
+  "translation": "He trained hard and was persistent."
+},
+{
+  "id": 619,
+  "germanWord": "pessimistisch",
+  "example": "Seine pessimistische Einstellung hielt ihn oft zurück.",
+  "translation": "His pessimistic attitude often held him back."
+},
+{
+  "id": 620,
+  "germanWord": "phänomenal",
+  "example": "Sein Auftritt war phänomenal und beeindruckte alle.",
+  "translation": "His performance was phenomenal and impressed everyone."
+},
+{
+  "id": 621,
+  "germanWord": "verspielt",
+  "example": "Der Welpe war verspielt und voller Energie.",
+  "translation": "The puppy was playful and full of energy."
+},
+{
+  "id": 622,
+  "germanWord": "angenehm",
+  "example": "Die Umgebung war angenehm und entspannend.",
+  "translation": "The environment was pleasant and relaxing."
+},
+{
+  "id": 623,
+  "germanWord": "ansprechend",
+  "example": "Die Präsentation war visuell ansprechend gestaltet.",
+  "translation": "The presentation was visually appealing."
+},
+{
+  "id": 624,
+  "germanWord": "politisch",
+  "example": "Die Diskussion drehte sich um wichtige politische Themen.",
+  "translation": "The discussion revolved around important political topics."
+},
+{
+  "id": 625,
+  "germanWord": "verschmutzt",
+  "example": "Die Straßen waren verschmutzt und unordentlich.",
+  "translation": "The streets were polluted and messy."
+},
+{
+  "id": 626,
+  "germanWord": "arm",
+  "example": "Die Familie lebte in ärmlichen Verhältnissen.",
+  "translation": "The family lived in poor conditions."
+},
+{
+  "id": 627,
+  "germanWord": "populär",
+  "example": "Die Band war sehr populär und hatte viele Fans.",
+  "translation": "The band was very popular and had many fans."
+},
+{
+  "id": 628,
+  "germanWord": "positiv",
+  "example": "Ihre Einstellung war stets positiv und optimistisch.",
+  "translation": "Her attitude was always positive and optimistic."
+},
+{
+  "id": 629,
+  "germanWord": "möglich",
+  "example": "Es war möglich, das Ziel rechtzeitig zu erreichen.",
+  "translation": "It was possible to reach the goal in time."
+},
+{
+  "id": 630,
+  "germanWord": "mächtig",
+  "example": "Der König war mächtig und hatte große Autorität.",
+  "translation": "The king was powerful and had great authority."
+},
+{
+  "id": 631,
+  "germanWord": "praktisch",
+  "example": "Die Tasche war praktisch und hatte viele Fächer.",
+  "translation": "The bag was practical and had many compartments."
+},
+{
+  "id": 632,
+  "germanWord": "präzise",
+  "example": "Seine Messungen waren äußerst präzise.",
+  "translation": "His measurements were extremely precise."
+},
+{
+  "id": 633,
+  "germanWord": "anmaßend",
+  "example": "Sein anmaßendes Verhalten machte ihn unbeliebt.",
+  "translation": "His arrogant behavior made him unpopular."
+},
+{
+  "id": 634,
+  "germanWord": "privat",
+  "example": "Die Unterhaltung war privat und vertraulich.",
+  "translation": "The conversation was private and confidential."
+},
+{
+  "id": 635,
+  "germanWord": "erstaunlich",
+  "example": "Seine Leistungen waren erstaunlich und beeindruckend.",
+  "translation": "His achievements were amazing and impressive."
+},
+{
+  "id": 636,
+  "germanWord": "verboten",
+  "example": "Der Zugang zum Gelände war streng verboten.",
+  "translation": "Access to the premises was strictly forbidden."
+},
+{
+  "id": 637,
+  "germanWord": "öffentlich",
+  "example": "Der Park war ein öffentlicher Ort für alle.",
+  "translation": "The park was a public place for everyone."
+},
+{
+  "id": 638,
+  "germanWord": "punktuell",
+  "example": "Seine Anwesenheit war nur punktuell erforderlich.",
+  "translation": "His presence was only required on specific occasions."
+},
+{
+  "id": 639,
+  "germanWord": "selten",
+  "example": "Solche Gelegenheiten sind wirklich selten.",
+  "translation": "Such opportunities are truly rare."
+},
+{
+  "id": 640,
+  "germanWord": "überglücklich",
+  "example": "Sie war überglücklich über ihre Leistung.",
+  "translation": "She was overjoyed with her achievement."
+},
+{
+  "id": 641,
+  "germanWord": "realistisch",
+  "example": "Seine Ziele waren immer realistisch und erreichbar.",
+  "translation": "His goals were always realistic and achievable."
+},
+{
+  "id": 642,
+  "germanWord": "frisch",
+  "example": "Die Brötchen waren frisch aus dem Ofen.",
+  "translation": "The rolls were fresh from the oven."
+},
+{
+  "id": 643,
+  "germanWord": "recycelt",
+  "example": "Die Verpackungen waren aus recyceltem Material hergestellt.",
+  "translation": "The packaging was made from recycled material."
+},
+{
+  "id": 644,
+  "germanWord": "regulär",
+  "example": "Seine Anwesenheit war zu den regulären Arbeitszeiten erforderlich.",
+  "translation": "His presence was required during regular working hours."
+},
+{
+  "id": 645,
+  "germanWord": "relevant",
+  "example": "Die Informationen waren nicht mehr relevant.",
+  "translation": "The information was no longer relevant."
+},
+{
+  "id": 646,
+  "germanWord": "zuverlässig",
+  "example": "Er war ein zuverlässiger Mitarbeiter, dem man vertrauen konnte.",
+  "translation": "He was a reliable employee whom you could trust."
+},
+{
+  "id": 647,
+  "germanWord": "religiös",
+  "example": "Seine religiösen Überzeugungen waren tief verwurzelt.",
+  "translation": "His religious beliefs were deeply rooted."
+},
+{
+  "id": 648,
+  "germanWord": "bemerkenswert",
+  "example": "Seine Fortschritte waren bemerkenswert und beeindruckend.",
+  "translation": "His progress was remarkable and impressive."
+},
+{
+  "id": 649,
+  "germanWord": "verantwortlich",
+  "example": "Er war für die Organisation des Events verantwortlich.",
+  "translation": "He was responsible for organizing the event."
+},
+{
+  "id": 650,
+  "germanWord": "reich",
+  "example": "Er war ein reicher Mann mit vielen Besitztümern.",
+  "translation": "He was a wealthy man with many possessions."
+},
+{
+  "id": 651,
+  "germanWord": "romantisch",
+  "example": "Der Abendessen war in einem romantischen Restaurant.",
+  "translation": "The dinner was in a romantic restaurant."
+},
+{
+  "id": 652,
+  "germanWord": "verfault",
+  "example": "Die Früchte waren leider verfault und nicht essbar.",
+  "translation": "The fruits were unfortunately rotten and not edible."
+},
+{
+  "id": 653,
+  "germanWord": "traurig",
+  "example": "Die Nachrichten waren traurig und bedrückend.",
+  "translation": "The news was sad and depressing."
+},
+{
+  "id": 654,
+  "germanWord": "salzig",
+  "example": "Die Suppe war ein wenig zu salzig.",
+  "translation": "The soup was a bit too salty."
+},
+{
+  "id": 655,
+  "germanWord": "befriedigend",
+  "example": "Seine Leistung war zwar nicht perfekt, aber dennoch befriedigend.",
+  "translation": "His performance wasn't perfect, but still satisfying."
+},
+{
+  "id": 656,
+  "germanWord": "zufrieden",
+  "example": "Nach einem langen Tag war er zufrieden mit seiner Arbeit.",
+  "translation": "After a long day, he was content with his work."
+},
+{
+  "id": 657,
+  "germanWord": "beängstigend",
+  "example": "Der Horrorfilm war wirklich beängstigend.",
+  "translation": "The horror movie was truly frightening."
+},
+{
+  "id": 658,
+  "germanWord": "geheim",
+  "example": "Das Dokument enthielt vertrauliche und geheime Informationen.",
+  "translation": "The document contained confidential and secret information."
+},
+{
+  "id": 659,
+  "germanWord": "egoistisch",
+  "example": "Sein egoistisches Verhalten beeinflusste seine Beziehungen.",
+  "translation": "His selfish behavior affected his relationships."
+},
+{
+  "id": 660,
+  "germanWord": "ernst",
+  "example": "Die Situation erforderte ein ernstes Gespräch.",
+  "translation": "The situation required a serious conversation."
+},
+{
+  "id": 661,
+  "germanWord": "kurz",
+  "example": "Der Film war kurz, aber unterhaltsam.",
+  "translation": "The movie was short but entertaining."
+},
+{
+  "id": 662,
+  "germanWord": "schüchtern",
+  "example": "Er war schüchtern und vermied es, im Mittelpunkt zu stehen.",
+  "translation": "He was shy and avoided being in the spotlight."
+},
+{
+  "id": 663,
+  "germanWord": "krank",
+  "example": "Sie fühlte sich schwach und krank.",
+  "translation": "She felt weak and sick."
+},
+{
+  "id": 664,
+  "germanWord": "lautlos",
+  "example": "Die Uhr tickte lautlos in der Ecke.",
+  "translation": "The clock ticked silently in the corner."
+},
+{
+  "id": 665,
+  "germanWord": "gleichartig",
+  "example": "Die beiden Pflanzen sahen gleichartig aus.",
+  "translation": "The two plants looked similar."
+},
+{
+  "id": 666,
+  "germanWord": "einfach",
+  "example": "Die Lösung war einfach und leicht zu verstehen.",
+  "translation": "The solution was simple and easy to understand."
+},
+{
+  "id": 667,
+  "germanWord": "aufrichtig",
+  "example": "Seine aufrichtigen Worte berührten die Herzen der Menschen.",
+  "translation": "His sincere words touched the hearts of people."
+},
+{
+  "id": 668,
+  "germanWord": "langsam",
+  "example": "Die Schildkröte bewegte sich langsam über den Sand.",
+  "translation": "The turtle moved slowly across the sand."
+},
+{
+  "id": 669,
+  "germanWord": "klein",
+  "example": "Das Haus hatte einen kleinen Garten.",
+  "translation": "The house had a small garden."
+},
+{
+  "id": 670,
+  "germanWord": "intelligent",
+  "example": "Sie war eine intelligente Schülerin mit guten Noten.",
+  "translation": "She was an intelligent student with good grades."
+},
+{
+  "id": 671,
+  "germanWord": "lächelnd",
+  "example": "Er betrat den Raum mit einem lächelnden Gesicht.",
+  "translation": "He entered the room with a smiling face."
+},
+{
+  "id": 672,
+  "germanWord": "gesellig",
+  "example": "Er war ein geselliger Mensch und liebte es, unter Leuten zu sein.",
+  "translation": "He was a sociable person and enjoyed being around people."
+},
+{
+  "id": 673,
+  "germanWord": "sanft",
+  "example": "Die sanfte Brise wehte über das Meer.",
+  "translation": "The gentle breeze blew over the sea."
+},
+{
+  "id": 674,
+  "germanWord": "fest",
+  "example": "Die Tür war fest verschlossen.",
+  "translation": "The door was firmly closed."
+},
+{
+  "id": 675,
+  "germanWord": "einsam",
+  "example": "Er fühlte sich einsam und verlassen.",
+  "translation": "He felt lonely and abandoned."
+},
+{
+  "id": 676,
+  "germanWord": "geräumig",
+  "example": "Die Wohnung war geräumig und hatte viel Platz.",
+  "translation": "The apartment was spacious and had plenty of room."
+},
+{
+  "id": 677,
+  "germanWord": "besonders",
+  "example": "Der Tag war besonders schön und sonnig.",
+  "translation": "The day was particularly beautiful and sunny."
+},
+{
+  "id": 678,
+  "germanWord": "spezifisch",
+  "example": "Die Anweisungen waren spezifisch und klar formuliert.",
+  "translation": "The instructions were specific and clearly stated."
+},
+{
+  "id": 679,
+  "germanWord": "würzig",
+  "example": "Das Essen hatte einen würzigen Geschmack.",
+  "translation": "The food had a spicy flavor."
+},
+{
+  "id": 680,
+  "germanWord": "großartig",
+  "example": "Die Aufführung war großartig und beeindruckend.",
+  "translation": "The performance was great and impressive."
+},
+{
+  "id": 681,
+  "germanWord": "sportlich",
+  "example": "Er war sportlich und nahm an verschiedenen Aktivitäten teil.",
+  "translation": "He was sporty and participated in various activities."
+},
+{
+  "id": 682,
+  "germanWord": "quadratisch",
+  "example": "Der Tisch hatte eine quadratische Form.",
+  "translation": "The table had a square shape."
+},
+{
+  "id": 683,
+  "germanWord": "klebrig",
+  "example": "Die Süßigkeiten waren klebrig und süß.",
+  "translation": "The candies were sticky and sweet."
+},
+{
+  "id": 684,
+  "germanWord": "unbeweglich",
+  "example": "Der schwere Stein war unbeweglich.",
+  "translation": "The heavy stone was immobile."
+},
+{
+  "id": 685,
+  "germanWord": "merkwürdig",
+  "example": "Das Verhalten war merkwürdig und unerklärlich.",
+  "translation": "The behavior was strange and inexplicable."
+},
+{
+  "id": 686,
+  "germanWord": "stark",
+  "example": "Seine Entschlossenheit war stark und unerschütterlich.",
+  "translation": "His determination was strong and unwavering."
+},
+{
+  "id": 687,
+  "germanWord": "stur",
+  "example": "Er war stur und beharrte auf seiner Meinung.",
+  "translation": "He was stubborn and insisted on his opinion."
+},
+{
+  "id": 688,
+  "germanWord": "dämlich",
+  "example": "Sein dämlicher Kommentar sorgte für Gelächter.",
+  "translation": "His silly comment caused laughter."
+},
+{
+  "id": 689,
+  "germanWord": "dumm",
+  "example": "Die Antwort war dumm und wenig durchdacht.",
+  "translation": "The answer was foolish and poorly thought out."
+},
+{
+  "id": 690,
+  "germanWord": "geeignet",
+  "example": "Die Schuhe waren für den Sport geeignet.",
+  "translation": "The shoes were suitable for sports."
+},
+{
+  "id": 691,
+  "germanWord": "super",
+  "example": "Der Tag war super und voller Abenteuer.",
+  "translation": "The day was great and full of adventure."
+},
+{
+  "id": 692,
+  "germanWord": "oberflächlich",
+  "example": "Seine Meinung war oberflächlich und wenig fundiert.",
+  "translation": "His opinion was superficial and poorly founded."
+},
+{
+  "id": 693,
+  "germanWord": "abergläubisch",
+  "example": "Sie war abergläubisch und vermied schwarze Katzen.",
+  "translation": "She was superstitious and avoided black cats."
+},
+{
+  "id": 694,
+  "germanWord": "erstaunt",
+  "example": "Er war erstaunt über die unerwartete Nachricht.",
+  "translation": "He was amazed by the unexpected news."
+},
+{
+  "id": 695,
+  "germanWord": "überrascht",
+  "example": "Sie war angenehm überrascht von dem Geschenk.",
+  "translation": "She was pleasantly surprised by the gift."
+},
+{
+  "id": 696,
+  "germanWord": "misstrauisch",
+  "example": "Er war misstrauisch gegenüber neuen Bekanntschaften.",
+  "translation": "He was suspicious of new acquaintances."
+},
+{
+  "id": 697,
+  "germanWord": "talentiert",
+  "example": "Sie war talentiert und hatte viele kreative Fähigkeiten.",
+  "translation": "She was talented and had many creative abilities."
+},
+{
+  "id": 698,
+  "germanWord": "vorübergehend",
+  "example": "Sein Aufenthalt war nur vorübergehend.",
+  "translation": "His stay was only temporary."
+},
+{
+  "id": 699,
+  "germanWord": "furchtbar",
+  "example": "Das Wetter war furchtbar und stürmisch.",
+  "translation": "The weather was terrible and stormy."
+},
+{
+  "id": 700,
+  "germanWord": "dick",
+  "example": "Die Jacke war warm und dick gepolstert.",
+  "translation": "The jacket was warm and heavily padded."
+},
+{
+  "id": 701,
+  "germanWord": "dünn",
+  "example": "Die Suppe war dünnflüssig.",
+  "translation": "The soup was thin in consistency."
+},
+{
+  "id": 702,
+  "germanWord": "winzig",
+  "example": "Das Insekt war winzig und kaum sichtbar.",
+  "translation": "The insect was tiny and barely visible."
+},
+{
+  "id": 703,
+  "germanWord": "müde",
+  "example": "Nach einem langen Tag war sie müde und erschöpft.",
+  "translation": "After a long day, she was tired and exhausted."
+},
+{
+  "id": 704,
+  "germanWord": "ermüdend",
+  "example": "Die endlosen Besprechungen waren ermüdend.",
+  "translation": "The endless meetings were tiring."
+},
+{
+  "id": 705,
+  "germanWord": "zusammen",
+  "example": "Die Gruppe arbeitete gut zusammen.",
+  "translation": "The group worked well together."
+},
+{
+  "id": 706,
+  "germanWord": "erträglich",
+  "example": "Die Schmerzen waren erträglich, aber unangenehm.",
+  "translation": "The pain was bearable but uncomfortable."
+},
+{
+  "id": 707,
+  "germanWord": "tolerant",
+  "example": "Sie war eine offene und tolerante Person.",
+  "translation": "She was an open and tolerant person."
+},
+{
+  "id": 708,
+  "germanWord": "total",
+  "example": "Die Veranstaltung war ein totaler Erfolg.",
+  "translation": "The event was a total success."
+},
+{
+  "id": 709,
+  "germanWord": "giftig",
+  "example": "Die Schlange hatte ein giftiges Biss.",
+  "translation": "The snake had a poisonous bite."
+},
+{
+  "id": 710,
+  "germanWord": "traditionell",
+  "example": "Die Zeremonie war in einem traditionellen Stil abgehalten.",
+  "translation": "The ceremony was conducted in a traditional style."
+},
+{
+  "id": 711,
+  "germanWord": "dreieckig",
+  "example": "Das Schild hatte eine dreieckige Form.",
+  "translation": "The sign had a triangular shape."
+},
+{
+  "id": 712,
+  "germanWord": "beunruhigend",
+  "example": "Die Nachrichten waren beunruhigend und besorgniserregend.",
+  "translation": "The news was unsettling and concerning."
+},
+{
+  "id": 713,
+  "germanWord": "echt",
+  "example": "Seine Emotionen waren echt und aufrichtig.",
+  "translation": "His emotions were genuine and sincere."
+},
+{
+  "id": 714,
+  "germanWord": "typisch",
+  "example": "Das Gericht war typisch für die regionale Küche.",
+  "translation": "The dish was typical of the regional cuisine."
+},
+{
+  "id": 715,
+  "germanWord": "unfähig",
+  "example": "Er fühlte sich unfähig, die Aufgabe zu bewältigen.",
+  "translation": "He felt incapable of handling the task."
+},
+{
+  "id": 716,
+  "germanWord": "unerträglich",
+  "example": "Die Hitze war unerträglich und kaum auszuhalten.",
+  "translation": "The heat was unbearable and difficult to endure."
+},
+{
+  "id": 717,
+  "germanWord": "ungerecht",
+  "example": "Die Entscheidung erschien ihm ungerecht.",
+  "translation": "The decision seemed unfair to him."
+},
+{
+  "id": 718,
+  "germanWord": "unglücklich",
+  "example": "Er war unglücklich und fühlte sich niedergeschlagen.",
+  "translation": "He was unhappy and felt downcast."
+},
+{
+  "id": 719,
+  "germanWord": "einmalig",
+  "example": "Die Gelegenheit war einmalig und kam nicht wieder.",
+  "translation": "The opportunity was unique and wouldn't come again."
+},
+{
+  "id": 720,
+  "germanWord": "unbekannt",
+  "example": "Der Künstler war zu dieser Zeit noch unbekannt.",
+  "translation": "The artist was still unknown at that time."
+},
+{
+  "id": 721,
+  "germanWord": "unbeschränkt",
+  "example": "Die Möglichkeiten schienen unbeschränkt.",
+  "translation": "The possibilities seemed limitless."
+},
+{
+  "id": 722,
+  "germanWord": "unangenehm",
+  "example": "Die Situation war unangenehm und peinlich.",
+  "translation": "The situation was unpleasant and embarrassing."
+},
+{
+  "id": 723,
+  "germanWord": "unvorhersehbar",
+  "example": "Die zukünftigen Ereignisse waren unvorhersehbar.",
+  "translation": "The future events were unpredictable."
+},
+{
+  "id": 724,
+  "germanWord": "unhaltbar",
+  "example": "Seine Argumente erwiesen sich als unhaltbar.",
+  "translation": "His arguments proved to be untenable."
+},
+{
+  "id": 725,
+  "germanWord": "wertvoll",
+  "example": "Die antike Uhr war sehr wertvoll.",
+  "translation": "The antique clock was very valuable."
+},
+{
+  "id": 726,
+  "germanWord": "verschiedenartig",
+  "example": "Die Pflanzen im Garten waren verschiedenartig und bunt.",
+  "translation": "The plants in the garden were diverse and colorful."
+},
+{
+  "id": 727,
+  "germanWord": "weitläufig",
+  "example": "Der Park war weitläufig und bot viel Platz.",
+  "translation": "The park was spacious and offered plenty of room."
+},
+{
+  "id": 728,
+  "germanWord": "schleimig",
+  "example": "Die Schnecke hinterließ eine schleimige Spur.",
+  "translation": "The snail left behind a slimy trail."
+},
+{
+  "id": 729,
+  "germanWord": "vulgär",
+  "example": "Seine Sprache war oft vulgär und respektlos.",
+  "translation": "His language was often vulgar and disrespectful."
+},
+{
+  "id": 730,
+  "germanWord": "verwundbar",
+  "example": "Die jungen Vögel waren in dieser Phase besonders verwundbar.",
+  "translation": "The young birds were especially vulnerable at this stage."
+},
+{
+  "id": 731,
+  "germanWord": "warmherzig",
+  "example": "Ihre warmherzige Art machte sie bei allen beliebt.",
+  "translation": "Her warm-hearted nature made her popular with everyone."
+},
+{
+  "id": 732,
+  "germanWord": "schwach",
+  "example": "Seine körperliche Verfassung war schwach.",
+  "translation": "His physical condition was weak."
+},
+{
+  "id": 733,
+  "germanWord": "seltsam",
+  "example": "Das Geräusch klang seltsam und ungewohnt.",
+  "translation": "The sound sounded strange and unfamiliar."
+},
+{
+  "id": 734,
+  "germanWord": "gastfreundlich",
+  "example": "Die Einheimischen waren sehr gastfreundlich.",
+  "translation": "The locals were very hospitable."
+},
+{
+  "id": 735,
+  "germanWord": "gut",
+  "example": "Das Essen schmeckte gut und war frisch zubereitet.",
+  "translation": "The food tasted good and was freshly prepared."
+},
+{
+  "id": 736,
+  "germanWord": "feucht",
+  "example": "Die Erde war feucht nach dem Regen.",
+  "translation": "The soil was damp after the rain."
+},
+{
+  "id": 737,
+  "germanWord": "nass",
+  "example": "Ihre Kleidung war komplett nass nach dem Schwimmen.",
+  "translation": "Her clothes were completely wet after swimming."
+},
+{
+  "id": 738,
+  "germanWord": "ganz",
+  "example": "Die Idee war ganz neu und originell.",
+  "translation": "The idea was completely new and original."
+},
+{
+  "id": 739,
+  "germanWord": "breit",
+  "example": "Die Straße war breit und gut beleuchtet.",
+  "translation": "The road was wide and well-lit."
+},
+{
+  "id": 740,
+  "germanWord": "wild",
+  "example": "Die Tiere lebten in freier Wildbahn.",
+  "translation": "The animals lived in the wild."
+},
+{
+  "id": 741,
+  "germanWord": "wunderbar",
+  "example": "Der Sonnenuntergang war einfach wunderbar.",
+  "translation": "The sunset was simply wonderful."
+},
+{
+  "id": 742,
+  "germanWord": "verbraucht",
+  "example": "Das Auto war alt und verbraucht.",
+  "translation": "The car was old and worn out."
+},
+{
+  "id": 743,
+  "germanWord": "besorgt",
+  "example": "Sie war besorgt um die Sicherheit ihrer Familie.",
+  "translation": "She was concerned about the safety of her family."
+},
+{
+  "id": 744,
+  "germanWord": "schlechter",
+  "example": "Das Wetter wurde immer schlechter.",
+  "translation": "The weather was getting worse."
+},
+{
+  "id": 745,
+  "germanWord": "jung",
+  "example": "Die jungen Pflanzen wuchsen schnell.",
+  "translation": "The young plants grew quickly."
+},
+{
+  "id": 746,
+  "germanWord": "absolut",
+  "example": "Seine Meinung war absolut klar und deutlich.",
+  "translation": "His opinion was absolutely clear and distinct."
+},
+{
+  "id": 747,
+  "germanWord": "ungewöhnlich",
+  "example": "Der Vorfall war sehr ungewöhnlich und rätselhaft.",
+  "translation": "The incident was very unusual and puzzling."
+},
+{
+  "id": 748,
+  "germanWord": "etwa",
+  "example": "Die Reise dauerte etwa zwei Stunden.",
+  "translation": "The journey took about two hours."
+},
+{
+  "id": 749,
+  "germanWord": "versehentlich",
+  "example": "Er hatte versehentlich den falschen Knopf gedrückt.",
+  "translation": "He had accidentally pressed the wrong button."
+},
+{
+  "id": 750,
+  "germanWord": "aktiv",
+  "example": "Sie führte ein aktives und gesundes Leben.",
+  "translation": "She led an active and healthy life."
+},
+{
+  "id": 751,
+  "germanWord": "nach",
+  "example": "Die Versammlung findet nach der Mittagspause statt.",
+  "translation": "The meeting takes place after the lunch break."
+},
+{
+  "id": 752,
+  "germanWord": "fast",
+  "example": "Er hatte fast alle Aufgaben erledigt.",
+  "translation": "He had almost completed all the tasks."
+},
+{
+  "id": 753,
+  "germanWord": "ebenso",
+  "example": "Ihre Meinung zählte genauso viel wie die der anderen.",
+  "translation": "Her opinion was equally important as that of others."
+},
+{
+  "id": 754,
+  "germanWord": "immer",
+  "example": "Die Sonne scheint fast immer in dieser Region.",
+  "translation": "The sun almost always shines in this region."
+},
+{
+  "id": 755,
+  "germanWord": "jederzeit",
+  "example": "Du kannst mich jederzeit anrufen.",
+  "translation": "You can call me anytime."
+},
+{
+  "id": 756,
+  "germanWord": "irgendwo",
+  "example": "Er ist irgendwo unterwegs und nicht erreichbar.",
+  "translation": "He is somewhere out and not reachable."
+},
+{
+  "id": 757,
+  "germanWord": "anscheinend",
+  "example": "Er war anscheinend nicht mit den Informationen vertraut.",
+  "translation": "He was apparently not familiar with the information."
+},
+{
+  "id": 758,
+  "germanWord": "annähernd",
+  "example": "Die Kosten waren annähernd so hoch wie erwartet.",
+  "translation": "The costs were approximately as high as expected."
+},
+{
+  "id": 759,
+  "germanWord": "automatisch",
+  "example": "Die Maschine funktionierte automatisch.",
+  "translation": "The machine operated automatically."
+},
+{
+  "id": 760,
+  "germanWord": "Blindheit",
+  "example": "Seine Blindheit war eine große Herausforderung im Alltag.",
+  "translation": "His blindness was a significant challenge in daily life."
+},
+{
+  "id": 761,
+  "germanWord": "kurz",
+  "example": "Seine Antwort war kurz und prägnant.",
+  "translation": "His response was short and concise."
+},
+{
+  "id": 762,
+  "germanWord": "ruhig",
+  "example": "Der Ort war ruhig und friedlich.",
+  "translation": "The place was calm and peaceful."
+},
+{
+  "id": 763,
+  "germanWord": "aufmerksam",
+  "example": "Er war immer aufmerksam und reagierte schnell.",
+  "translation": "He was always attentive and responded quickly."
+},
+{
+  "id": 764,
+  "germanWord": "vorsichtig",
+  "example": "Sie ging vorsichtig über den glatten Boden.",
+  "translation": "She walked cautiously on the slippery floor."
+},
+{
+  "id": 765,
+  "germanWord": "sicher",
+  "example": "Der Ort war sicher und gut geschützt.",
+  "translation": "The place was safe and well-protected."
+},
+{
+  "id": 766,
+  "germanWord": "eindeutig",
+  "example": "Die Anweisungen waren eindeutig und leicht verständlich.",
+  "translation": "The instructions were clear and easily understandable."
+},
+{
+  "id": 767,
+  "germanWord": "bequem",
+  "example": "Der Stuhl war sehr bequem zum Sitzen.",
+  "translation": "The chair was very comfortable for sitting."
+},
+{
+  "id": 768,
+  "germanWord": "fließend",
+  "example": "Sie sprach fließend mehrere Sprachen.",
+  "translation": "She spoke several languages fluently."
+},
+{
+  "id": 769,
+  "germanWord": "völlig",
+  "example": "Seine Erklärung war völlig unverständlich.",
+  "translation": "His explanation was completely incomprehensible."
+},
+{
+  "id": 770,
+  "germanWord": "ständig",
+  "example": "Er war ständig unterwegs und selten zu Hause.",
+  "translation": "He was constantly on the go and rarely at home."
+},
+{
+  "id": 771,
+  "germanWord": "richtig",
+  "example": "Die Antwort war richtig und genau.",
+  "translation": "The answer was correct and accurate."
+},
+{
+  "id": 772,
+  "germanWord": "mutig",
+  "example": "Seine mutige Tat rettete das Leben anderer.",
+  "translation": "His courageous act saved the lives of others."
+},
+{
+  "id": 773,
+  "germanWord": "merkwürdigerweise",
+  "example": "Merkwürdigerweise war er immer anwesend, wenn es Probleme gab.",
+  "translation": "Strangely enough, he was always present when there were problems."
+},
+{
+  "id": 774,
+  "germanWord": "derzeit",
+  "example": "Derzeit arbeite ich an einem neuen Projekt.",
+  "translation": "Currently, I'm working on a new project."
+},
+{
+  "id": 775,
+  "germanWord": "extra",
+  "example": "Er bestellte eine extra Portion Pommes.",
+  "translation": "He ordered an extra portion of fries."
+},
+{
+  "id": 776,
+  "germanWord": "behutsam",
+  "example": "Sie behandelte die antike Vase behutsam.",
+  "translation": "She handled the antique vase carefully."
+},
+{
+  "id": 777,
+  "germanWord": "verzweifelt",
+  "example": "Sie war verzweifelt auf der Suche nach ihrem verlorenen Schlüssel.",
+  "translation": "She was desperate in search of her lost key."
+},
+{
+  "id": 778,
+  "germanWord": "leicht",
+  "example": "Das Buch war leicht zu verstehen.",
+  "translation": "The book was easy to understand."
+},
+{
+  "id": 779,
+  "germanWord": "woanders",
+  "example": "Ich möchte dieses Wochenende woanders verbringen.",
+  "translation": "I want to spend this weekend somewhere else."
+},
+{
+  "id": 780,
+  "germanWord": "sehr",
+  "example": "Sie war sehr glücklich über das Geschenk.",
+  "translation": "She was very happy about the gift."
+},
+{
+  "id": 781,
+  "germanWord": "ziemlich",
+  "example": "Die Aufgabe war ziemlich schwierig.",
+  "translation": "The task was quite difficult."
+},
+{
+  "id": 782,
+  "germanWord": "überall",
+  "example": "Die Musik war überall im Raum zu hören.",
+  "translation": "The music could be heard everywhere in the room."
+},
+{
+  "id": 783,
+  "germanWord": "genau",
+  "example": "Sie folgte den Anweisungen genau.",
+  "translation": "She followed the instructions exactly."
+},
+{
+  "id": 784,
+  "germanWord": "ausnahmsweise",
+  "example": "Ausnahmsweise durfte er länger aufbleiben.",
+  "translation": "For once, he was allowed to stay up later."
+},
+{
+  "id": 785,
+  "germanWord": "sehr",
+  "example": "Er war sehr aufgeregt vor seinem Auftritt.",
+  "translation": "He was very excited before his performance."
+},
+{
+  "id": 786,
+  "germanWord": "schließlich",
+  "example": "Nach vielen Versuchen gelang es ihm schließlich.",
+  "translation": "After many attempts, he finally succeeded."
+},
+{
+  "id": 787,
+  "germanWord": "erstens",
+  "example": "Erstens sollten wir das Problem analysieren.",
+  "translation": "Firstly, we should analyze the problem."
+},
+{
+  "id": 788,
+  "germanWord": "früher",
+  "example": "Früher habe ich in dieser Stadt gewohnt.",
+  "translation": "I used to live in this city earlier."
+},
+{
+  "id": 789,
+  "germanWord": "glücklicherweise",
+  "example": "Glücklicherweise war niemand bei dem Unfall verletzt.",
+  "translation": "Fortunately, no one was injured in the accident."
+},
+{
+  "id": 790,
+  "germanWord": "offen",
+  "example": "Die Tür stand offen, also ging er hinein.",
+  "translation": "The door was open, so he went inside."
+},
+{
+  "id": 791,
+  "germanWord": "frei",
+  "example": "Er hatte heute frei und konnte entspannen.",
+  "translation": "He had the day off today and could relax."
+},
+{
+  "id": 792,
+  "germanWord": "schwer",
+  "example": "Die Aufgabe war sehr schwer zu lösen.",
+  "translation": "The task was very difficult to solve."
+},
+{
+  "id": 793,
+  "germanWord": "ehrlich",
+  "example": "Seine ehrliche Antwort überraschte alle.",
+  "translation": "His honest answer surprised everyone."
+},
+{
+  "id": 794,
+  "germanWord": "sofort",
+  "example": "Er reagierte sofort auf die Nachricht.",
+  "translation": "He responded immediately to the message."
+},
+{
+  "id": 795,
+  "germanWord": "zuletzt",
+  "example": "Sie kam als Letzte zur Party.",
+  "translation": "She arrived last at the party."
+},
+{
+  "id": 796,
+  "germanWord": "lange",
+  "example": "Sie arbeitete lange an diesem Projekt.",
+  "translation": "She worked on this project for a long time."
+},
+{
+  "id": 797,
+  "germanWord": "laut",
+  "example": "Die Musik war zu laut für Gespräche.",
+  "translation": "The music was too loud for conversations."
+},
+{
+  "id": 798,
+  "germanWord": "immer mehr",
+  "example": "Immer mehr Menschen interessieren sich für Nachhaltigkeit.",
+  "translation": "More and more people are becoming interested in sustainability."
+},
+{
+  "id": 799,
+  "germanWord": "viel",
+  "example": "Sie hatte viel Arbeit zu erledigen.",
+  "translation": "She had a lot of work to do."
+},
+{
+  "id": 800,
+  "germanWord": "mysteriöserweise",
+  "example": "Mysteriöserweise verschwand die Uhr spurlos.",
+  "translation": "Mysteriously, the clock disappeared without a trace."
+},
+{
+  "id": 801,
+  "germanWord": "natürlich",
+  "example": "Es ist natürlich, dass Blumen im Frühling blühen.",
+  "translation": "It's natural for flowers to bloom in spring."
+},
+{
+  "id": 802,
+  "germanWord": "unnötig",
+  "example": "Die Diskussion war unnötig und führte zu nichts.",
+  "translation": "The discussion was unnecessary and led to nothing."
+},
+{
+  "id": 803,
+  "germanWord": "nie",
+  "example": "Er hat nie Interesse an Sport gezeigt.",
+  "translation": "He never showed interest in sports."
+},
+{
+  "id": 804,
+  "germanWord": "normalerweise",
+  "example": "Normalerweise trinke ich morgens Kaffee.",
+  "translation": "Normally, I have coffee in the morning."
+},
+{
+  "id": 805,
+  "germanWord": "von nun an",
+  "example": "Von nun an werde ich meine Zeit besser nutzen.",
+  "translation": "From now on, I will use my time more wisely."
+},
+{
+  "id": 806,
+  "germanWord": "jetzt",
+  "example": "Ich bin jetzt bereit für die Präsentation.",
+  "translation": "I am ready for the presentation now."
+},
+{
+  "id": 807,
+  "germanWord": "nirgendwo",
+  "example": "Das Buch war nirgendwo zu finden.",
+  "translation": "The book was nowhere to be found."
+},
+{
+  "id": 808,
+  "germanWord": "natürlich",
+  "example": "Es ist natürlich, dass Tiere instinktiv überleben wollen.",
+  "translation": "It's natural for animals to instinctively want to survive."
+},
+{
+  "id": 809,
+  "germanWord": "oft",
+  "example": "Sie geht oft ins Fitnessstudio.",
+  "translation": "She often goes to the gym."
+},
+{
+  "id": 810,
+  "germanWord": "nur",
+  "example": "Ich habe nur eine Frage.",
+  "translation": "I have only one question."
+},
+{
+  "id": 811,
+  "germanWord": "sonst",
+  "example": "Sonst noch Fragen?",
+  "translation": "Any other questions?"
+},
+{
+  "id": 812,
+  "germanWord": "geduldig",
+  "example": "Er wartete geduldig auf seine Freunde.",
+  "translation": "He patiently waited for his friends."
+},
+{
+  "id": 813,
+  "germanWord": "perfekt",
+  "example": "Die Antwort war perfekt auf die Frage abgestimmt.",
+  "translation": "The answer was perfectly tailored to the question."
+},
+{
+  "id": 814,
+  "germanWord": "vielleicht",
+  "example": "Vielleicht werde ich später vorbeikommen.",
+  "translation": "Maybe I will come by later."
+},
+{
+  "id": 815,
+  "germanWord": "wahrscheinlich",
+  "example": "Es wird wahrscheinlich morgen regnen.",
+  "translation": "It will probably rain tomorrow."
+},
+{
+  "id": 816,
+  "germanWord": "schnell",
+  "example": "Er rannte schnell, um den Bus zu erreichen.",
+  "translation": "He ran quickly to catch the bus."
+},
+{
+  "id": 817,
+  "germanWord": "ruhig",
+  "example": "Die Nacht war ruhig und friedlich.",
+  "translation": "The night was calm and peaceful."
+},
+{
+  "id": 818,
+  "germanWord": "zufällig",
+  "example": "Ich traf zufällig einen alten Freund auf der Straße.",
+  "translation": "I randomly met an old friend on the street."
+},
+{
+  "id": 819,
+  "germanWord": "selten",
+  "example": "Es ist selten, dass wir so viel Glück haben.",
+  "translation": "It's rare that we have this much luck."
+},
+{
+  "id": 820,
+  "germanWord": "wirklich",
+  "example": "Sie war wirklich begeistert von der Idee.",
+  "translation": "She was truly excited about the idea."
+},
+{
+  "id": 821,
+  "germanWord": "sofort",
+  "example": "Bitte erledigen Sie das sofort.",
+  "translation": "Please do this immediately."
+},
+{
+  "id": 822,
+  "germanWord": "getrennt",
+  "example": "Die Geschwister lebten in getrennten Städten.",
+  "translation": "The siblings lived in separate cities."
+},
+{
+  "id": 823,
+  "germanWord": "ernsthaft",
+  "example": "Er sprach ernsthaft über seine Pläne für die Zukunft.",
+  "translation": "He talked seriously about his plans for the future."
+},
+{
+  "id": 824,
+  "germanWord": "beträchtlich",
+  "example": "Die Kosten für das Projekt waren beträchtlich.",
+  "translation": "The costs for the project were considerable."
+},
+{
+  "id": 825,
+  "germanWord": "leise, ruhig",
+  "example": "Bitte sei leise, ich versuche zu arbeiten.",
+  "translation": "Please be quiet, I'm trying to work."
+},
+{
+  "id": 826,
+  "germanWord": "einfach",
+  "example": "Die Lösung war viel einfacher als gedacht.",
+  "translation": "The solution was much simpler than expected."
+},
+{
+  "id": 827,
+  "germanWord": "leicht",
+  "example": "Der Koffer war leicht zu tragen.",
+  "translation": "The suitcase was easy to carry."
+},
+{
+  "id": 828,
+  "germanWord": "sanft",
+  "example": "Die Musik klang sanft und beruhigend.",
+  "translation": "The music sounded soft and soothing."
+},
+{
+  "id": 829,
+  "germanWord": "langsam",
+  "example": "Die Schildkröte bewegte sich langsam durch den Garten.",
+  "translation": "The turtle moved slowly through the garden."
+},
+{
+  "id": 830,
+  "germanWord": "manchmal",
+  "example": "Manchmal gehe ich gerne spazieren.",
+  "translation": "Sometimes I like to go for a walk."
+},
+{
+  "id": 831,
+  "germanWord": "irgendwo",
+  "example": "Er ist gerade irgendwo unterwegs.",
+  "translation": "He is currently somewhere out and about."
+},
+{
+  "id": 832,
+  "germanWord": "bald",
+  "example": "Bald beginnt die Sonne unterzugehen.",
+  "translation": "The sun will set soon."
+},
+{
+  "id": 833,
+  "germanWord": "stehend",
+  "example": "Der Mann stand am Straßenrand.",
+  "translation": "The man was standing by the roadside."
+},
+{
+  "id": 834,
+  "germanWord": "noch",
+  "example": "Ich werde noch eine Tasse Tee trinken.",
+  "translation": "I will have another cup of tea."
+},
+{
+  "id": 835,
+  "germanWord": "seltsamerweise",
+  "example": "Seltsamerweise funktionierte der Computer wieder.",
+  "translation": "Strangely enough, the computer started working again."
+},
+{
+  "id": 836,
+  "germanWord": "streng",
+  "example": "Die Lehrerin war streng, aber gerecht.",
+  "translation": "The teacher was strict but fair."
+},
+{
+  "id": 837,
+  "germanWord": "stark",
+  "example": "Die Gewürze gaben dem Essen einen starken Geschmack.",
+  "translation": "The spices gave the food a strong flavor."
+},
+{
+  "id": 838,
+  "germanWord": "plötzlich",
+  "example": "Plötzlich fing es an zu regnen.",
+  "translation": "Suddenly, it started raining."
+},
+{
+  "id": 839,
+  "germanWord": "überraschenderweise",
+  "example": "Überraschenderweise fand er sein verlorenes Handy.",
+  "translation": "Surprisingly, he found his lost phone."
+},
+{
+  "id": 840,
+  "germanWord": "dann",
+  "example": "Wenn du fertig bist, komm dann zurück.",
+  "translation": "When you're done, come back then."
+},
+{
+  "id": 841,
+  "germanWord": "zusammen",
+  "example": "Wir arbeiteten zusammen an diesem Projekt.",
+  "translation": "We worked together on this project."
+},
+{
+  "id": 842,
+  "germanWord": "leider",
+  "example": "Leider konnte ich nicht zum Treffen kommen.",
+  "translation": "Unfortunately, I couldn't attend the meeting."
+},
+{
+  "id": 843,
+  "germanWord": "normalerweise",
+  "example": "Normalerweise esse ich kein Fleisch.",
+  "translation": "Normally, I don't eat meat."
+},
+{
+  "id": 844,
+  "germanWord": "sehr",
+  "example": "Ich habe mich sehr über das Geschenk gefreut.",
+  "translation": "I was very happy about the gift."
+},
+{
+  "id": 845,
+  "germanWord": "gut",
+  "example": "Er spielt gut Gitarre.",
+  "translation": "He plays the guitar well."
+},
+{
+  "id": 846,
+  "germanWord": "woher",
+  "example": "Woher kommst du?",
+  "translation": "Where are you from?"
+},
+{
+  "id": 847,
+  "germanWord": "kochen",
+  "example": "Ich liebe es, zu kochen und neue Rezepte auszuprobieren.",
+  "translation": "I love cooking and trying out new recipes."
+},
+{
+  "id": 848,
+  "germanWord": "zurückkommen",
+  "example": "Wann wirst du zurückkommen?",
+  "translation": "When will you come back?"
+},
+{
+  "id": 849,
+  "germanWord": "Mittag",
+  "example": "Um Mittag herum esse ich normalerweise zu Mittag.",
+  "translation": "Around noon, I usually have lunch."
+},
+{
+  "id": 850,
+  "germanWord": "vielleicht",
+  "example": "Vielleicht gehe ich morgen einkaufen.",
+  "translation": "Maybe I'll go shopping tomorrow."
+},
+{
+  "id": 851,
+  "germanWord": "sagen",
+  "example": "Kannst du mir sagen, wie spät es ist?",
+  "translation": "Can you tell me what time it is?"
+},
+{
+  "id": 852,
+  "germanWord": "ungeduldig",
+  "example": "Er wartete ungeduldig auf den Bus.",
+  "translation": "He impatiently waited for the bus."
+},
+{
+  "id": 853,
+  "germanWord": "laut",
+  "example": "Die Musik war so laut, dass ich sie im ganzen Haus hören konnte.",
+  "translation": "The music was so loud that I could hear it throughout the house."
+},
+{
+  "id": 854,
+  "germanWord": "groß",
+  "example": "Das ist ein wirklich großes Gebäude.",
+  "translation": "That's a really big building."
+},
+{
+  "id": 855,
+  "germanWord": "wissen",
+  "example": "Ich weiß nicht, was ich tun soll.",
+  "translation": "I don't know what to do."
+},
+{
+  "id": 856,
+  "germanWord": "gemeinsam",
+  "example": "Wir haben gemeinsam an dem Projekt gearbeitet.",
+  "translation": "We worked on the project together."
+},
+{
+  "id": 857,
+  "germanWord": "nachher",
+  "example": "Wir können nachher darüber sprechen.",
+  "translation": "We can talk about it later."
+},
+{
+  "id": 858,
+  "germanWord": "öffnen",
+  "example": "Kannst du bitte das Fenster öffnen?",
+  "translation": "Can you please open the window?"
+},
+{
+  "id": 859,
+  "germanWord": "Mitternacht",
+  "example": "Um Mitternacht feiern wir das neue Jahr.",
+  "translation": "We celebrate the New Year at midnight."
+},
+{
+  "id": 860,
+  "germanWord": "sitzen",
+  "example": "Ich werde drinnen sitzen und lesen.",
+  "translation": "I will sit indoors and read."
+},
+{
+  "id": 861,
+  "germanWord": "immer",
+  "example": "Er ist immer sehr freundlich.",
+  "translation": "He is always very friendly."
+},
+{
+  "id": 862,
+  "germanWord": "schreiben",
+  "example": "Ich werde dir eine E-Mail schreiben.",
+  "translation": "I will write you an email."
+},
+{
+  "id": 863,
+  "germanWord": "zum",
+  "example": "Wir gehen zum Supermarkt, um Lebensmittel zu kaufen.",
+  "translation": "We are going to the supermarket to buy groceries."
+},
+{
+  "id": 864,
+  "germanWord": "wissen",
+  "example": "Ich möchte wissen, wie man das repariert.",
+  "translation": "I want to know how to fix that."
+},
+{
+  "id": 865,
+  "germanWord": "müde",
+  "example": "Ich bin nach einem langen Tag sehr müde.",
+  "translation": "I am very tired after a long day."
+},
+{
+  "id": 866,
+  "germanWord": "dass",
+  "example": "Ich hoffe, dass das Wetter morgen besser wird.",
+  "translation": "I hope that the weather will be better tomorrow."
+},
+{
+  "id": 867,
+  "germanWord": "jetzt",
+  "example": "Ich kann nicht jetzt sprechen, ich rufe später zurück.",
+  "translation": "I can't talk now, I'll call back later."
+},
+{
+  "id": 868,
+  "germanWord": "in",
+  "example": "Wir haben uns in der Stadt getroffen.",
+  "translation": "We met in the city."
+},
+{
+  "id": 869,
+  "germanWord": "nächst",
+  "example": "Der nächste Bus fährt in 15 Minuten.",
+  "translation": "The next bus will leave in 15 minutes."
+},
+{
+  "id": 870,
+  "germanWord": "plötzlich",
+  "example": "Plötzlich begann es stark zu regnen.",
+  "translation": "Suddenly, it started raining heavily."
+},
+{
+  "id": 871,
+  "germanWord": "Morgen",
+  "example": "Morgen werde ich früh aufstehen.",
+  "translation": "Tomorrow, I will get up early."
+},
+{
+  "id": 872,
+  "germanWord": "noch nicht",
+  "example": "Ich habe das Buch noch nicht gelesen.",
+  "translation": "I haven't read the book yet."
+},
+{
+  "id": 873,
+  "germanWord": "reden",
+  "example": "Können wir später darüber reden?",
+  "translation": "Can we talk about it later?"
+},
+{
+  "id": 874,
+  "germanWord": "was",
+  "example": "Was hast du gestern gemacht?",
+  "translation": "What did you do yesterday?"
+},
+{
+  "id": 875,
+  "germanWord": "gewinnen",
+  "example": "Unser Team hat das Spiel gewonnen.",
+  "translation": "Our team won the game."
+},
+{
+  "id": 876,
+  "germanWord": "bitte",
+  "example": "Kannst du mir bitte helfen?",
+  "translation": "Can you please help me?"
+},
+{
+  "id": 877,
+  "germanWord": "schwierig",
+  "example": "Das Rätsel war ziemlich schwierig zu lösen.",
+  "translation": "The puzzle was quite difficult to solve."
+},
+{
+  "id": 878,
+  "germanWord": "doch",
+  "example": "Ich dachte, du magst keine Pizza. - Doch, heute schon.",
+  "translation": "I thought you didn't like pizza. - Well, today I do."
+},
+{
+  "id": 879,
+  "germanWord": "zeit",
+  "example": "Die Zeit vergeht so schnell.",
+  "translation": "Time passes by so quickly."
+},
+{
+  "id": 880,
+  "germanWord": "ohne",
+  "example": "Ich kann nicht ohne meine Brille lesen.",
+  "translation": "I can't read without my glasses."
+},
+{
+  "id": 881,
+  "germanWord": "zuletzt",
+  "example": "Zuletzt habe ich vor einem Monat mit ihm gesprochen.",
+  "translation": "I last spoke to him a month ago."
+},
+{
+  "id": 882,
+  "germanWord": "tragen",
+  "example": "Sie trägt gerne bunte Kleidung.",
+  "translation": "She likes to wear colorful clothes."
+},
+{
+  "id": 883,
+  "germanWord": "um",
+  "example": "Wir treffen uns um 10 Uhr am Eingang.",
+  "translation": "We're meeting at the entrance at 10 o'clock."
+},
+{
+  "id": 884,
+  "germanWord": "lang",
+  "example": "Wir hatten gestern eine lange Diskussion.",
+  "translation": "We had a long discussion yesterday."
+},
+{
+  "id": 885,
+  "germanWord": "dann",
+  "example": "Wenn du fertig bist, kannst du dann gehen.",
+  "translation": "You can leave when you're done then."
+},
+{
+  "id": 886,
+  "germanWord": "paar",
+  "example": "Ich brauche noch ein paar Zutaten für das Rezept.",
+  "translation": "I need a few more ingredients for the recipe."
+},
+{
+  "id": 887,
+  "germanWord": "schnell",
+  "example": "Er rennt sehr schnell.",
+  "translation": "He runs very fast."
+},
+{
+  "id": 888,
+  "germanWord": "genau",
+  "example": "Ich weiß genau, was du meinst.",
+  "translation": "I know exactly what you mean."
+},
+{
+  "id": 889,
+  "germanWord": "Abend",
+  "example": "Wir treffen uns am Abend im Restaurant.",
+  "translation": "We are meeting at the restaurant in the evening."
+},
+{
+  "id": 890,
+  "germanWord": "gehen",
+  "example": "Ich gehe oft im Park spazieren.",
+  "translation": "I often go for a walk in the park."
+},
+{
+  "id": 891,
+  "germanWord": "eben",
+  "example": "Er ist eben angekommen.",
+  "translation": "He just arrived."
+},
+{
+  "id": 892,
+  "germanWord": "haben",
+  "example": "Ich habe gestern Geburtstag gehabt.",
+  "translation": "Yesterday was my birthday."
+},
+{
+  "id": 893,
+  "germanWord": "wieder",
+  "example": "Wir sollten uns unbedingt wieder treffen.",
+  "translation": "We should definitely meet again."
+},
+{
+  "id": 894,
+  "germanWord": "brauchen",
+  "example": "Ich brauche noch ein Geschenk für meine Schwester.",
+  "translation": "I still need a gift for my sister."
+},
+{
+  "id": 895,
+  "germanWord": "schade",
+  "example": "Es ist schade, dass du nicht kommen kannst.",
+  "translation": "It's a pity you can't come."
+},
+{
+  "id": 896,
+  "germanWord": "Frau",
+  "example": "Die Frau da drüben ist meine Nachbarin.",
+  "translation": "The woman over there is my neighbor."
+},
+{
+  "id": 897,
+  "germanWord": "täglich",
+  "example": "Ich gehe täglich eine halbe Stunde joggen.",
+  "translation": "I go jogging for half an hour every day."
+},
+{
+  "id": 898,
+  "germanWord": "grün",
+  "example": "Der Park ist im Frühling besonders grün.",
+  "translation": "The park is particularly green in spring."
+},
+{
+  "id": 899,
+  "germanWord": "stimmen",
+  "example": "Die Informationen stimmen nicht überein.",
+  "translation": "The information doesn't match."
+},
+{
+  "id": 900,
+  "germanWord": "sofort",
+  "example": "Bitte rufen Sie mich sofort an.",
+  "translation": "Please call me immediately."
+},
+{
+  "id": 901,
+  "germanWord": "heute",
+  "example": "Heute ist ein schöner Tag.",
+  "translation": "Today is a beautiful day."
+},
+{
+  "id": 902,
+  "germanWord": "ab",
+  "example": "Wir fahren morgen früh ab.",
+  "translation": "We're leaving early tomorrow."
+},
+{
+  "id": 903,
+  "germanWord": "fahren",
+  "example": "Wir fahren nächste Woche in den Urlaub.",
+  "translation": "We're going on vacation next week."
+},
+{
+  "id": 904,
+  "germanWord": "auch",
+  "example": "Ich möchte auch etwas bestellen.",
+  "translation": "I would like to order something too."
+},
+{
+  "id": 905,
+  "germanWord": "fast",
+  "example": "Ich bin fast fertig mit der Arbeit.",
+  "translation": "I'm almost done with the work."
+},
+{
+  "id": 906,
+  "germanWord": "fragen",
+  "example": "Kann ich dich etwas fragen?",
+  "translation": "Can I ask you something?"
+},
+{
+  "id": 907,
+  "germanWord": "richtig",
+  "example": "Deine Antwort ist richtig.",
+  "translation": "Your answer is correct."
+},
+{
+  "id": 908,
+  "germanWord": "fröhlich",
+  "example": "Die Kinder waren fröhlich beim Spielen.",
+  "translation": "The children were joyful while playing."
+},
+{
+  "id": 909,
+  "germanWord": "vergessen",
+  "example": "Ich habe meinen Schlüssel zu Hause vergessen.",
+  "translation": "I forgot my keys at home."
+},
+{
+  "id": 910,
+  "germanWord": "helfen",
+  "example": "Kannst du mir bitte helfen?",
+  "translation": "Can you please help me?"
+},
+{
+  "id": 911,
+  "germanWord": "denn",
+  "example": "Ich bin traurig, denn ich habe meine Brieftasche verloren.",
+  "translation": "I'm sad because I lost my wallet."
+},
+{
+  "id": 912,
+  "germanWord": "endlich",
+  "example": "Wir haben endlich unser Ziel erreicht.",
+  "translation": "We finally reached our destination."
+},
+{
+  "id": 913,
+  "germanWord": "schlafen",
+  "example": "Ich möchte gerne schlafen gehen.",
+  "translation": "I would like to go to sleep."
+},
+{
+  "id": 914,
+  "germanWord": "wichtig",
+  "example": "Es ist wichtig, pünktlich zu sein.",
+  "translation": "It's important to be on time."
+},
+{
+  "id": 915,
+  "germanWord": "wo",
+  "example": "Wo ist die nächste Bushaltestelle?",
+  "translation": "Where is the nearest bus stop?"
+},
+{
+  "id": 916,
+  "germanWord": "weg",
+  "example": "Das Paket ist schon auf dem Weg zu dir.",
+  "translation": "The package is already on its way to you."
+},
+{
+  "id": 917,
+  "germanWord": "antworten",
+  "example": "Bitte antworte mir schnell auf meine Nachricht.",
+  "translation": "Please respond quickly to my message."
+},
+{
+  "id": 918,
+  "germanWord": "vorher",
+  "example": "Ich habe vorher noch nie Sushi gegessen.",
+  "translation": "I've never eaten sushi before."
+},
+{
+  "id": 919,
+  "germanWord": "nicht",
+  "example": "Ich kann heute leider nicht kommen.",
+  "translation": "I can't come today, unfortunately."
+},
+{
+  "id": 920,
+  "germanWord": "er",
+  "example": "Er arbeitet in einer Bank.",
+  "translation": "He works at a bank."
+},
+{
+  "id": 921,
+  "germanWord": "einladen",
+  "example": "Kommst du zu meiner Party? Ich lade dich ein.",
+  "translation": "Are you coming to my party? I invite you."
+},
+{
+  "id": 922,
+  "germanWord": "sobald",
+  "example": "Ich melde mich bei dir, sobald ich Zeit habe.",
+  "translation": "I'll get in touch with you as soon as I have time."
+},
+{
+  "id": 923,
+  "germanWord": "sehen",
+  "example": "Ich habe gestern einen Film gesehen.",
+  "translation": "I watched a movie yesterday."
+},
+{
+  "id": 924,
+  "germanWord": "darum",
+  "example": "Ich war krank, darum konnte ich nicht kommen.",
+  "translation": "I was sick, that's why I couldn't come."
+},
+{
+  "id": 925,
+  "germanWord": "nie",
+  "example": "Ich habe nie gedacht, dass das passieren würde.",
+  "translation": "I never thought that would happen."
+},
+{
+  "id": 926,
+  "germanWord": "zurück",
+  "example": "Ich möchte meine Jacke zurückhaben.",
+  "translation": "I want to have my jacket back."
+},
+{
+  "id": 927,
+  "germanWord": "besuchen",
+  "example": "Ich möchte meinen Freund in Italien besuchen.",
+  "translation": "I want to visit my friend in Italy."
+},
+{
+  "id": 928,
+  "germanWord": "danach",
+  "example": "Wir trinken Kaffee und essen danach Kuchen.",
+  "translation": "We drink coffee and eat cake afterwards."
+},
+{
+  "id": 929,
+  "germanWord": "damals",
+  "example": "Ich erinnere mich gerne an meine Kindheit damals.",
+  "translation": "I like to remember my childhood back then."
+},
+{
+  "id": 930,
+  "germanWord": "anfangen",
+  "example": "Wir fangen morgen mit dem Projekt an.",
+  "translation": "We'll start the project tomorrow."
+},
+{
+  "id": 931,
+  "germanWord": "hübsch",
+  "example": "Dein neues Kleid sieht sehr hübsch aus.",
+  "translation": "Your new dress looks very pretty."
+},
+{
+  "id": 932,
+  "germanWord": "freundlich",
+  "example": "Die Leute hier sind sehr freundlich.",
+  "translation": "The people here are very friendly."
+},
+{
+  "id": 933,
+  "germanWord": "besser",
+  "example": "Ich fühle mich heute besser als gestern.",
+  "translation": "I feel better today than yesterday."
+},
+{
+  "id": 934,
+  "germanWord": "wunderbar",
+  "example": "Das Konzert gestern war wirklich wunderbar.",
+  "translation": "The concert yesterday was truly wonderful."
+},
+{
+  "id": 935,
+  "germanWord": "bevor",
+  "example": "Ich esse immer ein Stück Schokolade, bevor ich ins Bett gehe.",
+  "translation": "I always eat a piece of chocolate before going to bed."
+},
+{
+  "id": 936,
+  "germanWord": "vorgestern",
+  "example": "Wir haben uns vorgestern zum ersten Mal getroffen.",
+  "translation": "We met for the first time the day before yesterday."
+},
+{
+  "id": 937,
+  "germanWord": "ruhig",
+  "example": "Bitte sei ruhig, ich möchte mich konzentrieren.",
+  "translation": "Please be quiet, I want to concentrate."
+},
+{
+  "id": 938,
+  "germanWord": "glücklich",
+  "example": "Ich bin glücklich, wenn ich Zeit mit meiner Familie verbringe.",
+  "translation": "I am happy when I spend time with my family."
+},
+{
+  "id": 939,
+  "germanWord": "bestellen",
+  "example": "Ich möchte gerne eine Pizza bestellen.",
+  "translation": "I would like to order a pizza."
+},
+{
+  "id": 940,
+  "germanWord": "dürfen",
+  "example": "Darf ich dein Fahrrad ausleihen?",
+  "translation": "Can I borrow your bike?"
+},
+{
+  "id": 941,
+  "germanWord": "gehören",
+  "example": "Dieses Buch gehört mir.",
+  "translation": "This book belongs to me."
+},
+{
+  "id": 942,
+  "germanWord": "noch",
+  "example": "Ich habe noch eine Frage.",
+  "translation": "I have one more question."
+},
+{
+  "id": 943,
+  "germanWord": "tun",
+  "example": "Du musst etwas tun, um dein Ziel zu erreichen.",
+  "translation": "You have to do something to achieve your goal."
+},
+{
+  "id": 944,
+  "germanWord": "weit",
+  "example": "Der Strand ist nicht weit von hier.",
+  "translation": "The beach is not far from here."
+},
+{
+  "id": 945,
+  "germanWord": "wo",
+  "example": "Wo ist der Bahnhof?",
+  "translation": "Where is the train station?"
+},
+{
+  "id": 946,
+  "germanWord": "das",
+  "example": "Das Auto ist blau.",
+  "translation": "The car is blue."
+},
+{
+  "id": 947,
+  "germanWord": "bald",
+  "example": "Bald ist Weihnachten.",
+  "translation": "Christmas is coming soon."
+},
+{
+  "id": 948,
+  "germanWord": "leben",
+  "example": "Er möchte in einem anderen Land leben.",
+  "translation": "He wants to live in a different country."
+},
+{
+  "id": 949,
+  "germanWord": "suchen",
+  "example": "Ich muss meine Brille suchen.",
+  "translation": "I have to look for my glasses."
+},
+{
+  "id": 950,
+  "germanWord": "voll",
+  "example": "Der Korb ist voll mit Äpfeln.",
+  "translation": "The basket is full of apples."
+},
+{
+  "id": 951,
+  "germanWord": "unter",
+  "example": "Die Schlüssel liegen unter dem Buch.",
+  "translation": "The keys are under the book."
+},
+{
+  "id": 952,
+  "germanWord": "gestern",
+  "example": "Ich habe gestern einen Film gesehen.",
+  "translation": "I watched a movie yesterday."
+},
+{
+  "id": 953,
+  "germanWord": "sicher",
+  "example": "Ich bin mir sicher, dass er bald kommt.",
+  "translation": "I am sure he will come soon."
+},
+{
+  "id": 954,
+  "germanWord": "mögen",
+  "example": "Ich mag Schokolade sehr gerne.",
+  "translation": "I really like chocolate."
+},
+{
+  "id": 955,
+  "germanWord": "scheinen",
+  "example": "Die Sonne scheint heute besonders hell.",
+  "translation": "The sun is shining especially brightly today."
+},
+{
+  "id": 956,
+  "germanWord": "Fußball",
+  "example": "Ich spiele gerne Fußball am Wochenende.",
+  "translation": "I like to play soccer on the weekends."
+},
+{
+  "id": 957,
+  "germanWord": "zwischen",
+  "example": "Das Buch liegt zwischen den anderen Büchern.",
+  "translation": "The book is lying between the other books."
+},
+{
+  "id": 958,
+  "germanWord": "momentan",
+  "example": "Momentan arbeite ich an einem Projekt.",
+  "translation": "Right now, I'm working on a project."
+},
+{
+  "id": 959,
+  "germanWord": "nach",
+  "example": "Wir gehen nach dem Essen spazieren.",
+  "translation": "We go for a walk after eating."
+},
+{
+  "id": 960,
+  "germanWord": "gewöhnlich",
+  "example": "Ich trinke gewöhnlich morgens Kaffee.",
+  "translation": "I usually drink coffee in the morning."
+},
+{
+  "id": 961,
+  "germanWord": "und",
+  "example": "Ich trinke Kaffee und esse Kuchen.",
+  "translation": "I drink coffee and eat cake."
+},
+{
+  "id": 962,
+  "germanWord": "Auf Wiedersehen",
+  "example": "Auf Wiedersehen! Bis bald.",
+  "translation": "Goodbye! See you soon."
+},
+{
+  "id": 963,
+  "germanWord": "als/wenn",
+  "example": "Ich bin glücklich, wenn die Sonne scheint.",
+  "translation": "I'm happy when the sun is shining."
+},
+{
+  "id": 964,
+  "germanWord": "manchmal",
+  "example": "Manchmal esse ich gerne Pizza.",
+  "translation": "Sometimes I like to eat pizza."
+},
+{
+  "id": 965,
+  "germanWord": "lustig",
+  "example": "Der Film gestern war sehr lustig.",
+  "translation": "The movie yesterday was very funny."
+},
+{
+  "id": 966,
+  "germanWord": "Mitte",
+  "example": "Wir treffen uns in der Mitte des Parks.",
+  "translation": "We'll meet in the middle of the park."
+},
+{
+  "id": 967,
+  "germanWord": "sein",
+  "example": "Ich bin müde.",
+  "translation": "I am tired."
+},
+{
+  "id": 968,
+  "germanWord": "gern(e)",
+  "example": "Ich lese gern Bücher.",
+  "translation": "I like to read books."
+},
+{
+  "id": 969,
+  "germanWord": "schon",
+  "example": "Ich bin schon seit Stunden wach.",
+  "translation": "I've been awake for hours already."
+},
+{
+  "id": 970,
+  "germanWord": "sprechen",
+  "example": "Kannst du Deutsch sprechen?",
+  "translation": "Can you speak German?"
+},
+{
+  "id": 971,
+  "germanWord": "vor",
+  "example": "Wir treffen uns um 8 Uhr vor dem Kino.",
+  "translation": "We'll meet at 8 o'clock in front of the cinema."
+},
+{
+  "id": 972,
+  "germanWord": "nächste",
+  "example": "Das nächste Treffen ist nächste Woche.",
+  "translation": "The next meeting is next week."
+},
+{
+  "id": 973,
+  "germanWord": "jung",
+  "example": "Sie ist erst 25 Jahre alt und schon Professorin.",
+  "translation": "She is only 25 years old and already a professor."
+},
+{
+  "id": 974,
+  "germanWord": "entweder...oder",
+  "example": "Du kannst entweder Tee oder Kaffee trinken.",
+  "translation": "You can either drink tea or coffee."
+},
+{
+  "id": 975,
+  "germanWord": "wenig",
+  "example": "Ich habe nur noch wenig Zeit.",
+  "translation": "I have very little time left."
+},
+{
+  "id": 976,
+  "germanWord": "frühstücken",
+  "example": "Ich frühstücke gerne Müsli.",
+  "translation": "I like to have cereal for breakfast."
+},
+{
+  "id": 977,
+  "germanWord": "weh",
+  "example": "Mein Arm tut weh.",
+  "translation": "My arm hurts."
+},
+{
+  "id": 978,
+  "germanWord": "machen",
+  "example": "Was möchtest du heute machen?",
+  "translation": "What would you like to do today?"
+},
+{
+  "id": 979,
+  "germanWord": "nein",
+  "example": "Nein, danke. Ich habe schon gegessen.",
+  "translation": "No, thank you. I've already eaten."
+},
+{
+  "id": 980,
+  "germanWord": "gleich",
+  "example": "Ich komme gleich.",
+  "translation": "I'll come right away."
+},
+{
+  "id": 981,
+  "germanWord": "waschen",
+  "example": "Ich muss noch das Geschirr waschen.",
+  "translation": "I still need to wash the dishes."
+},
+{
+  "id": 982,
+  "germanWord": "zuerst",
+  "example": "Wir müssen zuerst die Aufgaben erledigen.",
+  "translation": "We need to complete the tasks first."
+},
+{
+  "id": 983,
+  "germanWord": "so",
+  "example": "Das habe ich noch nie gemacht, also bin ich aufgeregt.",
+  "translation": "I've never done that before, so I'm excited."
+},
+{
+  "id": 984,
+  "germanWord": "schön",
+  "example": "Der Sonnenuntergang sieht wunderschön aus.",
+  "translation": "The sunset looks beautiful."
+},
+{
+  "id": 985,
+  "germanWord": "trinken",
+  "example": "Ich trinke gerne Tee.",
+  "translation": "I like to drink tea."
+},
+{
+  "id": 986,
+  "germanWord": "ja",
+  "example": "Ja, ich möchte gerne zum Essen kommen.",
+  "translation": "Yes, I would like to come for dinner."
+},
+{
+  "id": 987,
+  "germanWord": "immer",
+  "example": "Ich trinke immer eine Tasse Kaffee am Morgen.",
+  "translation": "I always drink a cup of coffee in the morning."
+},
+{
+  "id": 988,
+  "germanWord": "dann",
+  "example": "Kommst du heute Abend zu meiner Party? Dann sehen wir uns.",
+  "translation": "Are you coming to my party tonight? Then we'll see each other."
+},
+{
+  "id": 989,
+  "germanWord": "aber",
+  "example": "Ich würde gerne kommen, aber ich habe schon Pläne.",
+  "translation": "I would like to come, but I already have plans."
+},
+{
+  "id": 990,
+  "germanWord": "Antwort",
+  "example": "Hast du auf meine Nachricht geantwortet?",
+  "translation": "Did you respond to my message?"
+},
+{
+  "id": 991,
+  "germanWord": "viel",
+  "example": "Es gibt noch viel Arbeit zu erledigen.",
+  "translation": "There's still a lot of work to be done."
+},
+{
+  "id": 992,
+  "germanWord": "erst",
+  "example": "Ich komme erst um 7 Uhr nach Hause.",
+  "translation": "I'm not coming home until 7 o'clock."
+},
+{
+  "id": 993,
+  "germanWord": "damals",
+  "example": "Damals habe ich in Frankreich gewohnt.",
+  "translation": "Back then, I lived in France."
+},
+{
+  "id": 994,
+  "germanWord": "normal",
+  "example": "Es ist normal, dass man manchmal müde ist.",
+  "translation": "It's normal to be tired sometimes."
+},
+{
+  "id": 995,
+  "germanWord": "dafür",
+  "example": "Ich habe viel gearbeitet, aber es hat sich gelohnt. Dafür bin ich glücklich.",
+  "translation": "I worked hard, but it was worth it. I'm happy for that."
+},
+{
+  "id": 996,
+  "germanWord": "geben",
+  "example": "Kannst du mir bitte das Buch geben?",
+  "translation": "Can you please give me the book?"
+},
+{
+  "id": 997,
+  "germanWord": "nett",
+  "example": "Sie ist immer so nett zu den anderen.",
+  "translation": "She is always so kind to others."
+},
+{
+  "id": 998,
+  "germanWord": "übermorgen",
+  "example": "Wir sehen uns übermorgen.",
+  "translation": "We'll see each other the day after tomorrow."
+},
+{
+  "id": 999,
+  "germanWord": "aus",
+  "example": "Er geht aus dem Haus.",
+  "translation": "He's leaving the house."
+},
+{
+  "id": 1000,
+  "germanWord": "interessant",
+  "example": "Das Buch war sehr interessant.",
+  "translation": "The book was very interesting."
+},
+{
+  "id": 1001,
+  "germanWord": "etwas",
+  "example": "Möchtest du etwas trinken?",
+  "translation": "Would you like something to drink?"
+},
+{
+  "id": 1002,
+  "germanWord": "leicht",
+  "example": "Das war eine leichte Aufgabe.",
+  "translation": "That was an easy task."
+},
+{
+  "id": 1003,
+  "germanWord": "lieben",
+  "example": "Ich liebe meine Familie.",
+  "translation": "I love my family."
+},
+{
+  "id": 1004,
+  "germanWord": "liegen",
+  "example": "Das Buch liegt auf dem Tisch.",
+  "translation": "The book is lying on the table."
+},
+{
+  "id": 1005,
+  "germanWord": "einmal",
+  "example": "Ich war schon einmal dort.",
+  "translation": "I've been there once."
+},
+{
+  "id": 1006,
+  "germanWord": "zurück",
+  "example": "Ich werde bald zurück sein.",
+  "translation": "I'll be back soon."
+},
+{
+  "id": 1007,
+  "germanWord": "Monat",
+  "example": "Ein Jahr hat zwölf Monate.",
+  "translation": "A year has twelve months."
+},
+{
+  "id": 1008,
+  "germanWord": "also / so",
+  "example": "Also, das ist meine Idee.",
+  "translation": "So, that's my idea."
+},
+{
+  "id": 1009,
+  "germanWord": "kommen",
+  "example": "Wann kommst du nach Hause?",
+  "translation": "When are you coming home?"
+},
+{
+  "id": 1010,
+  "germanWord": "gegen",
+  "example": "Wir sind gegen diese Entscheidung.",
+  "translation": "We are against this decision."
+},
+{
+  "id": 1011,
+  "germanWord": "da",
+  "example": "Er ist schon da.",
+  "translation": "He's already here."
+},
+{
+  "id": 1012,
+  "germanWord": "mit",
+  "example": "Kann ich mit dir sprechen?",
+  "translation": "Can I talk to you?"
+},
+{
+  "id": 1013,
+  "germanWord": "alle",
+  "example": "Alle waren bei der Party.",
+  "translation": "Everyone was at the party."
+},
+{
+  "id": 1014,
+  "germanWord": "zeigen",
+  "example": "Kannst du mir den Weg zeigen?",
+  "translation": "Can you show me the way?"
+},
+{
+  "id": 1015,
+  "germanWord": "genug",
+  "example": "Ich habe genug gegessen.",
+  "translation": "I've eaten enough."
+},
+{
+  "id": 1016,
+  "germanWord": "natürlich",
+  "example": "Natürlich können wir das machen.",
+  "translation": "Of course we can do that."
+},
+{
+  "id": 1017,
+  "germanWord": "zu",
+  "example": "Ich möchte zu Hause bleiben.",
+  "translation": "I want to stay at home."
+},
+{
+  "id": 1018,
+  "germanWord": "vorbereiten",
+  "example": "Ich muss das Essen für morgen vorbereiten.",
+  "translation": "I need to prepare the food for tomorrow."
+},
+{
+  "id": 1019,
+  "germanWord": "treffen",
+  "example": "Lass uns morgen treffen.",
+  "translation": "Let's meet tomorrow."
+},
+{
+  "id": 1020,
+  "germanWord": "dabei",
+  "example": "Ich habe meine Brieftasche dabei.",
+  "translation": "I have my wallet with me."
+},
+{
+  "id": 1021,
+  "germanWord": "wollen",
+  "example": "Was möchtest du essen? Ich will Pizza.",
+  "translation": "What would you like to eat? I want pizza."
+},
+{
+  "id": 1022,
+  "germanWord": "zur",
+  "example": "Ich gehe zur Schule.",
+  "translation": "I'm going to school."
+},
+{
+  "id": 1023,
+  "germanWord": "Nachmittag",
+  "example": "Ich treffe dich am Nachmittag.",
+  "translation": "I'll meet you in the afternoon."
+},
+{
+  "id": 1024,
+  "germanWord": "sehr",
+  "example": "Ich mag dich sehr.",
+  "translation": "I like you very much."
+},
+{
+  "id": 1025,
+  "germanWord": "mehr",
+  "example": "Ich möchte mehr Kaffee, bitte.",
+  "translation": "I'd like more coffee, please."
+},
+{
+  "id": 1026,
+  "germanWord": "kurz",
+  "example": "Kannst du mir kurz helfen?",
+  "translation": "Can you help me briefly?"
+},
+{
+  "id": 1027,
+  "germanWord": "neulich",
+  "example": "Ich habe dich neulich im Park gesehen.",
+  "translation": "I saw you in the park recently."
+},
+{
+  "id": 1028,
+  "germanWord": "echt",
+  "example": "Das ist echt lustig.",
+  "translation": "That's really funny."
+},
+{
+  "id": 1029,
+  "germanWord": "wissen",
+  "example": "Ich weiß nicht, wo das ist.",
+  "translation": "I don't know where that is."
+},
+{
+  "id": 1030,
+  "germanWord": "anderthalb",
+  "example": "Es ist anderthalb Stunden bis zur Stadt.",
+  "translation": "It's an hour and a half to the city."
+},
+{
+  "id": 1031,
+  "germanWord": "Augenblick",
+  "example": "Warte einen Augenblick, bitte.",
+  "translation": "Wait a moment, please."
+},
+{
+  "id": 1032,
+  "germanWord": "nachdem",
+  "example": "Ich esse, nachdem ich nach Hause komme.",
+  "translation": "I eat after I come home."
+},
+{
+  "id": 1033,
+  "germanWord": "nicht mehr",
+  "example": "Ich rauche nicht mehr.",
+  "translation": "I don't smoke anymore."
+},
+{
+  "id": 1034,
+  "germanWord": "Art",
+  "example": "Das ist eine interessante Art, die Welt zu sehen.",
+  "translation": "That's an interesting way to see the world."
+},
+{
+  "id": 1035,
+  "germanWord": "nehmen",
+  "example": "Kannst du bitte ein Foto von uns nehmen?",
+  "translation": "Can you please take a photo of us?"
+},
+{
+  "id": 1036,
+  "germanWord": "wohnen",
+  "example": "Ich wohne in Berlin.",
+  "translation": "I live in Berlin."
+},
+{
+  "id": 1037,
+  "germanWord": "schauen",
+  "example": "Ich schaue gerne Filme.",
+  "translation": "I like to watch movies."
+},
+{
+  "id": 1038,
+  "germanWord": "hier",
+  "example": "Komm her und schau es dir an.",
+  "translation": "Come here and have a look."
+},
+{
+  "id": 1039,
+  "germanWord": "bald",
+  "example": "Bis bald!",
+  "translation": "See you soon!"
+},
+{
+  "id": 1040,
+  "germanWord": "für",
+  "example": "Ich habe ein Geschenk für dich.",
+  "translation": "I have a gift for you."
+},
+{
+  "id": 1041,
+  "germanWord": "nichts",
+  "example": "Es ist nichts passiert.",
+  "translation": "Nothing happened."
+},
+{
+  "id": 1042,
+  "germanWord": "heute",
+  "example": "Heute ist ein schöner Tag.",
+  "translation": "Today is a beautiful day."
+},
+{
+  "id": 1043,
+  "germanWord": "spät",
+  "example": "Ich bin gestern spät nach Hause gekommen.",
+  "translation": "I came home late yesterday."
+},
+{
+  "id": 1044,
+  "germanWord": "endlich",
+  "example": "Es ist endlich Wochenende.",
+  "translation": "It's finally the weekend."
+},
+{
+  "id": 1045,
+  "germanWord": "gerade",
+  "example": "Ich habe dich gerade angerufen.",
+  "translation": "I just called you."
+},
+{
+  "id": 1046,
+  "germanWord": "jetzt",
+  "example": "Kannst du jetzt kommen?",
+  "translation": "Can you come now?"
+},
+{
+  "id": 1047,
+  "germanWord": "frei",
+  "example": "Ich habe morgen frei.",
+  "translation": "I'm free tomorrow."
+},
+{
+  "id": 1048,
+  "germanWord": "Mann",
+  "example": "Der Mann arbeitet hart.",
+  "translation": "The man works hard."
+},
+{
+  "id": 1049,
+  "germanWord": "zusammen",
+  "example": "Wir können zusammen essen gehen.",
+  "translation": "We can go eat together."
+},
+{
+  "id": 1050,
+  "germanWord": "früh",
+  "example": "Warum bist du so früh aufgestanden?",
+  "translation": "Why did you get up so early?"
+},
+{
+  "id": 1051,
+  "germanWord": "hoffen",
+  "example": "Ich hoffe, du kommst bald zurück.",
+  "translation": "I hope you come back soon."
+},
+{
+  "id": 1052,
+  "germanWord": "neugierig",
+  "example": "Kinder sind oft sehr neugierig.",
+  "translation": "Children are often very curious."
+},
+{
+  "id": 1053,
+  "germanWord": "hören",
+  "example": "Ich höre gerne Musik.",
+  "translation": "I like to listen to music."
+},
+{
+  "id": 1054,
+  "germanWord": "oft",
+  "example": "Ich gehe oft ins Kino.",
+  "translation": "I often go to the cinema."
+},
+{
+  "id": 1055,
+  "germanWord": "vorstellen",
+  "example": "Lass mich mich vorstellen: Ich bin Lisa.",
+  "translation": "Let me introduce myself: I'm Lisa."
+},
+{
+  "id": 1056,
+  "germanWord": "müssen",
+  "example": "Ich muss morgen früh aufstehen.",
+  "translation": "I have to get up early tomorrow."
+},
+{
+  "id": 1057,
+  "germanWord": "warum",
+  "example": "Warum hast du das gemacht?",
+  "translation": "Why did you do that?"
+},
+{
+  "id": 1058,
+  "germanWord": "allein",
+  "example": "Manchmal möchte ich allein sein.",
+  "translation": "Sometimes I want to be alone."
+},
+{
+  "id": 1059,
+  "germanWord": "nah",
+  "example": "Meine Familie wohnt ganz nah bei mir.",
+  "translation": "My family lives very close to me."
+},
+{
+  "id": 1060,
+  "germanWord": "mein",
+  "example": "Das ist mein Buch.",
+  "translation": "This is my book."
+},
+{
+  "id": 1061,
+  "germanWord": "teuer",
+  "example": "Dieses Restaurant ist ziemlich teuer.",
+  "translation": "This restaurant is quite expensive."
+},
+{
+  "id": 1062,
+  "germanWord": "los",
+  "example": "Komm schon, lass uns losgehen.",
+  "translation": "Come on, let's go."
+},
+{
+  "id": 1063,
+  "germanWord": "halten",
+  "example": "Kannst du bitte die Tür halten?",
+  "translation": "Can you please hold the door?"
+},
+{
+  "id": 1064,
+  "germanWord": "gut",
+  "example": "Das Essen war sehr gut.",
+  "translation": "The food was very good."
+},
+{
+  "id": 1065,
+  "germanWord": "schmecken",
+  "example": "Das Essen schmeckt lecker.",
+  "translation": "The food tastes delicious."
+},
+{
+  "id": 1066,
+  "germanWord": "noch",
+  "example": "Ich möchte noch einen Kaffee, bitte.",
+  "translation": "I'd like another coffee, please."
+},
+{
+  "id": 1067,
+  "germanWord": "essen",
+  "example": "Was möchtest du zum Abendessen essen?",
+  "translation": "What would you like to eat for dinner?"
+},
+{
+  "id": 1068,
+  "germanWord": "stehen",
+  "example": "Ich stehe immer um 7 Uhr auf.",
+  "translation": "I always get up at 7 o'clock."
+},
+{
+  "id": 1069,
+  "germanWord": "kalt",
+  "example": "Das Wasser ist zu kalt zum Schwimmen.",
+  "translation": "The water is too cold for swimming."
+},
+{
+  "id": 1070,
+  "germanWord": "uns",
+  "example": "Können wir uns morgen treffen?",
+  "translation": "Can we meet tomorrow?"
+},
+{
+  "id": 1071,
+  "germanWord": "dagegen",
+  "example": "Ich habe nichts dagegen.",
+  "translation": "I don't mind."
+},
+{
+  "id": 1072,
+  "germanWord": "willkommen",
+  "example": "Willkommen in unserer Stadt!",
+  "translation": "Welcome to our city!"
+},
+{
+  "id": 1073,
+  "germanWord": "sofort",
+  "example": "Kannst du mir sofort helfen?",
+  "translation": "Can you help me right away?"
+},
+{
+  "id": 1074,
+  "germanWord": "Bruder",
+  "example": "Mein Bruder ist zwei Jahre älter als ich.",
+  "translation": "My brother is two years older than me."
+},
+{
+  "id": 1075,
+  "germanWord": "andere",
+  "example": "Kannst du mir bitte ein anderes Buch geben?",
+  "translation": "Can you please give me another book?"
+},
+{
+  "id": 1076,
+  "germanWord": "fernsehen",
+  "example": "Ich schaue gerne fern.",
+  "translation": "I like to watch TV."
+},
+{
+  "id": 1077,
+  "germanWord": "glauben",
+  "example": "Ich glaube, es wird regnen.",
+  "translation": "I think it's going to rain."
+},
+{
+  "id": 1078,
+  "germanWord": "weil",
+  "example": "Ich bleibe drinnen, weil es regnet.",
+  "translation": "I'm staying indoors because it's raining."
+},
+{
+  "id": 1079,
+  "germanWord": "Vormittag",
+  "example": "Wir sehen uns am Vormittag.",
+  "translation": "We'll see each other in the morning."
+},
+{
+  "id": 1080,
+  "germanWord": "verstehen",
+  "example": "Ich verstehe nicht, was du meinst.",
+  "translation": "I don't understand what you mean."
+},
+{
+  "id": 1081,
+  "germanWord": "eigen",
+  "example": "Jeder Mensch hat seine eigenen Träume.",
+  "translation": "Every person has their own dreams."
+},
+{
+  "id": 1082,
+  "germanWord": "entlang",
+  "example": "Ich gehe den Fluss entlang.",
+  "translation": "I'm walking along the river."
+}
+
+    ]
+  }
+  

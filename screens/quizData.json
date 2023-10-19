@@ -1,0 +1,3726 @@
+[
+  {
+    "id": 1,
+    "question": "Ich ___ heute müde.",
+    "answer": "bin"
+  },
+  {
+    "id": 2,
+    "question": "Sie ___ eine gute Idee.",
+    "answer": "haben"
+  },
+  {"id": 3,
+    "question": "Wir ___ morgen ins Kino gehen.",
+    "answer": "werden"
+  },
+  {"id": 4,
+    "question": "Ich ___ gut singen.",
+    "answer": "kann"
+  },
+  {"id": 5,
+    "question": "Du ___ deine Hausaufgaben erledigen.",
+    "answer": "musst"
+  },
+  {"id": 6,
+    "question": "Er ___, dass er spät dran ist.",
+    "answer": "sagt"
+  },
+  {"id": 7,
+    "question": "Sie ___ einen Kuchen für die Party.",
+    "answer": "macht"
+  },
+  {"id": 8,
+    "question": "Ich ___ dir mein Buch leihen.",
+    "answer": "gebe"
+  },
+  {"id": 9,
+    "question": "Er ___ gleich nach Hause.",
+    "answer": "kommt"
+  },
+  {"id": 10,
+    "question": "Du ___ mehr Gemüse essen.",
+    "answer": "sollst"
+  },
+  {"id": 11,
+    "question": "Ich ___ ein Buch lesen.",
+    "answer": "möchte"
+},
+{"id": 12,
+    "question": "Sie ___ am Wochenende ins Kino.",
+    "answer": "wollen"
+},
+{"id": 13,
+    "question": "Er ___ viel über Geschichte.",
+    "answer": "weiß"
+},
+{"id": 14,
+    "question": "Wir ___ einen Film im Kino.",
+    "answer": "sehen"
+},
+{"id": 15,
+    "question": "Kannst du mich bitte ___?",
+    "answer": "lassen"
+},
+{"id": 16,
+    "question": "Das Auto ___ vor der Tür.",
+    "answer": "steht"
+},
+{"id": 17,
+    "question": "Ich ___ den Schlüssel nicht.",
+    "answer": "finde"
+},
+{"id": 18,
+    "question": "Sie ___ noch in der Schule.",
+    "answer": "bleibt"
+},
+{"id": 19,
+    "question": "Das Buch ___ auf dem Tisch.",
+    "answer": "liegt"
+},
+{"id": 20,
+    "question": "Mein Name ___ Peter.",
+    "answer": "heißt"
+},
+{"id": 21,
+    "question": "Ich ___, dass es regnen wird.",
+    "answer": "denke"
+},
+{"id": 22,
+    "question": "Bitte ___ diese Gelegenheit wahr.",
+    "answer": "nehmen"
+},
+{"id": 23,
+    "question": "Was ___ du gerade?",
+    "answer": "tust"
+},
+{"id": 24,
+    "question": "Du ___ das nicht.",
+    "answer": "darfst"
+},
+{"id": 25,
+    "question": "Ich ___ an dich.",
+    "answer": "glaube"
+},
+{"id": 26,
+    "question": "Er ___ das Buch in der Hand.",
+    "answer": "hält"
+},
+{"id": 27,
+    "question": "Ich ___ ihn Peter.",
+    "answer": "nenne"
+},
+{"id": 28,
+    "question": "Ich ___ Kaffee.",
+    "answer": "mag"
+},
+{"id": 29,
+    "question": "Kannst du mir das ___?",
+    "answer": "zeigen"
+},
+{"id": 30,
+    "question": "Er ___ die Gruppe.",
+    "answer": "führt"
+},
+{"id": 31,
+    "question": "Sie ___ gut Englisch.",
+    "answer": "sprechen"
+},
+{"id": 32,
+    "question": "Kannst du das Buch ___?",
+    "answer": "bringen"
+},
+{
+    "question": "Ich ___ in Deutschland.",
+    "answer": "lebe"
+},
+{
+    "question": "Ich ___ mit dem Zug zur Arbeit.",
+    "answer": "fahre"
+},
+{
+    "question": "Was ___ du dazu?",
+    "answer": "meinst"
+},
+{
+    "question": "Kann ich dich etwas ___?",
+    "answer": "fragen"
+},
+{
+    "question": "Ich ___ ihn schon lange.",
+    "answer": "kenne"
+},
+{
+    "question": "Diese Regel ___ für alle.",
+    "answer": "gilt"
+},
+{
+    "question": "Er ___ das Buch auf den Tisch.",
+    "answer": "stellt"
+},
+{
+    "question": "Die Kinder ___ im Park.",
+    "answer": "spielen"
+},
+{
+    "question": "Ich ___ in einem Büro.",
+    "answer": "arbeite"
+},
+{
+    "question": "Du ___ Hilfe.",
+    "answer": "brauchst"
+},
+{
+    "question": "Sie ___ mir.",
+    "answer": "folgen"
+},
+{
+    "question": "Ich ___ Deutsch.",
+    "answer": "lerne"
+},
+{
+    "question": "Du musst ___.",
+    "answer": "bestehen"
+},
+{
+    "question": "Ich ___ dich nicht.",
+    "answer": "verstehe"
+},
+{
+    "question": "Bitte ___ dich.",
+    "answer": "setzen"
+},
+{
+    "question": "Ich ___ eine E-Mail.",
+    "answer": "bekomme"
+},
+{
+    "question": "Wir ___ jetzt mit der Arbeit.",
+    "answer": "beginnen"
+},
+{
+    "question": "Kannst du mir eine Geschichte ___?",
+    "answer": "erzählen"
+},
+{
+    "question": "Ich werde es ___.",
+    "answer": "versuchen"
+},
+{
+    "question": "Ich ___ in meinem Tagebuch.",
+    "answer": "schreibe"
+},
+{
+    "question": "Die Kinder ___ im Park.",
+    "answer": "laufen"
+},
+{
+    "question": "Kannst du mir das ___?",
+    "answer": "erklären"
+},
+{
+    "question": "Das ___ deinem Geschmack.",
+    "answer": "entspricht"
+},
+{
+    "question": "Er ___ auf dem Stuhl.",
+    "answer": "sitzt"
+},
+{
+    "question": "Wir ___ das Auto.",
+    "answer": "ziehen"
+},
+{
+    "question": "Die Sonne ___ heute.",
+    "answer": "scheint"
+},
+{
+    "question": "Das Blatt ___ vom Baum.",
+    "answer": "fällt"
+},
+{
+    "question": "Das Haus ___ mir.",
+    "answer": "gehört"
+},
+{
+    "question": "Die Idee ___ spontan.",
+    "answer": "entsteht"
+},
+{
+    "question": "Er ___ eine Nachricht.",
+    "answer": "erhält"
+},
+{
+    "question": "Wir ___ uns am Bahnhof.",
+    "answer": "treffen"
+},
+{
+    "question": "Ich ___ meine Schlüssel.",
+    "answer": "suche"
+},
+{
+    "question": "Bitte ___ das Buch auf den Tisch.",
+    "answer": "lege"
+},
+{
+    "question": "Ich möchte dir ___.",
+    "answer": "vorstellen"
+},
+{
+    "question": "Wir ___ in diesem Geschäft.",
+    "answer": "handeln"
+},
+{
+    "question": "Wir ___ unser Ziel.",
+    "answer": "erreichen"
+},
+{
+    "question": "Sie ___ schwere Taschen.",
+    "answer": "tragen"
+},
+{
+    "question": "Wir ___ es nicht.",
+    "answer": "schaffen"
+},
+{
+    "question": "Ich ___ gern Bücher.",
+    "answer": "lese"
+},
+{
+    "question": "Du ___ den Schlüssel.",
+    "answer": "verlierst"
+},
+{
+    "question": "Das Gemälde ___ eine Landschaft.",
+    "answer": "darstellt"
+},
+{
+    "question": "Sie ___ ihn sofort.",
+    "answer": "erkennt"
+},
+{
+    "question": "Das Unternehmen ___ neue Produkte.",
+    "answer": "entwickelt"
+},
+{
+    "question": "Er ___ oft über Politik.",
+    "answer": "redet"
+},
+{
+    "question": "Sie ___ glücklich aus.",
+    "answer": "aussieht"
+},
+{
+    "question": "Die Sterne ___ am Himmel.",
+    "answer": "erscheinen"
+},
+{
+    "question": "Diese Formen ___ ein Muster.",
+    "answer": "bilden"
+},
+{
+    "question": "Wir ___ mit der Arbeit.",
+    "answer": "anfangen"
+},
+{
+    "question": "Ich ___ auf dich.",
+    "answer": "erwarte"
+},
+{
+    "question": "Er ___ in einem schönen Haus.",
+    "answer": "wohnt"
+},
+{
+    "question": "Die Entscheidung ___ uns alle.",
+    "answer": "betrifft"
+},
+{
+    "question": "Bitte ___ einen Moment.",
+    "answer": "warte"
+},
+{
+    "question": "Die Zeit ___ schnell.",
+    "answer": "vergeht"
+},
+{
+    "question": "Kannst du mir ___?",
+    "answer": "helfen"
+},
+{
+    "question": "Er ___ den Wettkampf.",
+    "answer": "gewinnt"
+},
+{
+    "question": "Wir ___ auf einen Abschluss.",
+    "answer": "schließen"
+},
+{
+    "question": "Ich ___ mich glücklich.",
+    "answer": "fühle"
+},
+{
+    "question": "Ich ___ dir meinen Platz an.",
+    "answer": "biete"
+},
+{
+    "question": "___ heute gut für dich?",
+    "answer": "Ist die Zeit"
+},
+{
+    "question": "Um welche ___ geht es?",
+    "answer": "Stunde"
+},
+{
+    "question": "Es dauert nur eine ___.",
+    "answer": "Minute"
+},
+{
+    "question": "Die ___ vergeht.",
+    "answer": "Sekunde"
+},
+{
+    "question": "Ich arbeite fünf ___ pro Woche.",
+    "answer": "Tage"
+},
+{
+    "question": "Wir machen einen Ausflug diese ___.",
+    "answer": "Woche"
+},
+{
+    "question": "Wir reisen nächsten ___ nach Italien.",
+    "answer": "Monat"
+},
+{
+    "question": "Das war ein tolles ___.",
+    "answer": "Jahr"
+},
+{
+    "question": "Ich bin ___ aktiv.",
+    "answer": "vormittags"
+},
+{
+    "question": "Am Nachmittag habe ich ___ Zeit.",
+    "answer": "nachmittags"
+},
+{
+  "question": "Ich gehe oft ___ spazieren.",
+  "answer": "abends"
+},
+{
+  "question": "Am ___ esse ich immer Frühstück.",
+  "answer": "Morgen"
+},
+{
+  "question": "Am ___ spiele ich Fußball.",
+  "answer": "Nachmittag"
+},
+{
+  "question": "Ich treffe dich am ___ im Restaurant.",
+  "answer": "Abend"
+},
+{
+  "question": "Der ___ ist heute Dienstag.",
+  "answer": "Wochentag"
+},
+{
+  "question": "Morgen ist ___",
+  "answer": "Montag"
+},
+{
+  "question": "Übermorgen ist ___",
+  "answer": "Dienstag"
+},
+{
+  "question": "Der ___ ist in der Mitte der Woche.",
+  "answer": "Mittwoch"
+},
+{
+  "question": "Der ___ kommt nach Mittwoch.",
+  "answer": "Donnerstag"
+},
+{
+  "question": "Freitag ist der letzte Arbeitstag vor dem ___",
+  "answer": "Wochenende"
+},
+{
+  "question": "Am ___ gehe ich oft ins Kino.",
+  "answer": "Samstag"
+},
+{
+  "question": "Am ___ schlafe ich gerne aus.",
+  "answer": "Sonntag"
+},
+{
+  "question": "Mein Geburtstag ist im ___",
+  "answer": "Januar"
+},
+{
+  "question": "Im ___ feiern wir Valentinstag.",
+  "answer": "Februar"
+},
+{
+  "question": "Der Frühling beginnt im ___",
+  "answer": "März"
+},
+{
+  "question": "Im ___ wird das Wetter wärmer.",
+  "answer": "April"
+},
+{
+  "question": "Im ___ blühen die Blumen.",
+  "answer": "Mai"
+},
+{
+  "question": "Der ___ ist ein beliebter Monat für Hochzeiten.",
+  "answer": "Juni"
+},
+{
+  "question": "Im ___ machen viele Menschen Urlaub.",
+  "answer": "Juli"
+},
+{
+  "question": "Der ___ ist der achte Monat im Jahr.",
+  "answer": "August"
+},
+{
+  "question": "Im ___ beginnt der Herbst.",
+  "answer": "September"
+},
+{
+  "question": "Im ___ werden die Tage kürzer.",
+  "answer": "Oktober"
+},
+{
+  "question": "Im ___ feiern wir Thanksgiving.",
+  "answer": "November"
+},
+{
+  "question": "Im ___ ist Weihnachten.",
+  "answer": "Dezember"
+},
+{
+  "question": "Die ___ zum Supermarkt, bitte?",
+  "answer": "Richtung"
+},
+{
+  "question": "Bitte biegen Sie ___ ab.",
+  "answer": "links"
+},
+{
+  "question": "Die nächste Straße ist ___.",
+  "answer": "rechts"
+},
+{
+  "question": "Gehen Sie ___ bis zur Ampel.",
+  "answer": "geradeaus"
+},
+{
+  "question": "Der Eingang ist ___.",
+  "answer": "vorne"
+},
+{
+  "question": "Die Parkplätze sind ___.",
+  "answer": "hinten"
+},
+{
+  "question": "Die Sterne sind oben am ___",
+  "answer": "Himmel"
+},
+{
+  "question": "Die U-Bahn-Station ist unten am ___",
+  "answer": "Bahnhof"
+},
+{
+  "question": "Das Haus steht ___ dem Park und dem Supermarkt.",
+  "answer": "zwischen"
+},
+{
+  "question": "Ich fühle mich zu Hause am wohlsten. ___ ist mein Ruheort.",
+  "answer": "Zuhause"
+},
+{
+  "question": "Ich arbeite im ___",
+  "answer": "Büro"
+},
+{
+  "question": "Ich kaufe oft im ___ ein.",
+  "answer": "Supermarkt"
+},
+{
+  "question": "Im ___ werden kranke Menschen behandelt.",
+  "answer": "Krankenhaus"
+},
+{
+  "question": "Ich muss noch Medizin in der ___ holen.",
+  "answer": "Apotheke"
+},
+{
+  "question": "Am Wochenende gehe ich gerne in den ___",
+  "answer": "Park"
+},
+{
+  "question": "Wir essen heute Abend im ___",
+  "answer": "Restaurant"
+},
+{
+  "question": "Am Sonntag gehen wir ins ___",
+  "answer": "Museum"
+},
+{
+  "question": "Am Freitagabend gehen wir ins ___",
+  "answer": "Theater"
+},
+{
+  "question": "Am Samstagabend schauen wir einen Film im ___",
+  "answer": "Kino"
+},
+{
+  "question": "Ich komme am ___ an.",
+  "answer": "Flughafen"
+},
+{
+  "question": "Wir gehen sonntags in die ___",
+  "answer": "Kirche"
+},
+{
+  "question": "Im Sommer gehen wir oft ins ___",
+  "answer": "Schwimmbad"
+},
+{
+  "question": "Die Kinder lernen in der ___",
+  "answer": "Schule"
+},
+{
+  "question": "Wie ist das ___ heute?",
+  "answer": "Wetter"
+},
+{
+  "question": "Es ist ___ draußen.",
+  "answer": "sonnig"
+},
+{
+  "question": "Heute ist es ___",
+  "answer": "bewölkt"
+},
+{
+  "question": "Ich brauche einen Regenschirm, es ist ___",
+  "answer": "regnerisch"
+},
+{
+  "question": "Es ist sehr windig, fast schon ___",
+  "answer": "stürmisch"
+},
+{
+  "question": "Der Sommer ist ___",
+  "answer": "heiß"
+},
+{
+  "question": "Der Frühling ist angenehm ___",
+  "answer": "warm"
+},
+{
+  "question": "Im Winter ist es oft ___",
+  "answer": "kalt"
+},
+{
+  "question": "Es hat seit Wochen nicht geregnet, es ist sehr ___",
+  "answer": "trocken"
+},
+{
+  "question": "Der ___ bringt Wasser.",
+  "answer": "Niederschlag"
+},
+{
+  "question": "Der ___ bedeckt alles mit Weiß.",
+  "answer": "Schnee"
+},
+{
+  "question": "Es ist ___ heute.",
+  "answer": "regnerisch"
+},
+{
+  "question": "Es gibt ein ___",
+  "answer": "Gewitter"
+},
+{
+  "question": "Der ___ erschwert die Sicht.",
+  "answer": "Nebel"
+},
+{
+  "question": "Der ___ ist blau.",
+  "answer": "Himmel"
+},
+{
+  "question": "Die ___ sind weiß und flauschig.",
+  "answer": "Wolken"
+},
+{
+  "question": "Der ___ macht gute Laune.",
+  "answer": "Sonnenschein"
+},
+{
+  "question": "Der ___ weht stark.",
+  "answer": "Wind"
+},
+{
+  "question": "Ich esse gerne ___",
+  "answer": "Fleisch"
+},
+{
+  "question": "Der ___ schmeckt frisch.",
+  "answer": "Fisch"
+},
+{
+  "question": "Ich koche oft mit frischem ___",
+  "answer": "Gemüse"
+},
+{
+  "question": "Im Sommer esse ich viel frisches ___",
+  "answer": "Obst"
+},
+{
+  "question": "Ich mag dunkles ___",
+  "answer": "Brot"
+},
+{
+  "question": "Zum Frühstück trinke ich meistens ein warmes ___",
+  "answer": "Getränk"
+},
+{
+  "question": "Heute gehen wir ins ___ essen.",
+  "answer": "Restaurant"
+},
+{
+  "question": "Lass uns in das ___ gehen.",
+  "answer": "Café"
+},
+{
+  "question": "Abends gehen wir gerne in eine ___",
+  "answer": "Bar"
+},
+{
+  "question": "Ich esse manchmal ___",
+  "answer": "Fast Food"
+},
+{
+  "question": "Ein ___ danach wäre lecker.",
+  "answer": "Eis"
+},
+{
+  "question": "Ich liebe ___ mit viel Käse.",
+  "answer": "Pizza"
+},
+{
+  "question": "Die ___ ist mit Tomatensauce und Basilikum.",
+  "answer": "Pasta"
+},
+{
+  "question": "Ich esse oft einen frischen ___",
+  "answer": "Salat"
+},
+{
+  "question": "Zum Nachtisch gibt es einen leckeren ___",
+  "answer": "Kuchen"
+},
+{
+  "question": "Ich esse gern ___ nach dem Essen.",
+  "answer": "Dessert"
+},
+{
+  "question": "___ ist meine Lieblingssüßigkeit.",
+  "answer": "Schokolade"
+},
+{
+  "question": "Ich trinke morgens immer eine Tasse ___",
+  "answer": "Kaffee"
+},
+{
+  "question": "Am Abend trinke ich gerne eine Tasse ___",
+  "answer": "Tee"
+},
+{
+  "question": "___ ist mir wichtig.",
+  "answer": "Die Familie"
+},
+{
+  "question": "Mein ___ arbeitet in einer Bank.",
+  "answer": "Vater"
+},
+{
+  "question": "Meine ___ kocht leckeres Essen.",
+  "answer": "Mutter"
+},
+{
+  "question": "Mein ___ spielt Fußball.",
+  "answer": "Bruder"
+},
+{
+  "question": "Meine ___ liest gerne Bücher.",
+  "answer": "Schwester"
+},
+{
+  "question": "Mein ___ geht in die Schule.",
+  "answer": "Sohn"
+},
+{
+  "question": "Meine ___ lernt Klavier spielen.",
+  "answer": "Tochter"
+},
+{
+  "question": "Mein ___ erzählt immer spannende Geschichten.",
+  "answer": "Großvater"
+},
+{
+  "question": "Meine ___ backt die besten Kuchen.",
+  "answer": "Großmutter"
+},
+{
+  "question": "Mein ___ ist immer lustig.",
+  "answer": "Onkel"
+},
+{
+  "question": "Meine ___ ist sehr nett.",
+  "answer": "Tante"
+},
+{
+  "question": "Mein ___ ist ein guter Freund.",
+  "answer": "Cousin"
+},
+{
+  "question": "Meine ___ ist in meiner Klasse.",
+  "answer": "Cousine"
+},
+{
+  "id": 201,
+  "question": "Mein bester ___ heißt Max.",
+  "answer": "Freund"
+},
+{
+  "id": 202,
+  "question": "Meine beste ___ heißt Lisa.",
+  "answer": "Freundin"
+},
+{
+  "id": 203,
+  "question": "Unser ___ ist sehr freundlich.",
+  "answer": "Nachbar"
+},
+{
+  "id": 204,
+  "question": "Unsere ___ ist nett und hilfsbereit.",
+  "answer": "Nachbarin"
+},
+{
+  "id": 205,
+  "question": "Mein ___ arbeitet im Büro.",
+  "answer": "Kollege"
+},
+{
+  "id": 206,
+  "question": "Meine ___ ist in derselben Abteilung.",
+  "answer": "Kollegin"
+},
+{
+  "id": 207,
+  "question": "Unser ___ ist anspruchsvoll.",
+  "answer": "Chef"
+},
+{
+  "id": 208,
+  "question": "Unsere ___ ist sehr kompetent.",
+  "answer": "Chefin"
+},
+{
+  "id": 209,
+  "question": "Mein ___ ist Mediziner.",
+  "answer": "Arzt"
+},
+{
+  "id": 210,
+  "question": "Meine ___ ist eine erfahrene Ärztin.",
+  "answer": "Ärztin"
+},
+{
+  "id": 211,
+  "question": "Unser ___ unterrichtet Geschichte.",
+  "answer": "Lehrer"
+},
+{
+  "id": 212,
+  "question": "Unsere ___ ist in der Grundschule.",
+  "answer": "Lehrerin"
+},
+{
+  "id": 213,
+  "question": "Mein ___ arbeitet als Ingenieur.",
+  "answer": "Ingenieur"
+},
+{
+  "id": 214,
+  "question": "Meine ___ ist Expertin für Maschinenbau.",
+  "answer": "Ingenieurin"
+},
+{
+  "id": 215,
+  "question": "Unser ___ vertritt Menschen vor Gericht.",
+  "answer": "Anwalt"
+},
+{
+  "id": 216,
+  "question": "Unsere ___ ist eine erfahrene Anwältin.",
+  "answer": "Anwältin"
+},
+{
+  "id": 217,
+  "question": "Der ___ sichert die Straßen.",
+  "answer": "Polizist"
+},
+{
+  "id": 218,
+  "question": "Die ___ hilft bei Problemen.",
+  "answer": "Polizistin"
+},
+{
+  "id": 219,
+  "question": "Der ___ serviert uns Essen.",
+  "answer": "Kellner"
+},
+{
+  "id": 220,
+  "question": "Die ___ ist sehr freundlich.",
+  "answer": "Kellnerin"
+},
+{
+  "id": 221,
+  "question": "Der ___ kocht leckere Gerichte.",
+  "answer": "Koch"
+},
+{
+  "id": 222,
+  "question": "Die ___ zaubert köstliche Desserts.",
+  "answer": "Köchin"
+},
+{
+  "id": 223,
+  "question": "Ich gehe zum ___ für einen neuen Haarschnitt.",
+  "answer": "Friseur"
+},
+{
+  "id": 224,
+  "question": "Die ___ hat mir die Haare gefärbt.",
+  "answer": "Friseurin"
+},
+{
+  "id": 225,
+  "question": "Der ___ enthält viele Gedanken.",
+  "answer": "Kopf"
+},
+{
+  "id": 226,
+  "question": "Das ___ spiegelt unsere Persönlichkeit wider.",
+  "answer": "Gesicht"
+},
+{
+  "id": 227,
+  "question": "Das ___ ermöglicht uns zu sehen.",
+  "answer": "Auge"
+},
+{
+  "id": 228,
+  "question": "Die ___ hilft uns zu atmen.",
+  "answer": "Nase"
+},
+{
+  "id": 229,
+  "question": "Der ___ ermöglicht uns zu sprechen und zu essen.",
+  "answer": "Mund"
+},
+{
+  "id": 230,
+  "question": "Der ___ hilft uns beim Kauen.",
+  "answer": "Zahn"
+},
+{
+  "id": 231,
+  "question": "Das ___ erlaubt uns zu hören.",
+  "answer": "Ohr"
+},
+{
+  "id": 232,
+  "question": "Der ___ verbindet Kopf und Körper.",
+  "answer": "Hals"
+},
+{
+  "id": 233,
+  "question": "Der ___ ermöglicht uns, Dinge zu greifen.",
+  "answer": "Arm"
+},
+{
+  "id": 234,
+  "question": "Die ___ kann Dinge halten und berühren.",
+  "answer": "Hand"
+},
+{
+  "id": 235,
+  "question": "Der ___ hat fünf Finger.",
+  "answer": "Hand"
+},
+{
+  "id": 236,
+  "question": "Der ___ kann tasten und erfühlen.",
+  "answer": "Finger"
+},
+{
+  "id": 237,
+  "question": "Das ___ trägt uns.",
+  "answer": "Bein"
+},
+{
+  "id": 238,
+  "question": "Der ___ trägt uns beim Gehen.",
+  "answer": "Fuß"
+},
+{
+  "id": 239,
+  "question": "Der ___ enthält viele Verdauungsorgane.",
+  "answer": "Bauch"
+},
+{
+  "id": 240,
+  "question": "Der ___ kann schmerzen, wenn wir uns bücken.",
+  "answer": "Rücken"
+},
+{
+  "id": 241,
+  "question": "Die ___ schützt unseren Körper.",
+  "answer": "Haut"
+},
+{
+  "id": 242,
+  "question": "Das ___ kann unterschiedliche Farben haben.",
+  "answer": "Haar"
+},
+{
+  "id": 243,
+  "question": "Das ___ ermöglicht uns zu laufen.",
+  "answer": "Bein"
+},
+{
+  "id": 244,
+  "question": "Der ___ ist beweglich und empfindlich.",
+  "answer": "Ellenbogen"
+},
+{
+  "id": 245,
+  "question": "Das ___ ist ein wichtiges Organ.",
+  "answer": "Herz"
+},
+{
+  "id": 246,
+  "question": "Das ___ steuert unsere Gedanken und Handlungen.",
+  "answer": "Gehirn"
+},
+{
+  "id": 247,
+  "question": "Die ___ ermöglichen uns Bewegung.",
+  "answer": "Muskeln"
+},
+{
+  "id": 248,
+  "question": "Das ___ bildet die Grundstruktur unseres Körpers.",
+  "answer": "Skelett"
+},
+{
+  "id": 249,
+  "question": "Das ___ transportiert Sauerstoff.",
+  "answer": "Blut"
+},
+{
+  "id": 250,
+  "question": "Ich schlafe in meinem ___",
+  "answer": "Bett"
+},
+{
+  "id": 251,
+  "question": "Ich sitze auf einem ___",
+  "answer": "Stuhl"
+},
+{
+  "id": 252,
+  "question": "Das Essen steht auf dem ___",
+  "answer": "Tisch"
+},
+{
+  "id": 253,
+  "question": "Meine Kleidung hängt im ___",
+  "answer": "Schrank"
+},
+{
+  "id": 254,
+  "question": "Ich entspanne auf dem ___",
+  "answer": "Sofa"
+},
+{
+  "id": 255,
+  "question": "Der ___ steht in meinem Arbeitszimmer.",
+  "answer": "Schreibtisch"
+},
+{
+  "id": 256,
+  "question": "Die Bücher stehen im ___",
+  "answer": "Regal"
+},
+{
+  "id": 257,
+  "question": "Meine Kleidung ist im ___",
+  "answer": "Kleiderschrank"
+},
+{
+  "id": 258,
+  "question": "Ich schaue mich im ___ an.",
+  "answer": "Spiegel"
+},
+{
+  "id": 259,
+  "question": "Meine Socken liegen in der ___",
+  "answer": "Kommode"
+},
+{
+  "id": 260,
+  "question": "Meine Jacke hängt an der ___",
+  "answer": "Garderobe"
+},
+{
+  "id": 261,
+  "question": "Die ___ spendet Licht.",
+  "answer": "Lampe"
+},
+{
+  "id": 262,
+  "question": "Die ___ schmücken die Fenster.",
+  "answer": "Vorhänge"
+},
+{
+  "id": 263,
+  "question": "Ich schlafe auf einer ___",
+  "answer": "Matratze"
+},
+{
+  "id": 264,
+  "question": "Ich lege meinen Kopf auf ein ___",
+  "answer": "Kissen"
+},
+{
+  "id": 265,
+  "question": "Ich trockne mich mit einem ___ ab.",
+  "answer": "Handtuch"
+},
+{
+  "id": 266,
+  "question": "Ich decke mich mit einer ___ zu.",
+  "answer": "Bettdecke"
+},
+{
+  "id": 267,
+  "question": "Ich trage einen warmen ___ im Winter.",
+  "answer": "Pullover"
+},
+{
+  "id": 268,
+  "question": "Ich trage ein ___ zur Arbeit.",
+  "answer": "Hemd"
+},
+{
+  "id": 269,
+  "question": "Ich ziehe eine ___ an, wenn ich ausgehe.",
+  "answer": "Hose"
+},
+{
+  "id": 270,
+  "question": "Im Sommer trage ich gerne ein luftiges ___",
+  "answer": "Kleid"
+},
+{
+  "id": 271,
+  "question": "Ich kombiniere einen ___ mit einer Jeans.",
+  "answer": "Rock"
+},
+{
+  "id": 272,
+  "question": "Ich trage eine ___ zur Arbeit.",
+  "answer": "Bluse"
+},
+{
+  "id": 273,
+  "question": "Bei festlichen Anlässen trage ich einen ___",
+  "answer": "Anzug"
+},
+{
+  "id": 274,
+  "question": "Ich ziehe meine ___ über die Jacke an.",
+  "answer": "Weste"
+},
+{
+  "id": 275,
+  "question": "Bei formellen Ereignissen trage ich eine ___",
+  "answer": "Krawatte"
+},
+{
+  "id": 276,
+  "question": "Im Winter trage ich eine warme ___",
+  "answer": "Mütze"
+},
+{
+  "id": 277,
+  "question": "Im Winter ziehe ich ___ an.",
+  "answer": "Handschuhe"
+},
+{
+  "id": 278,
+  "question": "Im Winter trage ich einen kuscheligen ___",
+  "answer": "Schal"
+},
+{
+  "id": 279,
+  "question": "Ich nehme meine ___ zur Arbeit mit.",
+  "answer": "Handtasche"
+},
+{
+  "id": 280,
+  "question": "Für die Schule brauche ich einen ___",
+  "answer": "Rucksack"
+},
+{
+  "id": 281,
+  "question": "Im Sommer trage ich gerne einen ___",
+  "answer": "Hut"
+},
+{
+  "id": 282,
+  "question": "Bei Sonnenschein trage ich ___",
+  "answer": "Sonnenbrille"
+},
+{
+  "id": 283,
+  "question": "Am Strand trage ich ___",
+  "answer": "Flip-Flops"
+},
+{
+  "id": 284,
+  "question": "Zuhause trage ich ___",
+  "answer": "Hausschuhe"
+},
+{
+  "id": 285,
+  "question": "Nach dem Duschen ziehe ich einen ___ an.",
+  "answer": "Bademantel"
+},
+
+
+
+
+
+
+
+{
+  "id": 301,
+  "question": "Ich trage ___ unter meiner Kleidung.",
+  "answer": "die Unterwäsche"
+},
+{
+  "id": 302,
+  "question": "Meine ___ sind bunt und bequem.",
+  "answer": "Socken"
+},
+{
+  "id": 303,
+  "question": "Ich ziehe vor dem Schlafengehen ein ___ an.",
+  "answer": "Nachthemd"
+},
+{
+  "id": 304,
+  "question": "In den kalten Nächten trage ich ___ zum Schlafen.",
+  "answer": "Pyjamas"
+},
+{
+  "id": 305,
+  "question": "Im Sommer trage ich gerne eine ___ zum Schwimmen.",
+  "answer": "Badehose"
+},
+{
+  "id": 306,
+  "question": "Meine Schwester trägt gerne einen ___ am Strand.",
+  "answer": "Bikini"
+},
+{
+  "id": 307,
+  "question": "Bei festlichen Anlässen trage ich ein elegantes ___",
+  "answer": "Abendkleid"
+},
+{
+  "id": 308,
+  "question": "Mein Bruder zieht sich für die Party in seine ___",
+  "answer": "Abendgarderobe"
+},
+{
+  "id": 309,
+  "question": "Die ___ der Köche schützt sie vor Flecken.",
+  "answer": "Arbeitskleidung"
+},
+{
+  "id": 310,
+  "question": "Die Ärzte tragen oft einen weißen ___",
+  "answer": "Kittel"
+},
+{
+  "id": 311,
+  "question": "In gefährlichen Situationen tragen Arbeiter einen ___",
+  "answer": "Schutzanzug"
+},
+{
+  "id": 312,
+  "question": "Der ___ ist treu und loyal.",
+  "answer": "Hund"
+},
+{
+  "id": 313,
+  "question": "Die ___ schläft den ganzen Tag.",
+  "answer": "Katze"
+},
+{
+  "id": 314,
+  "question": "Das ___ ist ein majestätisches Tier.",
+  "answer": "Pferd"
+},
+{
+  "id": 315,
+  "question": "Der ___ singt schöne Lieder.",
+  "answer": "Vogel"
+},
+{
+  "id": 316,
+  "question": "Der ___ lebt im Wasser.",
+  "answer": "Fisch"
+},
+{
+  "id": 317,
+  "question": "Die ___ ist ein kleines Nagetier.",
+  "answer": "Maus"
+},
+{
+  "id": 318,
+  "question": "Der ___ ist der König der Tiere.",
+  "answer": "Löwe"
+},
+{
+  "id": 319,
+  "question": "Das ___ hoppelt über die Wiese.",
+  "answer": "Kaninchen"
+},
+{
+  "id": 320,
+  "question": "Die ___ ist ein langes Reptil.",
+  "answer": "Schlange"
+},
+{
+  "id": 321,
+  "question": "Das ___ ist ein gefährliches Raubtier.",
+  "answer": "Krokodil"
+},
+{
+  "id": 322,
+  "question": "Der ___ ist das größte Landtier.",
+  "answer": "Elefant"
+},
+{
+  "id": 323,
+  "question": "Der ___ klettert geschickt in den Bäumen.",
+  "answer": "Affe"
+},
+{
+  "id": 324,
+  "question": "Der ___ lebt in den Wäldern.",
+  "answer": "Bär"
+},
+{
+  "id": 325,
+  "question": "Das ___ legt Eier und gackert.",
+  "answer": "Huhn"
+},
+{
+  "id": 326,
+  "question": "Die ___ gibt uns Milch.",
+  "answer": "Kuh"
+},
+{
+  "id": 327,
+  "question": "Das ___ liefert uns Wolle.",
+  "answer": "Schaf"
+},
+{
+  "id": 328,
+  "question": "Der ___ macht laute Geräusche im Teich.",
+  "answer": "Frosch"
+},
+{
+  "id": 329,
+  "question": "Die ___ baut ein Netz.",
+  "answer": "Spinne"
+},
+{
+  "id": 330,
+  "question": "Der ___ fliegt elegant durch die Luft.",
+  "answer": "Schmetterling"
+},
+{
+  "id": 331,
+  "question": "Die ___ sammelt Nektar.",
+  "answer": "Biene"
+},
+{
+  "id": 332,
+  "question": "Der ___ lebt im Meer und ist gefährlich.",
+  "answer": "Hai"
+},
+{
+  "id": 333,
+  "question": "Das ___ hat ein schönes Geweih.",
+  "answer": "Reh"
+},
+{
+  "id": 334,
+  "question": "Der ___ fliegt hoch in den Himmel.",
+  "answer": "Adler"
+},
+{
+  "id": 335,
+  "question": "Der ___ ist ein intelligentes Meerestier.",
+  "answer": "Delphin"
+},
+{
+  "id": 336,
+  "question": "Ich gehe jeden Tag zur ___.",
+  "answer": "Schule"
+},
+{
+  "id": 337,
+  "question": "Der ___ lernt fleißig in der Schule.",
+  "answer": "Schüler"
+},
+{
+  "id": 338,
+  "question": "Die ___ hört aufmerksam im Unterricht zu.",
+  "answer": "Schülerin"
+},
+{
+  "id": 339,
+  "question": "Der ___ unterrichtet Mathematik.",
+  "answer": "Lehrer"
+},
+{
+  "id": 340,
+  "question": "Die ___ erklärt den Stoff anschaulich.",
+  "answer": "Lehrerin"
+},
+{
+  "id": 341,
+  "question": "Wir sitzen im ___ und lernen.",
+  "answer": "Klassenzimmer"
+},
+{
+  "id": 342,
+  "question": "Die ___ ist voller Schüler.",
+  "answer": "Klasse"
+},
+{
+  "id": 343,
+  "question": "Der ___ schreibt Informationen an die Tafel.",
+  "answer": "Lehrer"
+},
+{
+  "id": 344,
+  "question": "Ich lese ein spannendes ___.",
+  "answer": "Buch"
+},
+{
+  "id": 345,
+  "question": "Ich schreibe mit einem ___.",
+  "answer": "Stift"
+},
+{
+  "id": 346,
+  "question": "Ich zeichne mit einem ___.",
+  "answer": "Bleistift"
+},
+{
+  "id": 347,
+  "question": "Der ___ hilft Fehler zu korrigieren.",
+  "answer": "Radiergummi"
+},
+{
+  "id": 348,
+  "question": "Ich schreibe meine Notizen in ein ___.",
+  "answer": "Heft"
+},
+{
+  "id": 349,
+  "question": "Meine Schulbücher trage ich in einem ___.",
+  "answer": "Rucksack"
+},
+{
+  "id": 350,
+  "question": "Ich plane meine Woche mit dem ___.",
+  "answer": "Stundenplan"
+},
+{
+  "id": 351,
+  "question": "Ich bereite mich auf die ___ vor.",
+  "answer": "Prüfung"
+},
+{
+  "id": 352,
+  "question": "Die ___ muss bis morgen erledigt sein.",
+  "answer": "Hausaufgabe"
+},
+{
+  "id": 353,
+  "question": "In der ___ spielen wir draußen.",
+  "answer": "Pause"
+},
+{
+  "id": 354,
+  "question": "Der ___ fährt die Schüler zur Schule.",
+  "answer": "Schulbus"
+},
+{
+  "id": 355,
+  "question": "Im ___ führen wir Experimente durch.",
+  "answer": "Labor"
+},
+{
+  "id": 356,
+  "question": "Ich finde interessante Bücher in der ___.",
+  "answer": "Bibliothek"
+},
+{
+  "id": 357,
+  "question": "Die ___ hört aufmerksam im Unterricht zu.",
+  "answer": "Klasse"
+},
+{
+  "id": 358,
+  "question": "Unser ___ dreht sich um Pflanzen.",
+  "answer": "Projekt"
+},
+{
+  "id": 359,
+  "question": "Das ist ___.",
+  "answer": "null"
+},
+{
+  "id": 360,
+  "question": "Ich habe ___ Äpfel.",
+  "answer": "eins"
+},
+{
+  "id": 361,
+  "question": "Ich habe ___ Hunde.",
+  "answer": "zwei"
+},
+{
+  "id": 362,
+  "question": "Ich habe ___ Katzen.",
+  "answer": "drei"
+},
+{
+  "id": 363,
+  "question": "Ich habe ___ Geschwister.",
+  "answer": "vier"
+},
+{
+  "id": 364,
+  "question": "Ich habe ___ Finger.",
+  "answer": "fünf"
+},
+{
+  "id": 365,
+  "question": "Ich habe ___ Finger.",
+  "answer": "sechs"
+},
+{
+  "id": 366,
+  "question": "Ich habe ___ Finger.",
+  "answer": "sieben"
+},
+{
+  "id": 367,
+  "question": "Ich habe ___ Finger.",
+  "answer": "acht"
+},
+{
+  "id": 368,
+  "question": "Ich habe ___ Finger.",
+  "answer": "neun"
+},
+{
+  "id": 369,
+  "question": "Ich habe ___ Finger.",
+  "answer": "zehn"
+},
+{
+  "id": 370,
+  "question": "Ich habe ___ Finger.",
+  "answer": "elf"
+},
+{
+  "id": 371,
+  "question": "Ich habe ___ Finger.",
+  "answer": "zwölf"
+},
+{
+  "id": 372,
+  "question": "Ich habe ___ Finger.",
+  "answer": "dreizehn"
+},
+{
+  "id": 373,
+  "question": "Ich habe ___ Finger.",
+  "answer": "vierzehn"
+},
+{
+  "id": 374,
+  "question": "Ich habe ___ Finger.",
+  "answer": "fünfzehn"
+},
+{
+  "id": 375,
+  "question": "Ich habe ___ Finger.",
+  "answer": "sechzehn"
+},
+{
+  "id": 376,
+  "question": "Ich habe ___ Finger.",
+  "answer": "siebzehn"
+},
+{
+  "id": 377,
+  "question": "Ich habe ___ Finger.",
+  "answer": "achtzehn"
+},
+{
+  "id": 378,
+  "question": "Ich habe ___ Finger.",
+  "answer": "neunzehn"
+},
+{
+  "id": 379,
+  "question": "Ich habe ___ Finger.",
+  "answer": "zwanzig"
+},
+{
+  "id": 380,
+  "question": "Ich habe ___ Finger.",
+  "answer": "einundzwanzig"
+},
+{
+  "id": 381,
+  "question": "Ich habe ___ Finger.",
+  "answer": "dreißig"
+},
+{
+  "id": 382,
+  "question": "Ich habe ___ Finger.",
+  "answer": "vierzig"
+},
+{
+  "id": 383,
+  "question": "Ich habe ___ Finger.",
+  "answer": "fünfzig"
+},
+{
+  "id": 384,
+  "question": "Ich habe ___ Finger.",
+  "answer": "sechzig"
+},
+{
+  "id": 385,
+  "question": "Ich habe ___ Finger.",
+  "answer": "siebzig"
+},
+{
+  "id": 386,
+  "question": "Ich habe ___ Finger.",
+  "answer": "achtzig"
+},
+{
+  "id": 387,
+  "question": "Ich habe ___ Finger.",
+  "answer": "neunzig"
+},
+{
+  "id": 388,
+  "question": "Ich habe ___ Finger.",
+  "answer": "hundert"
+},
+{
+  "id": 389,
+  "question": "Ich habe ___ Finger.",
+  "answer": "hunderteins"
+},
+{
+  "id": 390,
+  "question": "Ich habe ___ Finger.",
+  "answer": "zweihundert"
+},
+{
+  "id": 391,
+  "question": "Ich habe ___ Finger.",
+  "answer": "dreihundert"
+},
+{
+  "id": 392,
+  "question": "Ich habe ___ Finger.",
+  "answer": "tausend"
+},
+{
+  "id": 393,
+  "question": "Ich habe ___ Finger.",
+  "answer": "zehntausendeins"
+},
+{
+  "id": 394,
+  "question": "Ich habe ___ Finger.",
+  "answer": "neunzehnhundertneunundneunzig"
+},
+{
+  "id": 395,
+  "question": "Ich habe ___ Finger.",
+  "answer": "zweitausend"
+},
+{
+  "id": 396,
+  "question": "Ich habe ___ Finger.",
+  "answer": "zweitausenddreiundzwanzig"
+},
+{
+  "id": 397,
+  "question": "Ich habe ___ Finger.",
+  "answer": "eine Million"
+},
+{
+  "id": 398,
+  "question": "Das ___ ist eine Farbe.",
+  "answer": "Schwarz"
+},
+{
+  "id": 399,
+  "question": "Das ___ ist eine Farbe.",
+  "answer": "Blau"
+},
+{
+  "id": 400,
+  "question": "Das ___ ist eine Farbe.",
+  "answer": "Braun"
+},
+
+{
+  "id": 401,
+  "question": "Das ___ ist wertvoll und glänzend.",
+  "answer": "Gold"
+},
+{
+  "id": 402,
+  "question": "Die ___ ist eine Farbe zwischen Schwarz und Weiß.",
+  "answer": "Grau"
+},
+{
+  "id": 403,
+  "question": "Das ___ ist eine Farbe der Natur.",
+  "answer": "Grün"
+},
+{
+  "id": 404,
+  "question": "___ ist eine dunkle Farbe, oft im Militärstil.",
+  "answer": "Marineblau"
+},
+{
+  "id": 405,
+  "question": "___ ist eine lebhafte Farbe.",
+  "answer": "Orange"
+},
+{
+  "id": 406,
+  "question": "___ ist eine auffällige Farbe.",
+  "answer": "Pink"
+},
+{
+  "id": 407,
+  "question": "___ ist eine königliche Farbe.",
+  "answer": "Lila"
+},
+{
+  "id": 408,
+  "question": "___ ist eine leidenschaftliche Farbe.",
+  "answer": "Rot"
+},
+{
+  "id": 409,
+  "question": "___ ist eine metallische Farbe.",
+  "answer": "Silber"
+},
+{
+  "id": 410,
+  "question": "___ ist eine helle Farbe.",
+  "answer": "Tan"
+},
+{
+  "id": 411,
+  "question": "___ ist eine frische Farbe des Meeres.",
+  "answer": "Türkis"
+},
+{
+  "id": 412,
+  "question": "___ ist eine intensive Farbe.",
+  "answer": "Violett"
+},
+{
+  "id": 413,
+  "question": "___ ist die Farbe der Reinheit und Unschuld.",
+  "answer": "Weiß"
+},
+{
+  "id": 414,
+  "question": "___ ist eine lebhafte und sonnige Farbe.",
+  "answer": "Gelb"
+},
+{
+  "id": 415,
+  "question": "Sein Temperament ist manchmal ___ und unvorhersehbar.",
+  "answer": "abrupt"
+},
+{
+  "id": 416,
+  "question": "Wir haben noch ___ Zeit bis zum Start.",
+  "answer": "zusätzlich"
+},
+{
+  "id": 417,
+  "question": "Ihre Leistungen sind wirklich ___.",
+  "answer": "bewundernswert"
+},
+{
+  "id": 418,
+  "question": "Er war wegen des Streits ___.",
+  "answer": "aufgebracht"
+},
+{
+  "id": 419,
+  "question": "Die anhaltende Hitze macht mich ___.",
+  "answer": "gereizt"
+},
+{
+  "id": 420,
+  "question": "Die Nachricht von dem Unglück war einfach ___.",
+  "answer": "entsetzlich"
+},
+{
+  "id": 421,
+  "question": "Das Ergebnis war ___ gleich dem Vorjahreswert.",
+  "answer": "annähernd"
+},
+{
+  "id": 422,
+  "question": "Sei bitte ___ und höre gut zu.",
+  "answer": "aufmerksam"
+},
+{
+  "id": 423,
+  "question": "Ihr Blick war äußerst ___.",
+  "answer": "verführerisch"
+},
+{
+  "id": 424,
+  "question": "Die Maschine startet ___.",
+  "answer": "automatisch"
+},
+{
+  "id": 425,
+  "question": "Seine Argumente waren nicht überzeugend, sondern einfach nur ___.",
+  "answer": "schlecht"
+},
+{
+  "id": 426,
+  "question": "Ihre ___ Kommentare verärgerten viele.",
+  "answer": "bösartig"
+},
+{
+  "id": 427,
+  "question": "Seine Witze waren so ___ und vorhersehbar.",
+  "answer": "banal"
+},
+{
+  "id": 428,
+  "question": "Die Schmerzen sind zwar vorhanden, aber ___.",
+  "answer": "erträglich"
+},
+{
+  "id": 429,
+  "question": "Die Blumen in ihrem Garten sind wirklich ___.",
+  "answer": "schön"
+},
+{
+  "id": 430,
+  "question": "Die Aussicht vom Gipfel war einfach nur ___.",
+  "answer": "herrlich"
+},
+{
+  "id": 431,
+  "question": "Er ist sehr ___ und vertrauensvoll.",
+  "answer": "gläubig"
+},
+{
+  "id": 432,
+  "question": "Der Käse ist wirklich ___.",
+  "answer": "fett"
+},
+{
+  "id": 433,
+  "question": "Die Medizin hinterließ einen ___ Geschmack.",
+  "answer": "bitter"
+},
+{
+  "id": 434,
+  "question": "Die monotone Vorlesung ließ mich ___ fühlen.",
+  "answer": "gelangweilt"
+},
+{
+  "id": 435,
+  "question": "Der Vortrag über das Thema war wirklich ___.",
+  "answer": "langweilig"
+},
+{
+  "id": 436,
+  "question": "Seine Entscheidung war ___ und mutig.",
+  "answer": "kaputt, gebrochen"
+},
+{
+  "id": 437,
+  "question": "Nach ihrem Urlaub war sie wunderschön ___.",
+  "answer": "braungebrannt"
+},
+{
+  "id": 438,
+  "question": "Der Koffer war ziemlich ___.",
+  "answer": "sperrig"
+},
+{
+  "id": 439,
+  "question": "Das Handbuch enthält ___ Informationen.",
+  "answer": "umfangreich"
+},
+{
+  "id": 440,
+  "question": "Die Landschaft war sehr ___.",
+  "answer": "ruhig"
+},
+{
+  "id": 441,
+  "question": "Sie ist sehr ___, wenn es um Mathematik geht.",
+  "answer": "fähig"
+},
+{
+  "id": 442,
+  "question": "Das Buch war so ___, dass ich es nicht aus der Hand legen konnte.",
+  "answer": "fesselnd"
+},
+{
+  "id": 443,
+  "question": "Die Auswirkungen des Sturms waren ___.",
+  "answer": "katastrophal"
+},
+{
+  "id": 444,
+  "question": "Sei bitte ___ beim Überqueren der Straße.",
+  "answer": "vorsichtig"
+},
+{
+  "id": 445,
+  "question": "Sein ___ Charakter beeinflusst sein Verhalten.",
+  "answer": "verhaltensgestört"
+},
+{
+  "id": 446,
+  "question": "Seine ___ Art machte ihn bei allen beliebt.",
+  "answer": "charmant"
+},
+{
+  "id": 447,
+  "question": "Das Produkt war von minderer Qualität und daher recht ___.",
+  "answer": "billig"
+},
+{
+  "id": 448,
+  "question": "Die ___ Eleganz des Gebäudes beeindruckte mich.",
+  "answer": "klassisch"
+},
+{
+  "id": 449,
+  "question": "Seine Erklärung war klar und präzise.",
+  "answer": "klar"
+},
+{
+  "id": 450,
+  "question": "Das Abflussrohr ist ___.",
+  "answer": "verstopft"
+},
+{
+  "id": 451,
+  "question": "Die Tür war ___ und wir konnten nicht eintreten.",
+  "answer": "geschlossen"
+},
+{
+  "id": 452,
+  "question": "Seine ___ Bewegungen waren sehr unsicher.",
+  "answer": "ungeschickt"
+},
+{
+  "id": 453,
+  "question": "Das Eis war so ___, dass es meine Zunge berührte.",
+  "answer": "kalt"
+},
+{
+  "id": 454,
+  "question": "Die ___ Blüten verliehen dem Garten Farbe.",
+  "answer": "farbig"
+},
+{
+  "id": 455,
+  "question": "Das Sofa ist wirklich sehr ___.",
+  "answer": "komfortabel"
+},
+{
+  "id": 456,
+  "question": "Die Werbung war ___ gestaltet.",
+  "answer": "kommerziell"
+},
+{
+  "id": 457,
+  "question": "Wir haben ein ___ Ziel vor Augen.",
+  "answer": "gemeinsam"
+},
+{
+  "id": 458,
+  "question": "Die ___ Bauweise des Geräts spart Platz.",
+  "answer": "kompakt"
+},
+{
+  "id": 459,
+  "question": "Er zeigte sich ___ gegenüber den Bedürfnissen anderer.",
+  "answer": "mitfühlend"
+},
+{
+  "id": 460,
+  "question": "Die ___ Analyse des Problems war beeindruckend.",
+  "answer": "vollständig"
+},
+{
+  "id": 461,
+  "question": "Das Thema ist sehr ___ und erfordert intensive Recherche.",
+  "answer": "komplex"
+},
+{
+  "id": 462,
+  "question": "Sie ist sehr ___, dass alles gut wird.",
+  "answer": "zuversichtlich"
+},
+{
+  "id": 463,
+  "question": "Ich bin ___ über die guten Neuigkeiten.",
+  "answer": "froh"
+},
+{
+  "id": 464,
+  "question": "Seine Argumente waren ___ und überzeugend.",
+  "answer": "überzeugend"
+},
+{
+  "id": 465,
+  "question": "Das Modell dient als ___ für das neue Design.",
+  "answer": "exemplarisch"
+},
+{
+  "id": 466,
+  "question": "Dein Vorschlag ist ___.",
+  "answer": "korrekt, okay"
+},
+{
+  "id": 467,
+  "question": "Seine ___ Haltung enttäuschte uns.",
+  "answer": "feige"
+},
+{
+  "id": 468,
+  "question": "Er benahm sich in letzter Zeit ziemlich ___.",
+  "answer": "verrückt"
+},
+{
+  "id": 469,
+  "question": "Seine Darstellung der Ereignisse war nicht besonders ___.",
+  "answer": "glaubwürdig"
+},
+{
+  "id": 470,
+  "question": "___ Vielfalt bereichert unsere Gesellschaft.",
+  "answer": "kulturell"
+},
+{
+  "id": 471,
+  "question": "Er ist stets ___, mehr zu erfahren.",
+  "answer": "neugierig"
+},
+{
+  "id": 472,
+  "question": "Das ___ Kätzchen zog alle Blicke auf sich.",
+  "answer": "niedlich"
+},
+{
+  "id": 473,
+  "question": "Die ___ Spinne verschwand schnell.",
+  "answer": "gefährlich"
+},
+{
+  "id": 474,
+  "question": "Die ___ Straße war kaum beleuchtet.",
+  "answer": "dunkel"
+},
+{
+  "id": 475,
+  "question": "Das Blatt ist ___.",
+  "answer": "tot"
+},
+{
+  "id": 476,
+  "question": "Die Diskussion führte zu einer ___ Einsicht.",
+  "answer": "tiefgehend"
+},
+{
+  "id": 477,
+  "question": "Der Kuchen war ___ lecker.",
+  "answer": "köstlich"
+},
+{
+  "id": 478,
+  "question": "___ Entscheidungen sind in einer Demokratie wichtig.",
+  "answer": "demokratisch"
+},
+{
+  "id": 479,
+  "question": "Seine ___ Stimmung war deutlich sichtbar.",
+  "answer": "deprimiert"
+},
+{
+  "id": 480,
+  "question": "Sie ist sich ihrer Ziele ___ bewusst.",
+  "answer": "bestimmt"
+},
+{
+  "id": 481,
+  "question": "Seine ___ Sichtweise bringt frischen Wind ein.",
+  "answer": "andersartig"
+},
+{
+  "id": 482,
+  "question": "Die Prüfung war wirklich ___.",
+  "answer": "schwierig"
+},
+{
+  "id": 483,
+  "question": "Die Küche war nach dem Kochen ziemlich ___.",
+  "answer": "schmutzig"
+},
+{
+  "id": 484,
+  "question": "Die Ursache des Problems blieb ___.",
+  "answer": "verschollen"
+},
+{
+  "id": 485,
+  "question": "Die Nahrung verbreitete einen ___ Geruch.",
+  "answer": "angeekelt"
+},
+{
+  "id": 486,
+  "question": "Die Flüssigkeit hatte einen ___.",
+  "answer": "ekelhaft"
+},
+{
+  "id": 487,
+  "question": "Die Insel liegt ziemlich ___.",
+  "answer": "entfernt"
+},
+{
+  "id": 488,
+  "question": "Der Boden war nach der Hitze ziemlich ___.",
+  "answer": "trocken"
+},
+{
+  "id": 489,
+  "question": "___ Bewegung ist wichtig für unsere Gesundheit.",
+  "answer": "Dynamik"
+},
+{
+  "id": 490,
+  "question": "Die Feder ist ___ und einfach zu heben.",
+  "answer": "leicht"
+},
+{
+  "id": 491,
+  "question": "Wir sollten auf ___ Energienutzung achten.",
+  "answer": "ökologisch"
+},
+{
+  "id": 492,
+  "question": "Die ___ Situation beeinflusst die Wirtschaft.",
+  "answer": "ökonomisch"
+},
+{
+  "id": 493,
+  "question": "Die ___ Früchte waren köstlich.",
+  "answer": "essbar"
+},
+{
+  "id": 494,
+  "question": "Die ___ Strategie führte zu positiven Ergebnissen.",
+  "answer": "wirkungsvoll"
+},
+{
+  "id": 495,
+  "question": "Die Stadt hat viele ___ Gebäude.",
+  "answer": "alt"
+},
+{
+  "id": 496,
+  "question": "Der ___ Stromkreis funktionierte nicht mehr.",
+  "answer": "elektrisch"
+},
+{
+  "id": 497,
+  "question": "Die ___ Geräte sind überall verbreitet.",
+  "answer": "elektronisch"
+},
+{
+  "id": 498,
+  "question": "Ihr Kleid sah sehr ___ aus.",
+  "answer": "elegant"
+},
+{
+  "id": 499,
+  "question": "Die Schublade war leer und enthielt nichts.",
+  "answer": "leer"
+},
+
+
+
+{
+  "id": 501,
+  "question": "Sie handelte ___ und entschlossen.",
+  "answer": "energisch"
+},
+{
+  "id": 502,
+  "question": "Er war sehr ___ bei seinem Projekt.",
+  "answer": "begeisterter"
+},
+{
+  "id": 503,
+  "question": "Die beiden Alternativen sind ___.",
+  "answer": "gleichwertig"
+},
+{
+  "id": 504,
+  "question": "Die Antwort ist ___.",
+  "answer": "richtig"
+},
+{
+  "id": 505,
+  "question": "Seine Reaktion auf die Nachricht war sehr ___.",
+  "answer": "verärgert"
+},
+{
+  "id": 506,
+  "question": "Ihre Leistung war einfach nur ___.",
+  "answer": "ausgezeichnet"
+},
+{
+  "id": 507,
+  "question": "Das war wirklich eine ___ Idee.",
+  "answer": "außergewöhnlich"
+},
+{
+  "id": 508,
+  "question": "Sie war so ___ vor ihrem großen Auftritt.",
+  "answer": "aufgeregt"
+},
+{
+  "id": 509,
+  "question": "Der Film war wirklich sehr ___.",
+  "answer": "spannend"
+},
+{
+  "id": 510,
+  "question": "Sein Verhalten war in gewisser Weise ___.",
+  "answer": "entschuldbar"
+},
+{
+  "id": 511,
+  "question": "Die Reise war wirklich ___.",
+  "answer": "aufregend"
+},
+{
+  "id": 512,
+  "question": "Das Auto, das er sich gekauft hat, war ziemlich ___.",
+  "answer": "teuer"
+},
+{
+  "id": 513,
+  "question": "Er ist ein ___ Schauspieler.",
+  "answer": "berühmt"
+},
+{
+  "id": 514,
+  "question": "Die Aussicht war wirklich sehr ___.",
+  "answer": "weit"
+},
+{
+  "id": 515,
+  "question": "Das Flugzeug fliegt ___.",
+  "answer": "schnell"
+},
+{
+  "id": 516,
+  "question": "Die Antwort war leider ___.",
+  "answer": "falsch"
+},
+{
+  "id": 517,
+  "question": "Sie ist oft ___ in unbekannten Situationen.",
+  "answer": "ängstlich"
+},
+{
+  "id": 518,
+  "question": "Die Schüssel war bis oben hin ___.",
+  "answer": "voll"
+},
+{
+  "id": 519,
+  "question": "Er war der ___, der das Rennen beendet hat.",
+  "answer": "erster"
+},
+{
+  "id": 520,
+  "question": "Die Statue hat einen ___ Wert.",
+  "answer": "antik"
+},
+{
+  "id": 521,
+  "question": "Das Konzert war ___.",
+  "answer": "großartig"
+},
+{
+  "id": 522,
+  "question": "Das Porzellan ist sehr ___.",
+  "answer": "zerbrechlich"
+},
+{
+  "id": 523,
+  "question": "Der Kaffee ist hier wirklich ___.",
+  "answer": "häufig"
+},
+{
+  "id": 524,
+  "question": "Die Blumen sind noch ___.",
+  "answer": "frisch"
+},
+{
+  "id": 525,
+  "question": "Sie ist immer so ___ zu anderen Menschen.",
+  "answer": "freundlich"
+},
+{
+  "id": 526,
+  "question": "Die Benutzeroberfläche ist sehr ___ gestaltet.",
+  "answer": "benutzerfreundlich"
+},
+{
+  "id": 527,
+  "question": "Er ist wirklich sehr ___.",
+  "answer": "sympathisch"
+},
+{
+  "id": 528,
+  "question": "Sein ___ Humor brachte alle zum Lachen.",
+  "answer": "amüsant"
+},
+{
+  "id": 529,
+  "question": "Seine ___ Bemerkungen hatten alle zum Lachen gebracht.",
+  "answer": "witzig"
+},
+{
+  "id": 530,
+  "question": "Er war so ___ über die Situation.",
+  "answer": "wütend"
+},
+{
+  "id": 531,
+  "question": "Seine ___ Spenden haben vielen geholfen.",
+  "answer": "großzügig"
+},
+{
+  "id": 532,
+  "question": "Er ist wirklich ___ in Musik.",
+  "answer": "begabt"
+},
+{
+  "id": 533,
+  "question": "Die Gebäude in der Stadt sind wirklich ___.",
+  "answer": "riesig"
+},
+{
+  "id": 534,
+  "question": "Der Einfluss des Unternehmens ist ___.",
+  "answer": "weltweit"
+},
+{
+  "id": 535,
+  "question": "Das Ergebnis war wirklich sehr ___.",
+  "answer": "gut"
+},
+{
+  "id": 536,
+  "question": "Der Angeklagte wurde für ___ befunden.",
+  "answer": "schuldig"
+},
+{
+  "id": 537,
+  "question": "Sie ist ___ über die Neuigkeiten.",
+  "answer": "glücklich"
+},
+{
+  "id": 538,
+  "question": "Die Arbeit ist wirklich ___.",
+  "answer": "hart"
+},
+{
+  "id": 539,
+  "question": "Der Koffer war wirklich ___.",
+  "answer": "schwer"
+},
+{
+  "id": 540,
+  "question": "Die ___ des Berges war beeindruckend.",
+  "answer": "Höhe"
+},
+{
+  "id": 541,
+  "question": "Das ist ein ___ Moment in unserer Geschichte.",
+  "answer": "historisch"
+},
+{
+  "id": 542,
+  "question": "Seine ___ Antwort wurde geschätzt.",
+  "answer": "ehrlich"
+},
+{
+  "id": 543,
+  "question": "Die Nachricht war einfach nur ___.",
+  "answer": "entsetzlich"
+},
+{
+  "id": 544,
+  "question": "Es ist heute wirklich sehr ___.",
+  "answer": "heiß"
+},
+{
+  "id": 545,
+  "question": "Die Gebäude in dieser Stadt sind wirklich ___.",
+  "answer": "riesig"
+},
+{
+  "id": 546,
+  "question": "Die Aussicht von hier oben ist einfach nur ___.",
+  "answer": "ideal"
+},
+{
+  "id": 547,
+  "question": "Die beiden Schwestern sind ___.",
+  "answer": "identisch"
+},
+{
+  "id": 548,
+  "question": "Sein Verhalten war wirklich ___.",
+  "answer": "Idiot"
+},
+{
+  "id": 549,
+  "question": "Seine Handlungen waren ___.",
+  "answer": "rechtswidrig"
+},
+{
+  "id": 550,
+  "question": "Das Treffen ist ___ nach dem Seminar.",
+  "answer": "unmittelbar"
+},
+{
+  "id": 551,
+  "question": "Die Größe dieses Gebäudes ist wirklich ___.",
+  "answer": "riesig"
+},
+{
+  "id": 552,
+  "question": "Die Ergebnisse waren ___ für unsere Forschung.",
+  "answer": "bedeutend"
+},
+{
+  "id": 553,
+  "question": "Seine Idee ist ___ umzusetzen.",
+  "answer": "unmöglich"
+},
+{
+  "id": 554,
+  "question": "Die Leistung der Schauspielerin war einfach nur ___.",
+  "answer": "eindrucksvoll"
+},
+{
+  "id": 555,
+  "question": "Die Geschichte klingt fast zu ___, um wahr zu sein.",
+  "answer": "unglaublich"
+},
+{
+  "id": 556,
+  "question": "Er ist sehr ___, er braucht keine Hilfe.",
+  "answer": "selbstständig"
+},
+{
+  "id": 557,
+  "question": "Der Unfall hat ihn schwer ___.",
+  "answer": "Verletzt"
+},
+{
+  "id": 558,
+  "question": "Er ist ___ in dieser Angelegenheit.",
+  "answer": "unschuldig"
+},
+{
+  "id": 559,
+  "question": "Seine Bemerkung war ziemlich ___.",
+  "answer": "unbedeutend"
+},
+{
+  "id": 560,
+  "question": "Die gegebenen Informationen sind leider ___.",
+  "answer": "unzureichend"
+},
+{
+  "id": 561,
+  "question": "Die Vorlesung war wirklich sehr ___.",
+  "answer": "interessant"
+},
+{
+  "id": 562,
+  "question": "Die Konferenz hatte ___ Teilnehmer.",
+  "answer": "international"
+},
+{
+  "id": 563,
+  "question": "Seine ___ Ideen bringen frischen Wind ein.",
+  "answer": "erfinderisch"
+},
+{
+  "id": 564,
+  "question": "Er war in die Planung ___.",
+  "answer": "involviert"
+},
+{
+  "id": 565,
+  "question": "Ihre ___ Ausstrahlung zog viele an.",
+  "answer": "unwiderstehlich"
+},
+{
+  "id": 566,
+  "question": "Er war ___ aufgrund seiner Eifersucht.",
+  "answer": "eifersüchtig"
+},
+{
+  "id": 567,
+  "question": "Ihre ___ Natur zieht Menschen an.",
+  "answer": "freundlich"
+},
+{
+  "id": 568,
+  "question": "Die Statue ist wirklich sehr ___.",
+  "answer": "groß"
+},
+{
+  "id": 569,
+  "question": "Er war der ___, der das Rennen beendet hat.",
+  "answer": "letzter"
+},
+{
+  "id": 570,
+  "question": "Er ist ziemlich ___.",
+  "answer": "faul"
+},
+{
+  "id": 571,
+  "question": "Das ist eine ___ Antwort.",
+  "answer": "legal"
+},
+{
+  "id": 572,
+  "question": "Die Feder ist wirklich sehr ___.",
+  "answer": "leicht"
+},
+{
+  "id": 573,
+  "question": "Es gibt nur ___ Plätze in der ersten Reihe.",
+  "answer": "wenig"
+},
+{
+  "id": 574,
+  "question": "Das Tier war wieder ___.",
+  "answer": "lebend"
+},
+{
+  "id": 575,
+  "question": "Das ist ein ___ Ort für einen Urlaub.",
+  "answer": "örtlich"
+},
+{
+  "id": 576,
+  "question": "Der Flug dauerte ziemlich ___.",
+  "answer": "lang"
+},
+{
+  "id": 577,
+  "question": "Das Essen war wirklich ___.",
+  "answer": "lausig"
+},
+{
+  "id": 578,
+  "question": "Der Preis war wirklich sehr ___.",
+  "answer": "niedrig"
+},
+{
+  "id": 579,
+  "question": "Sie ist so ___ über die Nachricht.",
+  "answer": "glücklich"
+},
+{
+  "id": 580,
+  "question": "Es gibt ___ Möglichkeiten, dies zu tun.",
+  "answer": "zahlreich"
+},
+{
+  "id": 581,
+  "question": "Die Früchte sind jetzt ___ genug.",
+  "answer": "reif"
+},
+{
+  "id": 582,
+  "question": "Seine Leistung war eher ___.",
+  "answer": "mittelmäßig"
+},
+{
+  "id": 583,
+  "question": "Das Kissen ist sehr ___.",
+  "answer": "weich"
+},
+{
+  "id": 584,
+  "question": "Die Kunstausstellung war sehr ___.",
+  "answer": "modern"
+},
+{
+  "id": 585,
+  "question": "Wir alle sind ___.",
+  "answer": "sterblich"
+},
+{
+  "id": 586,
+  "question": "Er ist wirklich sehr ___, um seine Ziele zu erreichen.",
+  "answer": "motiviert"
+},
+{
+  "id": 587,
+  "question": "Der Film hatte eine ___ Handlung.",
+  "answer": "bewegend"
+},
+{
+  "id": 588,
+  "question": "Es gibt so ___ Dinge zu entdecken.",
+  "answer": "viel"
+},
+{
+  "id": 589,
+  "question": "Seine Antwort war ___.",
+  "answer": "stumm"
+},
+{
+  "id": 590,
+  "question": "Die Geschichte hinter dem Gemälde bleibt ___.",
+  "answer": "geheimnisvoll"
+},
+{
+  "id": 591,
+  "question": "Der Raum ist ziemlich ___.",
+  "answer": "eng"
+},
+{
+  "id": 592,
+  "question": "___ Essen ist am besten.",
+  "answer": "natürlich"
+},
+{
+  "id": 593,
+  "question": "Das Hotel ist ___ zum Strand.",
+  "answer": "nahe"
+},
+{
+  "id": 594,
+  "question": "Der Erfolg erfordert ___ Arbeit.",
+  "answer": "nahe"
+},
+{
+  "id": 595,
+  "question": "Es ist ___ zu handeln.",
+  "answer": "notwendig"
+},
+{
+  "id": 596,
+  "question": "Sie war ___ vor ihrer Präsentation.",
+  "answer": "nervös"
+},
+{
+  "id": 597,
+  "question": "Die Idee ist noch sehr ___.",
+  "answer": "neu"
+},
+{
+  "id": 598,
+  "question": "Der nächste Termin ist ___ Montag.",
+  "answer": "nächster"
+},
+{
+  "id": 599,
+  "question": "Er ist wirklich sehr ___.",
+  "answer": "nett"
+},
+{
+  "id": 600,
+  "question": "Die Musik war viel zu ___.",
+  "answer": "laut"
+},
+
+{
+  "id": 601,
+  "question": "Der Film versetzt die Zuschauer in eine ___ Stimmung.",
+  "answer": "nostalgisch"
+},
+{
+  "id": 602,
+  "question": "Sein Ausweis war leider ___.",
+  "answer": "ungültig"
+},
+{
+  "id": 603,
+  "question": "Die Lösung des Rätsels war ___.",
+  "answer": "offensichtlich"
+},
+{
+  "id": 604,
+  "question": "Sie ist immer so ___ mit ihrer Arbeit.",
+  "answer": "beschäftigt"
+},
+{
+  "id": 605,
+  "question": "Die Eröffnungsfeier war wirklich sehr ___.",
+  "answer": "offiziell"
+},
+{
+  "id": 606,
+  "question": "Die Maschine ist schon ziemlich ___.",
+  "answer": "alt"
+},
+{
+  "id": 607,
+  "question": "Seine Meinung war immer ___.",
+  "answer": "offen"
+},
+{
+  "id": 608,
+  "question": "Seine ___ Einstellung motiviert andere.",
+  "answer": "optimistisch"
+},
+{
+  "id": 609,
+  "question": "Sein Verhalten war eher ___.",
+  "answer": "gewöhnlich"
+},
+{
+  "id": 610,
+  "question": "Seine Ideen sind immer sehr ___.",
+  "answer": "originell"
+},
+{
+  "id": 611,
+  "question": "Die Stadt ist stark ___.",
+  "answer": "übervölkert"
+},
+{
+  "id": 612,
+  "question": "Die Tische im Restaurant sind immer sehr ___.",
+  "answer": "sauber"
+},
+{
+  "id": 613,
+  "question": "Die Vorbereitung für die Prüfung war ___.",
+  "answer": "mühsam"
+},
+{
+  "id": 614,
+  "question": "Seine Leistung in der Schule war gerade noch ___.",
+  "answer": "passabel"
+},
+{
+  "id": 615,
+  "question": "Er ist wirklich sehr ___, wenn es um Musik geht.",
+  "answer": "leidenschaftlich"
+},
+{
+  "id": 616,
+  "question": "Sie ist immer so ___ und wartet geduldig.",
+  "answer": "geduldig"
+},
+{
+  "id": 617,
+  "question": "Seine Präsentation war wirklich sehr ___.",
+  "answer": "perfekt"
+},
+{
+  "id": 618,
+  "question": "Seine ___ Arbeit hat endlich Früchte getragen.",
+  "answer": "ausdauernd"
+},
+{
+  "id": 619,
+  "question": "Seine ___ Einstellung trübte oft die Stimmung.",
+  "answer": "pessimistisch"
+},
+{
+  "id": 620,
+  "question": "Die Aussicht vom Gipfel war einfach nur ___.",
+  "answer": "phänomenal"
+},
+{
+  "id": 621,
+  "question": "Die Kinder waren heute besonders ___.",
+  "answer": "verspielt"
+},
+{
+  "id": 622,
+  "question": "Das Essen in diesem Restaurant ist wirklich sehr ___.",
+  "answer": "angenehm"
+},
+{
+  "id": 623,
+  "question": "Das Design des Produkts ist wirklich sehr ___.",
+  "answer": "ansprechend"
+},
+{
+  "id": 624,
+  "question": "Die ___ Situation ist sehr komplex.",
+  "answer": "politisch"
+},
+{
+  "id": 625,
+  "question": "Die Umweltverschmutzung macht die Stadt sehr ___.",
+  "answer": "verschmutzt"
+},
+{
+  "id": 626,
+  "question": "Die ___ Menschen brauchen Unterstützung.",
+  "answer": "arm"
+},
+{
+  "id": 627,
+  "question": "Sein Buch ist wirklich sehr ___.",
+  "answer": "populär"
+},
+{
+  "id": 628,
+  "question": "Seine ___ Einstellung half bei der Lösung des Problems.",
+  "answer": "positiv"
+},
+{
+  "id": 629,
+  "question": "Die ___ Lösung wäre, das Projekt zu verschieben.",
+  "answer": "möglich"
+},
+{
+  "id": 630,
+  "question": "Sein Einfluss auf die Gesellschaft war wirklich sehr ___.",
+  "answer": "mächtig"
+},
+{
+  "id": 631,
+  "question": "Die ___ Idee half bei der Organisation des Events.",
+  "answer": "praktisch"
+},
+{
+  "id": 632,
+  "question": "Die ___ Angaben im Bericht waren beeindruckend.",
+  "answer": "präzise"
+},
+{
+  "id": 633,
+  "question": "Seine ___ Haltung war nicht gut für das Team.",
+  "answer": "anmaßend, eingebildet"
+},
+{
+  "id": 634,
+  "question": "Sein Tagebuch enthält ___ Gedanken und Gefühle.",
+  "answer": "privat"
+},
+{
+  "id": 635,
+  "question": "Seine Leistung war wirklich sehr ___.",
+  "answer": "erstaunlich"
+},
+{
+  "id": 636,
+  "question": "Die Nutzung dieser App ist ___.",
+  "answer": "verboten"
+},
+{
+  "id": 637,
+  "question": "Die Veranstaltung war ___ und für alle zugänglich.",
+  "answer": "öffentlich"
+},
+{
+  "id": 638,
+  "question": "Die Flüge waren immer ___ pünktlich.",
+  "answer": "punktuell"
+},
+{
+  "id": 639,
+  "question": "Die Gelegenheit, solch eine Erfahrung zu machen, ist sehr ___.",
+  "answer": "selten"
+},
+{
+  "id": 640,
+  "question": "Er war ___ glücklich über den Erfolg.",
+  "answer": "überglücklich"
+},
+{
+  "id": 641,
+  "question": "Sein Ansatz in der Forschung war immer sehr ___.",
+  "answer": "realistisch"
+},
+{
+  "id": 642,
+  "question": "Die Blumen in diesem Garten sind ___.",
+  "answer": "frisch"
+},
+{
+  "id": 643,
+  "question": "Dieses Produkt ist aus ___ Materialien hergestellt.",
+  "answer": "recycelt"
+},
+{
+  "id": 644,
+  "question": "Die Abholung erfolgt zu ___ Zeiten.",
+  "answer": "regulär"
+},
+{
+  "id": 645,
+  "question": "Ihre Kommentare waren wirklich sehr ___.",
+  "answer": "relevant"
+},
+{
+  "id": 646,
+  "question": "Seine ___ Informationen halfen bei der Entscheidung.",
+  "answer": "zuverlässig"
+},
+{
+  "id": 647,
+  "question": "Seine ___ Überzeugungen waren wichtig für ihn.",
+  "answer": "religiös"
+},
+{
+  "id": 648,
+  "question": "Seine ___ Leistungen beeindruckten alle.",
+  "answer": "bemerkenswert"
+},
+{
+  "id": 649,
+  "question": "Er ist endlich ___ für seine Handlungen.",
+  "answer": "verantwortlich"
+},
+{
+  "id": 650,
+  "question": "Die ___ Menschen leben in diesem Viertel.",
+  "answer": "reich"
+},
+{
+  "id": 651,
+  "question": "Der Sonnenuntergang war wirklich sehr ___.",
+  "answer": "romantisch"
+},
+{
+  "id": 652,
+  "question": "Die ___ Früchte lagen auf dem Boden.",
+  "answer": "verfault"
+},
+{
+  "id": 653,
+  "question": "Sein Ausdruck war sehr ___.",
+  "answer": "traurig"
+},
+{
+  "id": 654,
+  "question": "Das Essen war ziemlich ___.",
+  "answer": "salzig"
+},
+{
+  "id": 655,
+  "question": "Nach der Prüfung fühlte er sich sehr ___.",
+  "answer": "befriedigend"
+},
+{
+  "id": 656,
+  "question": "Er war mit dem Ergebnis sehr ___.",
+  "answer": "zufrieden"
+},
+{
+  "id": 657,
+  "question": "Der Horrorfilm war wirklich sehr ___.",
+  "answer": "beängstigend"
+},
+{
+  "id": 658,
+  "question": "Die geheime Nachricht war nur für ihn ___.",
+  "answer": "geheim"
+},
+{
+  "id": 659,
+  "question": "Seine ___ Einstellung machte es schwer, mit ihm auszukommen.",
+  "answer": "egoistisch"
+},
+{
+  "id": 660,
+  "question": "Die Situation ist wirklich sehr ___.",
+  "answer": "ernst"
+},
+{
+  "id": 661,
+  "question": "Das Buch ist eher ___, aber dennoch informativ.",
+  "answer": "kurz"
+},
+{
+  "id": 662,
+  "question": "Seine ___ Natur machte es schwer, neue Leute kennenzulernen.",
+  "answer": "schüchtern"
+},
+{
+  "id": 663,
+  "question": "Die Grippe machte ihn wirklich sehr ___.",
+  "answer": "krank"
+},
+{
+  "id": 664,
+  "question": "Die ___ Nacht war ruhig und friedlich.",
+  "answer": "lautlos"
+},
+{
+  "id": 665,
+  "question": "Sie haben ___ Interessen und Hobbys.",
+  "answer": "gleichartig"
+},
+{
+  "id": 666,
+  "question": "Die Aufgabe war wirklich sehr ___.",
+  "answer": "einfach"
+},
+{
+  "id": 667,
+  "question": "Seine ___ Art gewinnt viele Freunde.",
+  "answer": "aufrichtig"
+},
+{
+  "id": 668,
+  "question": "Die Uhr tickte wirklich sehr ___.",
+  "answer": "langsam"
+},
+{
+  "id": 669,
+  "question": "Das ist ein ___ Schritt in die richtige Richtung.",
+  "answer": "klein"
+},
+{
+  "id": 670,
+  "question": "Er ist sehr ___ in seinen Entscheidungen.",
+  "answer": "intelligent"
+},
+{
+  "id": 671,
+  "question": "Sie ging mit einem ___ Lächeln aus dem Raum.",
+  "answer": "lächelnd"
+},
+{
+  "id": 672,
+  "question": "Sie ist wirklich sehr ___.",
+  "answer": "gesellig"
+},
+{
+  "id": 673,
+  "question": "Das Kind sprach mit einer ___ Stimme.",
+  "answer": "sanft"
+},
+{
+  "id": 674,
+  "question": "Die Tür war ziemlich ___.",
+  "answer": "fest"
+},
+{
+  "id": 675,
+  "question": "Er fühlte sich oft sehr ___, obwohl er viele Freunde hatte.",
+  "answer": "einsam"
+},
+{
+  "id": 676,
+  "question": "Der Raum war sehr ___.",
+  "answer": "geräumig"
+},
+{
+  "id": 677,
+  "question": "Die ___ Momente in seinem Leben waren besonders.",
+  "answer": "besonders"
+},
+{
+  "id": 678,
+  "question": "Die Anweisungen waren sehr ___.",
+  "answer": "spezifisch"
+},
+{
+  "id": 679,
+  "question": "Die Suppe war ziemlich ___.",
+  "answer": "würzig"
+},
+{
+  "id": 680,
+  "question": "Der Ausflug in den Zoo war wirklich sehr ___.",
+  "answer": "großartig"
+},
+{
+  "id": 681,
+  "question": "Seine ___ Fähigkeiten machten ihn im Sport erfolgreich.",
+  "answer": "sportlich"
+},
+{
+  "id": 682,
+  "question": "Die Kuchenstücke sind wirklich sehr ___.",
+  "answer": "quadratisch"
+},
+{
+  "id": 683,
+  "question": "Das Kaugummi klebte ziemlich ___.",
+  "answer": "klebrig"
+},
+{
+  "id": 684,
+  "question": "Die Statue war völlig ___.",
+  "answer": "unbeweglich"
+},
+{
+  "id": 685,
+  "question": "Seine Erklärung klang wirklich sehr ___.",
+  "answer": "merkwürdig"
+},
+{
+  "id": 686,
+  "question": "Seine ___ Willenskraft half ihm durch schwierige Zeiten.",
+  "answer": "stark"
+},
+{
+  "id": 687,
+  "question": "Seine ___ Meinung machte es schwer, mit ihm zu arbeiten.",
+  "answer": "stur"
+},
+{
+  "id": 688,
+  "question": "Seine ___ Kommentare lösten nur Kopfschütteln aus.",
+  "answer": "dämlich"
+},
+{
+  "id": 689,
+  "question": "Seine ___ Antwort machte keinen Sinn.",
+  "answer": "dumm"
+},
+{
+  "id": 690,
+  "question": "Die Bedingungen sind nicht ___ für den Anbau.",
+  "answer": "geeignet"
+},
+{
+  "id": 691,
+  "question": "Das Konzert war wirklich ___.",
+  "answer": "super"
+},
+{
+  "id": 692,
+  "question": "Seine ___ Ansichten beeinflussten seine Entscheidungen.",
+  "answer": "oberflächlich"
+},
+{
+  "id": 693,
+  "question": "Seine ___ Vorstellungen machten ihm Angst.",
+  "answer": "abergläubisch"
+},
+{
+  "id": 694,
+  "question": "Er war ___ über die Überraschung.",
+  "answer": "erstaunt"
+},
+{
+  "id": 695,
+  "question": "Ihre Reaktion auf die Neuigkeiten war wirklich sehr ___.",
+  "answer": "überrascht"
+},
+{
+  "id": 696,
+  "question": "Seine ___ Natur machte es ihm schwer, Menschen zu vertrauen.",
+  "answer": "misstrauisch"
+},
+{
+  "id": 697,
+  "question": "Seine ___ Talente beeindruckten viele Menschen.",
+  "answer": "talentiert"
+},
+{
+  "id": 698,
+  "question": "Die ___ Nachrichten überwältigten ihn.",
+  "answer": "vorübergehend"
+},
+{
+  "id": 699,
+  "question": "Die ___ Situation machte alle besorgt.",
+  "answer": "furchtbar"
+},
+{
+  "id": 700,
+  "question": "Die ___ Suppe war kaum essbar.",
+  "answer": "dick"
+},
+
+{
+  "id": 701,
+  "question": "Die Suppe war viel zu ___.",
+  "answer": "dünn"
+},
+{
+  "id": 702,
+  "question": "Die ___ Wohnung war perfekt für sie.",
+  "answer": "winzig"
+},
+{
+  "id": 703,
+  "question": "Nach der langen Reise waren alle sehr ___.",
+  "answer": "müde"
+},
+{
+  "id": 704,
+  "question": "Die Präsentation war wirklich sehr ___.",
+  "answer": "ermüdend"
+},
+{
+  "id": 705,
+  "question": "Sie gingen ___ ins Kino.",
+  "answer": "zusammen"
+},
+{
+  "id": 706,
+  "question": "Die Schmerzen waren gerade noch ___.",
+  "answer": "erträglich"
+},
+{
+  "id": 707,
+  "question": "Ihre ___ Einstellung half bei der Konfliktlösung.",
+  "answer": "tolerant"
+},
+{
+  "id": 708,
+  "question": "Seine ___ Hingabe zum Projekt war bewundernswert.",
+  "answer": "total"
+},
+{
+  "id": 709,
+  "question": "Die Pflanze ist ___ für Haustiere.",
+  "answer": "giftig"
+},
+{
+  "id": 710,
+  "question": "Die Feier folgte ___ Traditionen.",
+  "answer": "traditionell"
+},
+{
+  "id": 711,
+  "question": "Die Form des Schildes war ___.",
+  "answer": "dreieckig"
+},
+{
+  "id": 712,
+  "question": "Die Nachrichten waren sehr ___.",
+  "answer": "beunruhigend"
+},
+{
+  "id": 713,
+  "question": "Seine ___ Emotionen waren in jeder Aktion spürbar.",
+  "answer": "echt"
+},
+{
+  "id": 714,
+  "question": "Die Kleidung war sehr ___ für die Region.",
+  "answer": "typisch"
+},
+{
+  "id": 715,
+  "question": "Er war ___ für die Aufgabe.",
+  "answer": "unfähig"
+},
+{
+  "id": 716,
+  "question": "Die Hitze war fast ___.",
+  "answer": "unerträglich"
+},
+{
+  "id": 717,
+  "question": "Die ___ Verteilung der Ressourcen war ungerecht.",
+  "answer": "ungerecht"
+},
+{
+  "id": 718,
+  "question": "Seine ___ Situation machte ihn traurig.",
+  "answer": "unglücklich"
+},
+{
+  "id": 719,
+  "question": "Die Gelegenheit, solch eine Erfahrung zu machen, ist ___.",
+  "answer": "einmalig"
+},
+{
+  "id": 720,
+  "question": "Der Künstler ist ___ in der Kunstszene.",
+  "answer": "unbekannt"
+},
+{
+  "id": 721,
+  "question": "Ihre Möglichkeiten sind fast ___.",
+  "answer": "unbeschränkt"
+},
+{
+  "id": 722,
+  "question": "Die Situation war sehr ___.",
+  "answer": "unangenehm"
+},
+{
+  "id": 723,
+  "question": "Die Zukunft ist oft ___.",
+  "answer": "unvorhersehbar"
+},
+{
+  "id": 724,
+  "question": "Seine Argumente waren ___.",
+  "answer": "unhaltbar"
+},
+{
+  "id": 725,
+  "question": "Der Schmuck war wirklich sehr ___.",
+  "answer": "wertvoll"
+},
+{
+  "id": 726,
+  "question": "Die ___ Pflanzenarten machen den Garten interessant.",
+  "answer": "verschiedenartig"
+},
+{
+  "id": 727,
+  "question": "Das Gelände des Parks ist sehr ___.",
+  "answer": "weitläufig"
+},
+{
+  "id": 728,
+  "question": "Der Boden war schlammig und ___.",
+  "answer": "schleimig"
+},
+{
+  "id": 729,
+  "question": "Seine ___ Kommentare waren unangemessen.",
+  "answer": "vulgär"
+},
+{
+  "id": 730,
+  "question": "Die ___ Beziehung machte ihn anfällig.",
+  "answer": "verwundbar"
+},
+{
+  "id": 731,
+  "question": "Ihre ___ Natur zog viele Menschen an.",
+  "answer": "warmherzig"
+},
+{
+  "id": 732,
+  "question": "Seine ___ Versuche führten oft nicht zum Erfolg.",
+  "answer": "schwach"
+},
+{
+  "id": 733,
+  "question": "Das Phänomen ist wirklich sehr ___.",
+  "answer": "seltsam"
+},
+{
+  "id": 734,
+  "question": "Die ___ Gastfreundschaft war beeindruckend.",
+  "answer": "gastfreundlich"
+},
+{
+  "id": 735,
+  "question": "Die ___ Nachrichten hatten positive Auswirkungen.",
+  "answer": "gut"
+},
+{
+  "id": 736,
+  "question": "Der Boden war ___.",
+  "answer": "feucht, nass"
+},
+{
+  "id": 737,
+  "question": "Er ging mit ___ Schuhen in den Regen.",
+  "answer": "nass"
+},
+{
+  "id": 738,
+  "question": "Die ___ Stadt war in Aufruhr.",
+  "answer": "ganz"
+},
+{
+  "id": 739,
+  "question": "Die Straße war ___ und gut beleuchtet.",
+  "answer": "breit"
+},
+{
+  "id": 740,
+  "question": "Die Natur kann manchmal sehr ___ sein.",
+  "answer": "wild"
+},
+{
+  "id": 741,
+  "question": "Der Sonnenuntergang war wirklich ___.",
+  "answer": "wunderbar"
+},
+{
+  "id": 742,
+  "question": "Die Batterien sind ___ und müssen ausgetauscht werden.",
+  "answer": "verbraucht"
+},
+{
+  "id": 743,
+  "question": "Die Eltern waren ___ um ihr Kind.",
+  "answer": "besorgt"
+},
+{
+  "id": 744,
+  "question": "Seine Leistungen waren ___ als erwartet.",
+  "answer": "schlechter"
+},
+{
+  "id": 745,
+  "question": "Der ___ Baum wächst schnell.",
+  "answer": "jung"
+},
+{
+  "id": 746,
+  "question": "Seine Meinung war ___ nicht zu ändern.",
+  "answer": "absolut"
+},
+{
+  "id": 747,
+  "question": "Die ___ Theorie wurde weiter untersucht.",
+  "answer": "ungewöhnlich"
+},
+{
+  "id": 748,
+  "question": "Die ___ Reaktion führte zu Verwirrung.",
+  "answer": "etwa"
+},
+{
+  "id": 749,
+  "question": "Seine ___ Fehlinterpretation führte zu einem Missverständnis.",
+  "answer": "versehentlich"
+},
+{
+  "id": 750,
+  "question": "Die ___ Teilnahme an den Aktivitäten war beeindruckend.",
+  "answer": "aktiv"
+},
+{
+  "id": 751,
+  "question": "Ich treffe dich ___ dem Mittagessen.",
+  "answer": "nach"
+},
+{
+  "id": 752,
+  "question": "Die Bäume im Herbst sind ___ ohne ihre Blätter.",
+  "answer": "fast"
+},
+{
+  "id": 753,
+  "question": "Ihre Entscheidung war ___ mutig wie seine.",
+  "answer": "ebenso"
+},
+{
+  "id": 754,
+  "question": "Ich denke ___ an dich.",
+  "answer": "immer"
+},
+{
+  "id": 755,
+  "question": "Du kannst mich ___ erreichen.",
+  "answer": "jederzeit"
+},
+{
+  "id": 756,
+  "question": "Wir können das Problem ___ lösen.",
+  "answer": "irgendwo"
+},
+{
+  "id": 757,
+  "question": "Die Antwort war ___.",
+  "answer": "anscheinend"
+},
+{
+  "id": 758,
+  "question": "Die ___ genaue Antwort war schwer zu finden.",
+  "answer": "annähernd"
+},
+{
+  "id": 759,
+  "question": "Das Gerät hat eine ___ Funktion.",
+  "answer": "automatisch"
+},
+{
+  "id": 760,
+  "question": "Die ___ kann eine Herausforderung sein.",
+  "answer": "Blindheit"
+},
+{
+  "id": 761,
+  "question": "Der Text ist ___ und leicht verständlich.",
+  "answer": "kurz"
+},
+{
+  "id": 762,
+  "question": "Die Umgebung war sehr ___.",
+  "answer": "ruhig"
+},
+{
+  "id": 763,
+  "question": "Seine ___ Beobachtung führte zu einem wichtigen Fund.",
+  "answer": "aufmerksam"
+},
+{
+  "id": 764,
+  "question": "In dieser Situation ist es wichtig, ___ zu sein.",
+  "answer": "vorsichtig"
+},
+{
+  "id": 765,
+  "question": "Die ___ Richtlinien sollten befolgt werden.",
+  "answer": "sicher"
+},
+{
+  "id": 766,
+  "question": "Seine ___ Antwort brachte Klarheit in die Diskussion.",
+  "answer": "eindeutig"
+},
+{
+  "id": 767,
+  "question": "Das Sofa ist sehr ___.",
+  "answer": "bequem"
+},
+{
+  "id": 768,
+  "question": "Sie sprach ___ Deutsch und Englisch.",
+  "answer": "fließend"
+},
+{
+  "id": 769,
+  "question": "Die Gläser sind ___ leer.",
+  "answer": "völlig"
+},
+{
+  "id": 770,
+  "question": "Die Maschine arbeitet ___ und ohne Pause.",
+  "answer": "ständig"
+},
+{
+  "id": 771,
+  "question": "Die Antwort auf die Frage war ___.",
+  "answer": "richtig"
+},
+{
+  "id": 772,
+  "question": "Seine ___ Entscheidung beeindruckte alle.",
+  "answer": "mutig"
+},
+{
+  "id": 773,
+  "question": "___ ging sie zur Tür.",
+  "answer": "merkwürdigerweise"
+},
+{
+  "id": 774,
+  "question": "Er wird ___ wiederkommen.",
+  "answer": "derzeit"
+},
+{
+  "id": 775,
+  "question": "Die ___ Zutaten verliehen dem Gericht besonderen Geschmack.",
+  "answer": "extra"
+},
+{
+  "id": 776,
+  "question": "Er ging mit ___ Händen vor, um das fragile Objekt zu berühren.",
+  "answer": "behutsam"
+},
+{
+  "id": 777,
+  "question": "Sie war ___ um ihr Kind.",
+  "answer": "verzweifelt"
+},
+{
+  "id": 778,
+  "question": "Die ___ Aufgabe wurde erfolgreich abgeschlossen.",
+  "answer": "leicht"
+},
+{
+  "id": 779,
+  "question": "Er fand seinen Schlüssel ___.",
+  "answer": "woanders"
+},
+{
+  "id": 780,
+  "question": "Die ___ Anstrengungen führten zum Erfolg.",
+  "answer": "sehr"
+},
+{
+  "id": 781,
+  "question": "Die Situation war ___ kompliziert.",
+  "answer": "ziemlich"
+},
+{
+  "id": 782,
+  "question": "Das Problem tritt ___ auf.",
+  "answer": "überall"
+},
+{
+  "id": 783,
+  "question": "Die Anweisungen waren ___.",
+  "answer": "genau"
+},
+{
+  "id": 784,
+  "question": "___ gehe ich ins Kino.",
+  "answer": "ausnahmsweise"
+},
+{
+  "id": 785,
+  "question": "Das Essen war ___ lecker.",
+  "answer": "sehr"
+},
+{
+  "id": 786,
+  "question": "Die Präsentation war ___.",
+  "answer": "schließlich"
+},
+{
+  "id": 787,
+  "question": "___ möchte ich meine Familie besuchen.",
+  "answer": "erstens"
+},
+{
+  "id": 788,
+  "question": "Er war in seiner Jugend sehr ___.",
+  "answer": "früher"
+},
+{
+  "id": 789,
+  "question": "___ war der Geburtstag meiner Schwester.",
+  "answer": "glücklicherweise"
+},
+{
+  "id": 790,
+  "question": "Sie ist ___ über ihre Erfahrungen gesprochen.",
+  "answer": "offen"
+},
+{
+  "id": 791,
+  "question": "Die Vögel fliegen ___ über den Himmel.",
+  "answer": "frei"
+},
+{
+  "id": 792,
+  "question": "Der Koffer ist wirklich ___.",
+  "answer": "schwer"
+},
+{
+  "id": 793,
+  "question": "Seine ___ Worte waren erfrischend.",
+  "answer": "ehrlich"
+},
+{
+  "id": 794,
+  "question": "Bitte rufen Sie mich ___ an.",
+  "answer": "sofort"
+},
+{
+  "id": 795,
+  "question": "Die Party endete ___ spät.",
+  "answer": "zuletzt"
+},
+{
+  "id": 796,
+  "question": "Die Wanderung dauerte ___ als erwartet.",
+  "answer": "lange"
+},
+{
+  "id": 797,
+  "question": "Das Konzert war ___.",
+  "answer": "laut"
+},
+{
+  "id": 798,
+  "question": "Es gibt ___ Anfragen für das Produkt.",
+  "answer": "immer mehr"
+},
+{
+  "id": 799,
+  "question": "Die Box enthielt ___ Überraschungen.",
+  "answer": "viel"
+},
+{
+  "id": 800,
+  "question": "Seine Antwort war ___.",
+  "answer": "stumm"
+}
+  ]
+  
