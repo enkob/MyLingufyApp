@@ -1,5 +1,6 @@
 # MyLingufyApp
 Developed a mobile language learning app to help users improve their language skills.
+To get deeper insights about the app, please read lingufyApp.pdf file within the project doc.
 
 Welcome to the German Language Learning App repository! This project is designed to help users improve their German language skills in an engaging and effective way.
 
