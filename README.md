@@ -53,6 +53,6 @@ This project is licensed under the [MIT License](LICENSE), which means you are f
 
 ## Contact
 
-If you have any questions, feedback, or suggestions, please feel free to contact us at enis.bilaloglu@hotmail.com.
+If you have any questions, feedback, or suggestions, please feel free to contact us at enis.bilalogluu@hotmail.com.
 
 Happy learning!
